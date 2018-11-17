@@ -12,6 +12,15 @@
 # 集 Vue3+ & Vue-CLI3+ 开发生态圈和填坑姿态 
 
 
+__关于旧版本__
+
+Vue CLI 的包名称由 vue-cli 改成了 @vue/cli。 如果你已经全局安装了旧版本的 vue-cli (1.x 或 2.x)，你需要先通过 npm uninstall vue-cli -g 或 yarn global remove vue-cli 卸载它。
+
+__Node 版本要求__
+
+Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nvm 或 nvm-windows 在同一台电脑中管理多个 Node 版本。
+
+
 ### 十一月，天寒之时必封初冬
 
 #### 1、[Vue CLI 3搭建vue+vuex 最全分析](https://yq.aliyun.com/articles/646152)
