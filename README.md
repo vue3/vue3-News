@@ -17,7 +17,7 @@
 #### 1、[Vue CLI 3搭建vue+vuex 最全分析](https://yq.aliyun.com/articles/646152)
 > 介绍 Vue CLI 是一个基于 Vue.js 进行快速开发的完整系统。有三个组件： CLI：@vue/cli 全局安装的 npm 包，提供了终端里的vue命令（如：vue create 、vue serve 、vue ui 等命令） CLI 服务：@vue/cli-service是一个开发环境依赖。
 
-#### 2、[ue.js 2 vs Vue.js 3的实现](https://www.cnblogs.com/wwhhq/p/8196251.html)  
+#### 2、[Vue.js 2 vs Vue.js 3的实现](https://www.cnblogs.com/wwhhq/p/8196251.html)  
 > vue.js核心团队已经讨论过将在Vue3实现的变化。虽然API不会改变，但是数据响应机制（译者注：对数据改变的监听和通知）发生了变化。这意味着什么呢，同时它对你意味着什么呢？
 
 #### 3、[vue3.0快速创建项目](https://blog.csdn.net/xuqipeter/article/details/80452271)  
