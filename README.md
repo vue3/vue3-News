@@ -20,6 +20,16 @@ __Node 版本要求__
 
 Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nvm 或 nvm-windows 在同一台电脑中管理多个 Node 版本。
 
+### 不要叫我达芬奇
+
+* [Vue CLI 3 项目构建基础](http://blog.poetries.top/2019/06/01/vue-cli3/)  
+* [你了解vue3.0响应式数据怎么实现吗？](https://juejin.im/post/5cf8b51ae51d45590a445b0d)  
+* [模拟 vue3.0 rfcs `createComponent` api 中的`props`类型推导](https://segmentfault.com/a/1190000019457171)  
+* [Vue-cli 3.5.1 + Webstorm 使用手机访问演示页面](https://segmentfault.com/a/1190000018531202)  
+* [用vue3公开的思路从0实现最简化的vue](https://juejin.im/post/5cbc7a06f265da03587bfad0)  
+* [在 WebStorm 中，配置能够识别 Vue CLI 3 创建的项目的别名 alias @](https://juejin.im/post/5c9477ad6fb9a070ce31b050)  
+* [配置一个vue3.0项目](https://juejin.im/post/5cc18abdf265da039e1ff5fb)  
+* [快速上手最新的 Vue CLI 3](https://segmentfault.com/a/1190000018989241)  
 
 ### 十一月，天寒之时必封初冬
 
