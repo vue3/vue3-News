@@ -22,6 +22,10 @@ Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nv
 
 ### 不要叫我达芬奇
 
+2019  
+
+* [为vue3学点typescript(1), 体验typescript](https://segmentfault.com/a/1190000019631849)  
+* [为vue3学点typescript, 基础类型和入门高级类型](https://segmentfault.com/a/1190000019641913)  
 * [Vue CLI 3 项目构建基础](http://blog.poetries.top/2019/06/01/vue-cli3/)  
 * [你了解vue3.0响应式数据怎么实现吗？](https://juejin.im/post/5cf8b51ae51d45590a445b0d)  
 * [模拟 vue3.0 rfcs `createComponent` api 中的`props`类型推导](https://segmentfault.com/a/1190000019457171)  
@@ -31,7 +35,7 @@ Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nv
 * [配置一个vue3.0项目](https://juejin.im/post/5cc18abdf265da039e1ff5fb)  
 * [快速上手最新的 Vue CLI 3](https://segmentfault.com/a/1190000018989241)  
 
-### 十一月，天寒之时必封初冬
+### 天寒之时必封初冬
 
 #### 1、[Vue CLI 3搭建vue+vuex 最全分析](https://yq.aliyun.com/articles/646152)
 > 介绍 Vue CLI 是一个基于 Vue.js 进行快速开发的完整系统。有三个组件： CLI：@vue/cli 全局安装的 npm 包，提供了终端里的vue命令（如：vue create 、vue serve 、vue ui 等命令） CLI 服务：@vue/cli-service是一个开发环境依赖。
