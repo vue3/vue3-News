@@ -22,10 +22,19 @@ Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nv
 
 ### 不要叫我达芬奇
 
-2019  
+2019.01-2019.07    
 
+* [尤雨溪大大在 6 月 4 日的 Vue3.0 的技术分享](https://segmentfault.com/a/1190000019391756)  
+* [你了解vue3.0响应式数据怎么实现吗？](https://juejin.im/post/5cf8b51ae51d45590a445b0d)  
+* [Vue 3.0前的 TypeScript 最佳入门实践](https://mp.weixin.qq.com/s?__biz=MzI1NDU3NzM5Mg==&mid=2247483764&idx=1&sn=df7dbf5c4e910a6e1893a0b57b0dd727)  
+* [Vue 3.0 的重大改动暴露了哪些问题](https://juejin.im/post/5d03140a5188253d592e070e)  
+* [尤雨溪关于VUE3.0进展的重磅分享](https://mp.weixin.qq.com/s?__biz=Mzg2NDAzMjE5NQ==&mid=2247484394&idx=1&sn=9d929ffcc9172a102f1718926e721123)  
+* [提前使用Vue 3.0新特性，vue-function-api尝鲜](https://juejin.im/post/5d1705e65188255ca21e607e)  
 * [为vue3学点typescript(1), 体验typescript](https://segmentfault.com/a/1190000019631849)  
+* [精读《Vue3.0 Function API》](https://segmentfault.com/a/1190000019625934)  
 * [为vue3学点typescript, 基础类型和入门高级类型](https://segmentfault.com/a/1190000019641913)  
+* [揭秘 Vue 3.0 最具潜力的 API](https://mp.weixin.qq.com/s/TwUubgCH0c0tue12CBNTzg)  
+* [面向未来编程，如何在 Vue2 中使用 Vue3 的语法[实践篇]](https://juejin.im/post/5d25b6dde51d45775c73dd70)  
 * [Vue CLI 3 项目构建基础](http://blog.poetries.top/2019/06/01/vue-cli3/)  
 * [你了解vue3.0响应式数据怎么实现吗？](https://juejin.im/post/5cf8b51ae51d45590a445b0d)  
 * [模拟 vue3.0 rfcs `createComponent` api 中的`props`类型推导](https://segmentfault.com/a/1190000019457171)  
@@ -34,6 +43,12 @@ Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nv
 * [在 WebStorm 中，配置能够识别 Vue CLI 3 创建的项目的别名 alias @](https://juejin.im/post/5c9477ad6fb9a070ce31b050)  
 * [配置一个vue3.0项目](https://juejin.im/post/5cc18abdf265da039e1ff5fb)  
 * [快速上手最新的 Vue CLI 3](https://segmentfault.com/a/1190000018989241)  
+
+* [Vue-CLI 3.x 自动部署项目至服务器](https://segmentfault.com/a/1190000018729701)  
+* [Vue-Cli 3.0从0 开始搭建项目（篇1）](https://juejin.im/post/5ccd4580f265da038932a461)  
+* [入手vue-cli 3.x](https://segmentfault.com/a/1190000018833999)  
+* [Vue-cli 3.5.1 + Webstorm 使用手机访问演示页面](https://segmentfault.com/a/1190000018531202)  
+* [关于vue-cli 3配置打包优化要点](https://juejin.im/post/5cbc40ea6fb9a068b65e2aa6)   
 
 ### 天寒之时必封初冬
 
