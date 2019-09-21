@@ -20,6 +20,20 @@ __Node 版本要求__
 
 Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nvm 或 nvm-windows 在同一台电脑中管理多个 Node 版本。
 
+
+### 天王盖地虎, 宝塔镇河妖
+
+* [为vue3学点typescript, 解读高级类型](https://segmentfault.com/a/1190000019925865)  
+* [Vue 3.0：更快、更小、让开发者更轻松](https://juejin.im/post/5d70d03751882554841c4357)  
+* [Vue 3.0 前瞻，体验 Vue Function API](https://segmentfault.com/a/1190000020038527)  
+* [Vue 3.0 之前你必须知道的 TypeScript 实战技巧](https://mp.weixin.qq.com/s/7a7PjKmpMDObGkP_XBEi-Q)  
+* [Vue CLI 3.x 与 2.x的区别](https://juejin.im/post/5d4d2fc3f265da03c23ec246)  
+* [Vue 3.0 RFC API 的实现](https://juejin.im/post/5d54eb45e51d4561c02a251f)  
+* [Vue.js 3：面向未来编程（function-based API）](https://juejin.im/post/5d5623936fb9a06ac824417e)  
+* [来自 Vue 3.0 的 Composition API 尝鲜](https://segmentfault.com/a/1190000020205747)  
+* [vue-cli 3.0脚手架，从入门到放弃（二）](https://juejin.im/post/5d664e5f6fb9a06b317b731f)  
+* [vue-cli 3.0脚手架，从入门到放弃（三）](https://juejin.im/post/5d67a791518825284734623c)  
+
 ### 不要叫我达芬奇
 
 2019.01-2019.07    
