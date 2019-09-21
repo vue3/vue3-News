@@ -23,16 +23,19 @@ Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nv
 
 ### 天王盖地虎, 宝塔镇河妖
 
-* [为vue3学点typescript, 解读高级类型](https://segmentfault.com/a/1190000019925865)  
-* [Vue 3.0：更快、更小、让开发者更轻松](https://juejin.im/post/5d70d03751882554841c4357)  
-* [Vue 3.0 前瞻，体验 Vue Function API](https://segmentfault.com/a/1190000020038527)  
-* [Vue 3.0 之前你必须知道的 TypeScript 实战技巧](https://mp.weixin.qq.com/s/7a7PjKmpMDObGkP_XBEi-Q)  
-* [Vue CLI 3.x 与 2.x的区别](https://juejin.im/post/5d4d2fc3f265da03c23ec246)  
-* [Vue 3.0 RFC API 的实现](https://juejin.im/post/5d54eb45e51d4561c02a251f)  
-* [Vue.js 3：面向未来编程（function-based API）](https://juejin.im/post/5d5623936fb9a06ac824417e)  
-* [来自 Vue 3.0 的 Composition API 尝鲜](https://segmentfault.com/a/1190000020205747)  
-* [vue-cli 3.0脚手架，从入门到放弃（二）](https://juejin.im/post/5d664e5f6fb9a06b317b731f)  
-* [vue-cli 3.0脚手架，从入门到放弃（三）](https://juejin.im/post/5d67a791518825284734623c)  
+|  文章列表标题 |  介绍  |
+|  ----  | ---- |
+|I_am_a_placeholder_placeholder_placeholder|nothing|
+| [为vue3学点typescript, 解读高级类型](https://segmentfault.com/a/1190000019925865)  |  第一课, 体验typescript;<br>第二课, 基础类型和入门高级类型;<br>第三课, 泛型;<br>第四课, 解读高级类型;<br>第五课, 什么是命名空间(namespace); |
+|[Vue 3.0：更快、更小、让开发者更轻松](https://juejin.im/post/5d70d03751882554841c4357)|在11月14日-16日于多伦多举办的 VueConf TO 2018 大会上，尤雨溪发表了名为 “ Vue 3.0 Updates ” 的主题演讲，对 Vue 3.0 的更新计划、方向进行了详细阐述。|
+|[Vue 3.0 前瞻，体验 Vue Function API](https://segmentfault.com/a/1190000020038527)|最近 Vue 官方公布了 Vue 3.0 最重要的RFC：Function-based component API，并发布了兼容 Vue 2.0 版本的 plugin：vue-function-api，可用于提前体验 Vue 3.0 版本的 Function-based component API。笔者出于学习的目的，提前在项目中尝试了vue-function-api。|
+|[Vue 3.0 之前你必须知道的 TypeScript 实战技巧](https://mp.weixin.qq.com/s/7a7PjKmpMDObGkP_XBEi-Q)|很多人对TypeScript的使用还停留在基本操作上,其实TypeScript的特性非常强大,我们利用好这些特性可以有效地提高代码质量、加速开发效率，今天就介绍9个非常实用的TypeScript技巧或者特性.|
+|[Vue CLI 3.x 与 2.x的区别](https://juejin.im/post/5d4d2fc3f265da03c23ec246)|cli3新增模式概念，每个模式在项目中都有对应的配置文件，项目启动时，对应的文件就会加载，与环境变量不同，一个模式可以包括多个环境变量。|
+|[Vue 3.0 RFC API 的实现](https://juejin.im/post/5d54eb45e51d4561c02a251f)|Vue3.0 的 RFC 已经发布了几个月了，Vue 底层几乎没有变动，还是沿用原来响应式的。所以一直在思考能不能使用现在的版本，实现 RFC 中的 API，直到看到了 Vue Function API 这个库，这个库让开发者提前尝鲜到了RFC 中的 API，当然作为 RFC，所以最终 3.0 的 API 还是未知的，以及底层的实现也还未知。|
+|[Vue.js 3：面向未来编程（function-based API）](https://juejin.im/post/5d5623936fb9a06ac824417e)|如果你在使用 Vue.js，那么可能知道这个框架的第 3 版就要出来了（如果你是在本篇文章发布后的一段时间看到这段话的话，我希望我的说法还是中肯的😉）。新版本目前正在积极开发中，所以可能要加入的特性都可以在官方的 RFC（request for comments）仓库中看到：github.com/vuejs/rfcs 。其中有一个特性 function-api，将会在很大程度上影响我们未来 Vue 项目的编写方式。|
+|[来自 Vue 3.0 的 Composition API 尝鲜](https://segmentfault.com/a/1190000020205747)|前段时间，Vue 官方释出了 Composition API RFC 的文档，我也在收到消息的第一时间上手尝鲜。虽然 Vue 3.0 尚未发布，但是其处于 RFC 阶段的 Composition API 已经可以通过插件 @vue/composition-api 进行体验了。接下来的内容我将以构建一个 TODO LIST 应用来体验 Composition API 的用法。|
+|[vue-cli 3.0脚手架，从入门到放弃（二）](https://juejin.im/post/5d664e5f6fb9a06b317b731f)|想写好代码，和用好一个工具是离不开的， 一般我们使用的工具有 HuilderX,sublimetext3，vscode，webstorm等，个人目前使用的是hb，和vscode，可以根据个人爱好各自选择，但一定要熟练。|
+|[vue-cli 3.0脚手架，从入门到放弃（三）](https://juejin.im/post/5d67a791518825284734623c)|来总结下流程， 从我们npm run serve 开始，打开 localhost:8080 端口，首先会加载index.html。然后去app.vue 里查找路由组件，这是会调动 router.js里的配置，选择首先要打开哪个文件，找到我们的那个 path：'/'的页面，浏览器显示。完成。|
 
 ### 不要叫我达芬奇
 
