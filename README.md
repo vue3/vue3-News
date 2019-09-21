@@ -43,7 +43,6 @@ Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nv
 * [在 WebStorm 中，配置能够识别 Vue CLI 3 创建的项目的别名 alias @](https://juejin.im/post/5c9477ad6fb9a070ce31b050)  
 * [配置一个vue3.0项目](https://juejin.im/post/5cc18abdf265da039e1ff5fb)  
 * [快速上手最新的 Vue CLI 3](https://segmentfault.com/a/1190000018989241)  
-
 * [Vue-CLI 3.x 自动部署项目至服务器](https://segmentfault.com/a/1190000018729701)  
 * [Vue-Cli 3.0从0 开始搭建项目（篇1）](https://juejin.im/post/5ccd4580f265da038932a461)  
 * [入手vue-cli 3.x](https://segmentfault.com/a/1190000018833999)  
