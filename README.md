@@ -20,6 +20,17 @@ __Node 版本要求__
 
 Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nvm 或 nvm-windows 在同一台电脑中管理多个 Node 版本。
 
+### 最新资讯(源码开放)
+
+* [Vue 3 源码开放，今天你学习了吗？](https://segmentfault.com/a/1190000020598857)  
+* [Vue 3.0 源码开放，看看都有哪些新特性](https://zhuanlan.zhihu.com/p/85343099)  
+* [Vue3 watch函数执行过程](https://juejin.im/post/5d99b5fb5188257377312c82)  
+* [Vue 3 原理剖析：数据响应系统](https://juejin.im/post/5d996e3e6fb9a04e3043cc5b)  
+* [Vue3.x源码调试](https://juejin.im/post/5d99d9a0f265da5b8601264c)  
+* [Vue3.0 中的数据侦测](https://juejin.im/post/5d99be7c6fb9a04e1e7baa34)  
+* [使用 Proxy 实现 Vue.js 3 中的响应式思想](https://juejin.im/post/5d9ae2415188256eee1639e3)  
+* [Vue 3.0 最新进展：Composition API](https://juejin.im/post/5d836458f265da03d871f6e9)  
+* [公布了尚处于 Pre-Alpha 状态的 Vue 3 源码](https://www.oschina.net/news/110356/vuejs-v3-pre-alpha-released)  
 
 ### 天王盖地虎, 宝塔镇河妖
 
