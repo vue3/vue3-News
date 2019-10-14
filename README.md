@@ -131,4 +131,10 @@ Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nv
 #### 13、[重磅！尤雨溪发布Vue 3.0开发路线](https://www.toutiao.com/a6607650510172324365/)
 > 在上周的 Vue.js 伦敦大会上，尤雨溪简要介绍了 Vue 下一个主要版本要发布的内容，9 月 30 日，尤雨溪在 medium 个人博客上发布了 Vue 3.0 的开发路线，全文如下
 
+## 卖艺不卖身
 
+博学之，审问之，慎思之，明辨之，笃行之。
+
+## License
+
+Released under the MIT License.
