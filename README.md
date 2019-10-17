@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
 </p>
 
-# 集 Vue3+ & Vue-CLI3+ 开发生态圈和填坑姿态 
+# Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 
 __关于旧版本__
