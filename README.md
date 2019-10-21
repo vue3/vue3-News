@@ -12,7 +12,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀欢迎`Star`，后续会不断更新。  
-🇨🇳最后更新日期：2️⃣0️⃣1️⃣9️⃣➖1️⃣0️⃣➖1️⃣8️⃣
+🇨🇳最后更新日期：2️⃣0️⃣1️⃣9️⃣➖1️⃣0️⃣➖2️⃣1️⃣
 
 __关于旧版本__
 
@@ -30,6 +30,9 @@ __Vue 3.0 源代码__
 
 ### 最新资讯(源码开放)
 
+* [Vue3数据驱动源码解读](https://juejin.im/post/5da9049c518825502a445a53)  
+* [看vue3源码可以学到什么 : 一 、README](https://juejin.im/post/5dab12996fb9a04e247c9e8a)  
+* [你为什么看不懂源码之Vue 3.0 囊中取物](https://juejin.im/post/5daa195de51d4524a131b359)  
 * [Vue 3 源码开放，今天你学习了吗？](https://segmentfault.com/a/1190000020598857)  
 * [Vue 3.0 源码开放，看看都有哪些新特性](https://zhuanlan.zhihu.com/p/85343099)  
 * [Vue 3.0 公开代码之后……](https://mp.weixin.qq.com/s/_9XaMyAv0NjJRvwKEEleuw)  
