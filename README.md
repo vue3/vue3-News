@@ -14,6 +14,9 @@
 🚀欢迎`Star`，后续会不断更新。  
 🇨🇳最后更新日期：2️⃣0️⃣1️⃣9️⃣➖1️⃣0️⃣➖2️⃣1️⃣
 
+除了单独Vue3资讯，欢迎查看更多vue.js资讯：【[【🔥Vue.js资讯📚】目前web前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
+
+
 __关于旧版本__
 
 Vue CLI 的包名称由 vue-cli 改成了 @vue/cli。 如果你已经全局安装了旧版本的 vue-cli (1.x 或 2.x)，你需要先通过 npm uninstall vue-cli -g 或 yarn global remove vue-cli 卸载它。
