@@ -16,6 +16,13 @@
 
 除了单独Vue3资讯，欢迎查看更多vue.js资讯：【[【🔥Vue.js资讯📚】目前web前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
 
+## 目录
+
+- [最新资讯-源码开放](#最新资讯-源码开放)
+- [英文资料](#英文资料)
+- [2019年中旬](#2019年中旬)
+- [2019年上旬](#2019年上旬)
+- [18年预告](#18年预告)
 
 __关于旧版本__
 
@@ -31,7 +38,7 @@ __Vue 3.0 源代码__
 之前，就有预言，除了性能优化、脚手架和新功能外，TypeScript绝对是一个重点，因此，在Vue 3.0源代码版本中，98%代码由Typescript编写，相信后面会是100%。  
 通过本次发布的源代码可以了解到针对 Vue 3 计划并已实现的主要架构改进和新功能。
 
-### 最新资讯(源码开放)
+### 最新资讯-源码开放
 
 * [从WebPack 4.X 到 Vue-Cli 3.X 一篇就够](https://juejin.im/post/5dab320851882565f7660c5e)  
 * [从vue2.0响应数据到vue3.0响应数据](https://juejin.im/post/5dac69bf5188252b51183982)  
@@ -80,7 +87,9 @@ __Vue 3.0 源代码__
 * [10 Tips & Tricks to make you a better VueJS Developer](https://dev.to/simonholdorf/10-tips-tricks-to-make-you-a-better-vuejs-developer-4n4d)
 * [9 Projects you can do to become a Frontend Master in 2020](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
 
-### 天王盖地虎, 宝塔镇河妖
+### 2019年中旬
+
+天王盖地虎, 宝塔镇河妖
 
 |  文章列表标题 |  介绍  |
 |  ----  | ---- |
@@ -96,7 +105,9 @@ __Vue 3.0 源代码__
 |[vue-cli 3.0脚手架，从入门到放弃（二）](https://juejin.im/post/5d664e5f6fb9a06b317b731f)|想写好代码，和用好一个工具是离不开的， 一般我们使用的工具有 HuilderX,sublimetext3，vscode，webstorm等，个人目前使用的是hb，和vscode，可以根据个人爱好各自选择，但一定要熟练。|
 |[vue-cli 3.0脚手架，从入门到放弃（三）](https://juejin.im/post/5d67a791518825284734623c)|来总结下流程， 从我们npm run serve 开始，打开 localhost:8080 端口，首先会加载index.html。然后去app.vue 里查找路由组件，这是会调动 router.js里的配置，选择首先要打开哪个文件，找到我们的那个 path：'/'的页面，浏览器显示。完成。|
 
-### 不要叫我达芬奇
+### 2019年上旬
+
+不要叫我达芬奇
 
 2019.01-2019.07    
 
@@ -125,7 +136,9 @@ __Vue 3.0 源代码__
 * [Vue-cli 3.5.1 + Webstorm 使用手机访问演示页面](https://segmentfault.com/a/1190000018531202)  
 * [关于vue-cli 3配置打包优化要点](https://juejin.im/post/5cbc40ea6fb9a068b65e2aa6)   
 
-### 天寒之时必封初冬
+### 18年预告
+
+天寒之时必封初冬
 
 #### 1、[Vue CLI 3搭建vue+vuex 最全分析](https://yq.aliyun.com/articles/646152)
 > 介绍 Vue CLI 是一个基于 Vue.js 进行快速开发的完整系统。有三个组件： CLI：@vue/cli 全局安装的 npm 包，提供了终端里的vue命令（如：vue create 、vue serve 、vue ui 等命令） CLI 服务：@vue/cli-service是一个开发环境依赖。
