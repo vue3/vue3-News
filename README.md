@@ -33,7 +33,6 @@ __Vue 3.0 源代码__
 
 ### 最新资讯(源码开放)
 
-* [Thought on Vue 3 Composition API - `reactive()` considered harmful](https://dev.to/ycmjason/thought-on-vue-3-composition-api-reactive-considered-harmful-j8c)
 * [从WebPack 4.X 到 Vue-Cli 3.X 一篇就够](https://juejin.im/post/5dab320851882565f7660c5e)  
 * [从vue2.0响应数据到vue3.0响应数据](https://juejin.im/post/5dac69bf5188252b51183982)  
 * [Vue 3.0 源码逐行解析（一）：响应式模块（1）](https://juejin.im/post/5da91fcff265da5b852928e1)  
@@ -67,6 +66,19 @@ __Vue 3.0 源代码__
 * [使用 Proxy 实现 Vue.js 3 中的响应式思想](https://juejin.im/post/5d9ae2415188256eee1639e3)  
 * [Vue 3.0 最新进展：Composition API](https://juejin.im/post/5d836458f265da03d871f6e9)  
 * [公布了尚处于 Pre-Alpha 状态的 Vue 3 源码](https://www.oschina.net/news/110356/vuejs-v3-pre-alpha-released)  
+
+### 英文资料
+
+* [A Vue.js app demonstarting various use cases for the new composition API](https://github.com/LinusBorg/composition-api-demos)
+* [Why the Composition API - Vue 3 Essentials – Vue Mastery](https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/)
+* [Vue 3 – A roundup of infos about the new version of Vue.js - Made with Vue.js](https://madewithvuejs.com/blog/vue-3-roundup)
+* [GitHub - LinusBorg/composition-api-demos: A Vue.js app demonstarting various use cases for the new composition API](https://github.com/LinusBorg/composition-api-demos)
+* [Thought on Vue 3 Composition API - `reactive()` considered harmful](https://dev.to/ycmjason/thought-on-vue-3-composition-api-reactive-considered-harmful-j8c)
+* [Architecting HTTP clients in Vue.js applications for efficient network communication](https://dev.to/localeai/architecting-http-clients-in-vue-js-applications-for-effective-network-communication-1eec)
+* [10 Free resources to kickoff your career as a Vue Developer](https://dev.to/simonholdorf/10-free-resources-to-kickoff-your-career-as-a-vue-developer-4mg2)
+* [10 Vue Directives that make your dev lives easier!](https://dev.to/simonholdorf/10-vue-directives-that-make-your-dev-lives-easier-5dm7)
+* [10 Tips & Tricks to make you a better VueJS Developer](https://dev.to/simonholdorf/10-tips-tricks-to-make-you-a-better-vuejs-developer-4n4d)
+* [9 Projects you can do to become a Frontend Master in 2020](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
 
 ### 天王盖地虎, 宝塔镇河妖
 
