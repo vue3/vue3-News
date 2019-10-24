@@ -12,7 +12,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀欢迎`Star`，后续会不断更新。  
-🇨🇳最后更新日期：2️⃣0️⃣1️⃣9️⃣`/`1️⃣0️⃣`/`2️⃣2️⃣
+🇨🇳最后更新日期：2️⃣0️⃣1️⃣9️⃣`/`1️⃣0️⃣`/`2️⃣4️⃣ 
 
 除了单独Vue3资讯，欢迎查看更多vue.js资讯：【[【🔥Vue.js资讯📚】目前web前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
 
@@ -40,6 +40,11 @@ __Vue 3.0 源代码__
 
 ## 最新资讯-源码开放
 
+* [vue_cli3.x 跨域访问](https://learnku.com/articles/28813)
+* [【译】Vue.js 3: 面向未来编程](https://juejin.im/post/5d4faef0e51d45621479acba)
+* [全面改革：解读 Vue 3.0 的变化](https://zhuanlan.zhihu.com/p/46269528)
+* [基于vue3 function-based 构建cnode社区](https://github.com/xjh22222228/vue-cnode)
+* [vue3.0后台管理框架基于typescript（支持pc\手机,抖音rank数据分析、Tiktok数据) ](https://github.com/calvin008/weimumu-admin-web)
 * [从WebPack 4.X 到 Vue-Cli 3.X 一篇就够](https://juejin.im/post/5dab320851882565f7660c5e)  
 * [从vue2.0响应数据到vue3.0响应数据](https://juejin.im/post/5dac69bf5188252b51183982)  
 * [Vue 3.0 源码逐行解析（一）：响应式模块（1）](https://juejin.im/post/5da91fcff265da5b852928e1)  
@@ -76,6 +81,9 @@ __Vue 3.0 源代码__
 
 ## 英文资料
 
+* [What's New in vue-styleguidist 3.0](https://alligator.io/vuejs/vue-styleguidist-3/)
+* [Hooks are coming to Vue.js version 3.0](https://blog.logrocket.com/hooks-are-coming-to-vue/)
+* [what does vue 3 0 mean for web development](https://medium.com/@mattmaribojoc/what-does-vue-3-0-mean-for-web-development-851052fc0138)
 * [A Vue.js app demonstarting various use cases for the new composition API](https://github.com/LinusBorg/composition-api-demos)
 * [Why the Composition API - Vue 3 Essentials – Vue Mastery](https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/)
 * [Vue 3 – A roundup of infos about the new version of Vue.js - Made with Vue.js](https://madewithvuejs.com/blog/vue-3-roundup)
