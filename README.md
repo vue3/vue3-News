@@ -19,8 +19,8 @@
 ## 目录
 
 - [最新资讯-源码开放](#最新资讯-源码开放)
-- [英文资料](#英文资料)
 - [Vue 3 Cheat Sheet](#Vue3-CheatSheet)
+- [英文资料](#英文资料)
 - [2019年中旬](#2019年中旬)
 - [2019年上旬](#2019年上旬)
 - [2018年预告](#2018年预告)
@@ -54,6 +54,14 @@ __🦃关于TypeScript__
 ...  
 
 哈哈哈，并不是，是因为都已经9012了，大公司和你们都在用。
+
+## Vue3-CheatSheet
+
+由 Vue Mastery 网站归纳的 Vue 3 Cheat Sheet 直观的概况了其主要特性。
+
+|  Vue3-CheatSheet |  Vue3-CheatSheet  |
+|  ----  | ---- |
+|![](./asset/Vue3-CheatSheet01.jpeg)|![](./asset/Vue3-CheatSheet02.jpeg)|
 
 ## 最新资讯-源码开放
 
@@ -111,14 +119,6 @@ __🦃关于TypeScript__
 * [10 Vue Directives that make your dev lives easier!](https://dev.to/simonholdorf/10-vue-directives-that-make-your-dev-lives-easier-5dm7)
 * [10 Tips & Tricks to make you a better VueJS Developer](https://dev.to/simonholdorf/10-tips-tricks-to-make-you-a-better-vuejs-developer-4n4d)
 * [9 Projects you can do to become a Frontend Master in 2020](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
-
-## Vue3-CheatSheet
-
-由 Vue Mastery 网站归纳的 Vue 3 Cheat Sheet 直观的概况了其主要特性。
-
-|  Vue3-CheatSheet |  Vue3-CheatSheet  |
-|  ----  | ---- |
-|![](./asset/Vue3-CheatSheet01.jpeg)|![](./asset/Vue3-CheatSheet02.jpeg)|
 
 ## 2019年中旬
 
