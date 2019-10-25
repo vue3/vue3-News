@@ -57,11 +57,11 @@ __🦃关于TypeScript__
 
 ## Vue3-CheatSheet
 
-由 Vue Mastery 网站归纳的 Vue 3 Cheat Sheet 直观的概况了其主要特性。
+由 Vue Mastery 网站归纳的 Vue 3 Cheat Sheet， 直观地概况了其主要特性。
 
-|  Vue3-CheatSheet |  Vue3-CheatSheet  |
+|  Vue3 Cheat Sheet |  Vue3 Cheat Sheet  |
 |  ----  | ---- |
-|![](./asset/Vue3-CheatSheet01.jpeg)|![](./asset/Vue3-CheatSheet02.jpeg)|
+|![](./asset/Vue3-CheatSheet02.jpeg)|![](./asset/Vue3-CheatSheet01.jpeg)|
 
 ## 最新资讯-源码开放
 
