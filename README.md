@@ -24,21 +24,21 @@
 - [2019年上旬](#2019年上旬)
 - [2018年预告](#2018年预告)
 
-__关于旧版本__
+__🐣 关于旧版本__
 
 Vue CLI 的包名称由 vue-cli 改成了 @vue/cli。 如果你已经全局安装了旧版本的 vue-cli (1.x 或 2.x)，你需要先通过 npm uninstall vue-cli -g 或 yarn global remove vue-cli 卸载它。
 
-__Node 版本要求__
+__🐥Node 版本要求__
 
 Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nvm 或 nvm-windows 在同一台电脑中管理多个 Node 版本。
 
-__Vue 3.0 源代码__
+__🐓Vue 3.0 源代码__
 
 当大多数国人还在庆祝国庆节的时候，尤雨溪大大在昨天凌晨发布了 Vue 3.0 源代码，源码地址：https://github.com/vuejs/vue-next 。虽然目前还 处于 Pre-Alpha 版本，但是可以预见后面的 Alpha、Beta 等版本应该不会太遥远。  
 之前，就有预言，除了性能优化、脚手架和新功能外，TypeScript绝对是一个重点，因此，在Vue 3.0源代码版本中，98%代码由Typescript编写，相信后面会是100%。  
 通过本次发布的源代码可以了解到针对 Vue 3 计划并已实现的主要架构改进和新功能。
 
-__关于TypeScript__
+__🦃关于TypeScript__
 
 [【必会】都已经9102年底了，你必须会TypeScript。](https://github.com/vue3/vue3-News/issues/3)
 
