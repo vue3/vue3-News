@@ -12,7 +12,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀欢迎`Star`，后续会不断更新。  
-🇨🇳最后更新日期：2️⃣0️⃣1️⃣9️⃣`/`1️⃣0️⃣`/`2️⃣4️⃣ 
+🇨🇳最后更新日期：2️⃣0️⃣1️⃣9️⃣`/`1️⃣1️⃣`/`0️⃣4️⃣ 
 
 除了单独Vue3资讯，欢迎查看更多vue.js资讯：【[【🔥Vue.js资讯📚】目前web前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
 
@@ -65,6 +65,14 @@ __🦃关于TypeScript__
 
 ## 最新资讯-源码开放
 
+* [Vue.js 3.x 源码解析先导](https://juejin.im/post/5dafe42451882576534d3858)  
+* [Vue 3 Cheat Sheet 下载（中文版）](https://mp.weixin.qq.com/s/yExhLfBAivNbTbI5oX0h-A)  
+* [vue3响应式源码解析-Effect篇](https://zhuanlan.zhihu.com/p/88385908)  
+* [Vue 3.0 —— Watch 与 Reactivity 代码走读](https://juejin.im/post/5db551ed51882564477b1817)  
+* [Vue3.0数据响应系统分析(主要针对于reactive)](https://juejin.im/post/5db64128f265da4d23758b3c)  
+* [vue3 源码解读之 time slicing](https://zhuanlan.zhihu.com/p/88996118)  
+* [茶余饭后聊聊 Vue3.0 响应式数据那些事儿](https://www.zoo.team/article/vue3)  
+* [Vue3都要上的TypeScript之工程实践](https://juejin.im/post/5dbd5fe36fb9a0208b12058f)  
 * [vue_cli3.x 跨域访问](https://learnku.com/articles/28813)
 * [【译】Vue.js 3: 面向未来编程](https://juejin.im/post/5d4faef0e51d45621479acba)
 * [全面改革：解读 Vue 3.0 的变化](https://zhuanlan.zhihu.com/p/46269528)
