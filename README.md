@@ -2,10 +2,13 @@
   <img src="https://github.com/vue3/vue3-News/raw/master/asset/vue3-news-logo.png" alt="loadable-components" title="loadable-components">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
   <img src="https://img.shields.io/badge/vue-3+-3eaf7c.svg">
   <img src="https://img.shields.io/badge/vueCLI-3+-orange.svg">
   <img src="https://img.shields.io/badge/vue3-UI-ff69b4.svg">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/no__zuo-no__die-ffdd02.svg">
+  <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
   <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
   <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg">
   <img src="https://img.shields.io/badge/daily-up_to_data-4dc622.svg">
