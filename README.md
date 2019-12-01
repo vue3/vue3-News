@@ -17,7 +17,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀欢迎`Star`，后续会不断更新。  
-🇨🇳最后更新日期：2️⃣0️⃣1️⃣9️⃣`/`1️⃣1️⃣`/`2️⃣1️⃣  
+🇨🇳最后更新日期：2️⃣0️⃣1️⃣9️⃣`/`1️⃣1️⃣`/`2️⃣9️⃣  
 
 除了单独Vue3资讯，欢迎查看更多vue.js资讯：【[【🔥Vue.js资讯📚】目前web前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
 
@@ -70,6 +70,7 @@ __🦃关于TypeScript__
 
 ## 最新资讯-源码开放
 
+* [Vue CLI3搭建组件库并实现按需引入实战操作](https://juejin.im/post/5dd234635188254a1f44646a)  
 * [vue 3.0 pre-alpha](https://juejin.im/post/5dca71f8f265da4cef191581)  
 * [为 Vue3  学点 TypeScript, 什么是声明文件(declare)? [全局声明篇]](https://juejin.im/post/5dcbc9e2e51d451bcb39f123)  
 * [Vue 3.0 响应式方法解析](https://juejin.im/post/5dccf61a51882510cc093207)  
