@@ -17,14 +17,16 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀欢迎`Star`，后续会不断更新。  
-🇨🇳最后更新日期：2️⃣0️⃣1️⃣9️⃣`/`1️⃣2️⃣`/`2️⃣2️⃣ 
+🇨🇳最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣1️⃣`/`0️⃣1️⃣ 
+
+【2020】 ≡---------------------------------------- 【2021】
 
 除了单独Vue3资讯，欢迎查看更多vue.js资讯：【[【🔥Vue.js资讯📚】目前web前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
 
 ## 目录
 
 - [Vue 3 Cheat Sheet](#Vue3-CheatSheet)
-- [最新资讯-源码开放](#最新资讯-源码开放)
+- [最新资讯-继续前进╰(*°▽°*)╯](#最新资讯-继续前进╰(*°▽°*)╯)
 - [英文资料](#英文资料)
 - [2019年中旬](#2019年中旬)
 - [2019年上旬](#2019年上旬)
@@ -69,8 +71,14 @@ __🦃关于TypeScript__
 |  ----  | ---- |
 |![](./asset/Vue3-CheatSheet02.jpeg)|![](./asset/Vue3-CheatSheet01.jpeg)|
 
-## 最新资讯-源码开放
+## 最新资讯-继续前进╰(*°▽°*)╯
 
+* [Evan You - What's Coming in Vue.js 3.0 | Full Stack Radio](http://www.fullstackradio.com/129) 
+* [Top ways to learn Vue 3 – Dan Vega](https://www.vuemastery.com/blog/top-ways-to-learn-Vue-3/)
+* [Portal - a new feature in Vue 3 - Filip Rakowski](https://vueschool.io/articles/vuejs-tutorials/portal-a-new-feature-in-vue-3/)  
+* [Access template refs in Composition API in Vue.js 3](https://vuedose.tips/tips/access-template-refs-in-composition-api-in-vuejs-3/)
+* [Use old instance properties in Composition API in Vue.js 3](https://vuedose.tips/tips/)  
+* [Design Principles of Vue 3.0 – Evan You @VueConfTO 2019](https://vuetoronto.com/videos/design-principles-of-vue-3-evan-you/) 
 * [VUE 3.0 API 尝鲜体验](https://juejin.im/post/5dfcc030f265da33d039dda5)  
 * [Vue 3.x 响应式原理——ref源码分析](https://zhuanlan.zhihu.com/p/95010735)  
 * [Vue 3.x 响应式原理——effect源码分析](https://zhuanlan.zhihu.com/p/95012874)  
