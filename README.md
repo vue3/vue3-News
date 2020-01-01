@@ -2,16 +2,13 @@
   <img src="https://github.com/vue3/vue3-News/raw/master/asset/vue3-news-logo.png" alt="loadable-components" title="loadable-components">
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/2020-唯有暴富-red.svg">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/vue-3+-3eaf7c.svg">
   <img src="https://img.shields.io/badge/vueCLI-3+-orange.svg">
   <img src="https://img.shields.io/badge/vue3-UI-ff69b4.svg">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/no__zuo-no__die-ffdd02.svg">
-  <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
   <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
-  <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg">
-  <img src="https://img.shields.io/badge/daily-up_to_data-4dc622.svg">
 </p>
 
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
@@ -26,7 +23,7 @@
 ## 目录
 
 - [Vue 3 Cheat Sheet](#Vue3-CheatSheet)
-- [最新资讯-继续前进╰(*°▽°*)╯](#最新资讯-继续前进╰(*°▽°*)╯)
+- [最新资讯-继续前进╰(*°▽°*)╯](#最新资讯-继续前进)  
 - [英文资料](#英文资料)
 - [2019年中旬](#2019年中旬)
 - [2019年上旬](#2019年上旬)
@@ -251,7 +248,10 @@ __🦃关于TypeScript__
 
 ## 卖艺不卖身
 
-博学之，审问之，慎思之，明辨之，笃行之。
+博学之，审问之，慎思之，明辨之，笃行之。 
+
+作者：[蓝少 (@bluezhan)](https://github.com/bluezhan)
+版权声明：自由转载-非商用-非衍生-保持署名（[创意共享 3.0 许可证](http://creativecommons.org/licenses/by/4.0/)）
 
 ## License
 
