@@ -14,7 +14,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀欢迎`Star`，后续会不断更新。  
-🇨🇳最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣1️⃣`/`0️⃣1️⃣ 
+🇨🇳最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣1️⃣`/`0️⃣5️⃣ 
 
 【2020】 ≡---------------------------------------- 【2021】
 
@@ -70,6 +70,10 @@ __🦃关于TypeScript__
 
 ## 最新资讯-继续前进╰(*°▽°*)╯
 
+* [Vue3 Composition-Api + TypeScript + 新型状态管理模式探索](https://juejin.im/post/5e0da5606fb9a048483ecf64)  
+* [Vue3源码之响应系统Reactive模块解读(干货满满,不容错过~)](https://juejin.im/post/5e0af74be51d4541035450c7)  
+* [从vuecli3学习webpack记录（零）整体流程](https://www.daozhao.com/8809.html)  
+* [Vue3中不止composition-api，其他的提案(RFC)也很精彩](https://juejin.im/post/5e12a2e95188253ab321aa8d)  
 * [Evan You - What's Coming in Vue.js 3.0 | Full Stack Radio](http://www.fullstackradio.com/129) 
 * [Top ways to learn Vue 3 – Dan Vega](https://www.vuemastery.com/blog/top-ways-to-learn-Vue-3/)
 * [Portal - a new feature in Vue 3 - Filip Rakowski](https://vueschool.io/articles/vuejs-tutorials/portal-a-new-feature-in-vue-3/)  
