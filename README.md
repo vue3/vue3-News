@@ -75,13 +75,13 @@ Collection of essential Vue Composition API utils works for Vue 2.x and 3.x http
 
 Collection of essential Vue Composition API (inspired by react-use)
 
-__🚀 Features__
-0 dependencies ⚡ No worry about your bundle size
-Fully tree shakable 🌴 Only take what you want
-Seamless migration 🕶 Works for both Vue 3.x and 2.x
-Browser compatible 🌐 Use it without complex building tools
-Intractive docs & demos 🎪 Check out the Storybook!
-Optional Add-ons 🔌 Firebase, vue-i18n, etc
+__🚀 Features__  
+- 0 dependencies ⚡ No worry about your bundle size  
+- Fully tree shakable 🌴 Only take what you want  
+- Seamless migration 🕶 Works for both Vue 3.x and 2.x  
+- Browser compatible 🌐 Use it without complex building tools  
+- Intractive docs & demos 🎪 Check out the Storybook!  
+- Optional Add-ons 🔌 Firebase, vue-i18n, etc  
 
 
 ## 最新资讯-继续前进╰(*°▽°*)╯
