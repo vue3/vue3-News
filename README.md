@@ -86,6 +86,8 @@ __🚀 Features__
 
 ## 最新资讯-继续前进╰(*°▽°*)╯
 
+* [A dashboard scaffolding based on vue.js created by vuejs/vue-cli 4.x.](https://github.com/zce/dashboard)  
+* [vue-cli4 全面配置(持续更新)](https://github.com/staven630/vue-cli4-config)  
 * [基于vue-cli4脚手架搭建的cesium所踩的坑](https://juejin.im/post/5dea0423f265da33c24fe18a)  
 * [Vue3 尝鲜](https://juejin.im/post/5e13ecbe6fb9a04846508ab2)  
 * [Vue3体验卡～](https://juejin.im/post/5e1451385188253ab54142e9)  
