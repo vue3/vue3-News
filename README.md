@@ -86,6 +86,11 @@ __🚀 Features__
 
 ## 最新资讯-继续前进╰(*°▽°*)╯
 
+* [TypeScript从零实现基于Proxy的响应式库，带你彻底搞懂Vue3的响应式原理](https://juejin.im/post/5e21196fe51d454d523be084)  
+* [带你彻底搞懂Vue3的Proxy响应式原理基于函数劫持实现Map和Set的响应式](https://juejin.im/post/5e23b20f51882510073eb571)  
+* [深度解析：Vue3如何巧妙的实现强大的computed](https://juejin.im/post/5e2fdf29e51d45026866107d)  
+* [重拳出击：打造 Vue3.0 + Typescript + TSX 开(乞)发(丐)模式](https://juejin.im/post/5e32502ae51d450268661152)  
+* [在React中引入Vue3的reactivity分包来实现最强大的状态管理](https://juejin.im/post/5e2d0d016fb9a02fc05da472)  
 * [A dashboard scaffolding based on vue.js created by vuejs/vue-cli 4.x.](https://github.com/zce/dashboard)  
 * [vue-cli4 全面配置(持续更新)](https://github.com/staven630/vue-cli4-config)  
 * [基于vue-cli4脚手架搭建的cesium所踩的坑](https://juejin.im/post/5dea0423f265da33c24fe18a)  
