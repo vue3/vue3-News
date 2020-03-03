@@ -18,6 +18,8 @@
 
 【2020】 ≡≡≡≡≡≡≡--------------------------------- 【2021】
 
+Twitter vue3:  **vue 3 will be available by the end of Q2.**  
+
 除了单独Vue3资讯，欢迎查看更多vue.js资讯：【[【🔥Vue.js资讯📚】目前web前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
 
 ## 目录
@@ -46,6 +48,7 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 __🦃关于TypeScript__
 
+[【2020-Q1-News】TypeScript新鲜一波流，自己品尝？](https://github.com/vue3/vue3-News/issues/6)  
 [【最新】TypeScript梳理知识点列表，可否一战？](https://github.com/vue3/vue3-News/issues/4)  
 [【必会】都已经9102年底了，你必须会TypeScript。](https://github.com/vue3/vue3-News/issues/3)  
 
