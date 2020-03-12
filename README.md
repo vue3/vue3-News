@@ -89,8 +89,9 @@ __🚀 Features__
 
 ## 最新资讯-继续前进╰(*°▽°*)╯
 
+* [Vue3.0尝试](https://juejin.im/post/5e1bc92bf265da3e0640b6b7)  
 * [vue3.0源码速读](https://juejin.im/post/5e4eb264f265da575c16bc14)  
-* [记一次vue-cli3 webpack简单性能优化](http://link.caibaojian.com?url=https://juejin.im/post/5e54c9d06fb9a07cd614d2a0)  
+* [记一次vue-cli3 webpack简单性能优化](https://juejin.im/post/5e54c9d06fb9a07cd614d2a0)  
 * [手摸手带你使用Vue-Cli3搭建前端开发环境](https://segmentfault.com/a/1190000021709647)  
 * [vue2.x+vue-cli3.0地图demo踩过的坑](https://juejin.im/post/5e3f722ee51d4527223e4550)  
 * [用Vue3(Vue-Composition API) 写一个疫情查询小工具](https://juejin.im/post/5e427febe51d45270d530227)  
