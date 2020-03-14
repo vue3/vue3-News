@@ -46,6 +46,11 @@ __🐓Vue 3.0 源代码__
 通过本次发布的源代码可以了解到针对 Vue 3 计划并已实现的主要架构改进和新功能。  
 Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://github.com/vuejs/composition-api  （在 Vue 2 项目中作为插件使用）体验到。
 
+__🐔前端整理之道__
+
+[【整理】前端优化得有个好手段，比如看这个清单🍑🍒🍓🍆🌽](https://github.com/vue3/vue3-News/issues/8)  
+[【整理】前端学习笔记总结清单，应有尽有🍇🍈🍉🍊🍋](https://github.com/vue3/vue3-News/issues/7)  
+
 __🦃关于TypeScript__
 
 [【2020-Q1-News】TypeScript新鲜一波流，自己品尝？](https://github.com/vue3/vue3-News/issues/6)  
