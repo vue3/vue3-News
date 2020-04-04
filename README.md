@@ -52,6 +52,8 @@ __🔥🐔2020前端面试秘籍__
 [【吐血整理清单二】前端面试全攻略，为您保驾护航，金三银四](https://github.com/vue3/vue3-News/issues/10)  
 [【吐血整理清单三】前端面试全攻略，为您保驾护航，金三银四](https://github.com/vue3/vue3-News/issues/11)  
 
+秘籍在手，天下我有； 只要你想进，那么世界就是你的。
+
 __🐔前端整理之道__
 
 [【整理】前端优化得有个好手段，比如看这个清单🍑🍒🍓🍆🌽](https://github.com/vue3/vue3-News/issues/8)  
