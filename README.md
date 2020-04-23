@@ -25,7 +25,7 @@ Twitter vue3:  **vue 3 will be available by the end of Q2.**
 ## 目录
 
 - [Vue 3 Cheat Sheet](#Vue3-CheatSheet)
-- [尤大推出`vue3 beta`之后](#尤大推出vue3 beta之后)
+- [尤大推出vue3 beta之后](#尤大推出vue3 beta之后)
 - [迎接Vue3.0系列](#迎接Vue3.0系列)
 - [最新资讯-继续前进╰(*°▽°*)╯](#最新资讯-继续前进)  
 - [英文资料](#英文资料)
