@@ -101,14 +101,54 @@ __🚀 Features__
 
 ## 尤大推出`vue3 beta`之后
 
+🍁 🍄 🌾 💐 🌷 🌹 🥀 🌺 🌸 🌼 🌻 
+各位亲(づ￣3￣)づ╭❤～，悠着点、悠着点。
+🍁 🍄 🌾 💐 🌷 🌹 🥀 🌺 🌸 🌼 🌻 
+
+vue官方提供的尝鲜库：https://github.com/vuejs/composition-api
+
+* [抄笔记：尤雨溪在Vue3.0 Beta直播里聊到了这些…](https://juejin.im/post/5e9f6b3251882573a855cd52)  
+* [尤大Vue3.0直播虚拟Dom总结(和React 对比)](https://juejin.im/post/5e9faa8fe51d4546fe263eda)  
+* [Vue 3.0 这个迷人的小妖精，到底好在哪里？（更新原理对比）](https://juejin.im/post/5e9ce011f265da47b8450c11)  
+* [技术周刊 2020-04-21：Vue 3.0 Beta 来啦！](https://zhuanlan.zhihu.com/p/134177889)  
+* [抄笔记：尤雨溪在Vue3.0 Beta直播里聊到了这些…](https://juejin.im/post/5e9f6b3251882573a855cd52)  
+* [vue3.0 Beta发布了](https://juejin.im/post/5e9c2508e51d4546cd2ff33b)  
+* [好消息，vue 3 进入 beta 阶段！](https://juejin.im/post/5e99681f6fb9a03c69203278)  
+* [今日凌晨Vue3 beta版震撼发布，竟然公开支持脚手架项目！](https://juejin.im/post/5e99206c6fb9a03c576cbe57)  
 * [vue cli3适配所有端方案](https://segmentfault.com/a/1190000022345673)
 * [Vue 3.0 Beta 版本发布，你还学的动么？](https://segmentfault.com/a/1190000022402496)
 * [Vue 3.0-beta.1 发布](https://segmentfault.com/a/1190000022409256)
 * [好消息，vue 3 进入 beta 阶段](https://juejin.im/post/5e99681f6fb9a03c69203278)
 * [vue3 reactive 思路引导](https://juejin.im/post/5e9b1d056fb9a03c8966e908)
+* [Vue3 的响应式和以前有什么区别，Proxy 无敌？](https://juejin.im/post/5e92d863f265da47e57fe065)  
+* [Vue3 跟着尤雨溪学 TypeScript 之 Ref 类型从零实现](https://juejin.im/post/5e94595c6fb9a03c341daa75)  
+* [vue2.0与3.0对比以及vue3.0 API入门](https://juejin.im/post/5e9ab44bf265da47b27d9ceb)  
+* [Vue 3.0 全家桶抢先体验](https://juejin.im/post/5e99c21b6fb9a03c590dfea8)  
+* [解析Vue2.0和3.0的响应式原理和异同(带源码)](https://juejin.im/post/5e80c1f0e51d4546d961e575)  
+* [VUE 3.0 学习探索入门系列 - Vue3.x 生命周期 和 Composition API 核心语法理解（6）](https://juejin.im/post/5e8010e26fb9a03c947cb98d)   
+* [VUE 3.0 学习探索入门系列 - Vue3.x 令人期待的新特性（7）](https://juejin.im/post/5e8842aa5188257367220f6f)  
+* [Vue3.0(Vue-cli4)项目打包性能优化实践](https://juejin.im/post/5e54aeb76fb9a07ce31ee70b)  
+* [Vue.js CLI4 Vue.config.js标准配置 （最全注释）](https://juejin.im/post/5e944010f265da47aa3f68db)  
+
+## 迎接Vue3.0系列
+
+👹 👺 💀 👻 👽 🤖
+
+* [迎接Vue3.0系列 | Vue3 Composition API中的提取和重用逻辑](https://www.toutiao.com/a6817358466407989772/)  
+* [迎接Vue3.0系列 | Vue Composition API如何替换Vue Mixins](https://www.toutiao.com/i6817269208544444936)  
+* [准备迎接Vue3，使用Vue Composition API生成干净可扩展的表单](https://www.toutiao.com/i6810618652442755592)  
+* [迎接Vue3.0系列 | 如何在Vue3中使用生命周期钩子函数](https://www.toutiao.com/i6817006554387055112)  
+* [迎接Vue3.0系列 | 如何在Vue2与Vue3中构建相同的组件](https://www.toutiao.com/i6816710905481396748)  
+* [迎接Vue3.0系列 | Vue3中的Vue路由器初探](https://www.toutiao.com/i6817067452875145731)  
 
 ## 最新资讯-继续前进╰(*°▽°*)╯
 
+* [重拳出击：打造 Vue3.0 + Typescript + TSX 开(乞)发(丐)模式](https://juejin.im/post/5e32502ae51d450268661152)  
+* [10个Vue开发技巧助力成为更好的工程师](https://juejin.im/post/5e8a9b1ae51d45470720bdfa)  
+* [2020年的12个Vue.js开发技巧和窍门](https://juejin.im/post/5e9024f46fb9a03c64230a74)  
+* [高级前端开发者必会的34道Vue面试题解析（三）](https://juejin.im/post/5e8064c551882573a13777e2)  
+* [（4.2万字🔥🔥🔥重启2020）“从零到部署”Vue全栈电商应用系列教程---正式完结](https://juejin.im/post/5e7577816fb9a07c83350011)  
+* [Vue 进阶必学之高阶组件 HOC（保姆式教学，冲击20k必备）](https://juejin.im/post/5e8b5fa6f265da47ff7cc139)  
 * [VUE CLI3 结合 cross-env 配置环境变量（含环境变量源码解析）](https://juejin.im/post/5e81b7e5e51d4546bf26fb87)  
 * [4k+ 字分析 Vue 3.0 响应式原理（依赖收集和派发更新）](https://segmentfault.com/a/1190000022198316)  
 * [解析Vue2.0和3.0的响应式原理和异同(带源码)](https://segmentfault.com/a/1190000022229159)  
