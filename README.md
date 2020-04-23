@@ -46,6 +46,20 @@ __🐓Vue 3.0 源代码__
 通过本次发布的源代码可以了解到针对 Vue 3 计划并已实现的主要架构改进和新功能。  
 Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://github.com/vuejs/composition-api  （在 Vue 2 项目中作为插件使用）体验到。
 
+![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803  
+
+__v3.0.0-beta.3__  
+released this 3 days ago · 11 commits to master since this release   
+release: v3.0.0-beta.3
+
+__v3.0.0-beta.2__  
+released this 6 days ago · 29 commits to master since this release  
+release: v3.0.0-beta.2  
+
+__v3.0.0-beta.1__  
+released this 7 days ago · 40 commits to master since this release  
+release: v3.0.0-beta.1  
+
 __🔥🐔2020前端面试秘籍__
 
 [【吐血整理清单一】前端面试全攻略，为您保驾护航，金三银四](https://github.com/vue3/vue3-News/issues/9)  
@@ -101,9 +115,9 @@ __🚀 Features__
 
 ## 尤大推出`vue3 beta`之后
 
-🍁 🍄 🌾 💐 🌷 🌹 🥀 🌺 🌸 🌼 🌻 
-各位亲(づ￣3￣)づ╭❤～，悠着点、悠着点。
-🍁 🍄 🌾 💐 🌷 🌹 🥀 🌺 🌸 🌼 🌻 
+🍁 🍄 🌾 💐 🌷 🌹 🥀 🌺 🌸 🌼 🌻   
+各位亲(づ￣3￣)づ╭❤～，悠着点、悠着点。  
+🍁 🍄 🌾 💐 🌷 🌹 🥀 🌺 🌸 🌼 🌻   
 
 vue官方提供的尝鲜库：https://github.com/vuejs/composition-api
 
@@ -132,7 +146,7 @@ vue官方提供的尝鲜库：https://github.com/vuejs/composition-api
 
 ## 迎接Vue3.0系列
 
-👹 👺 💀 👻 👽 🤖
+👹 👺 💀 👻 👽 🤖  
 
 * [迎接Vue3.0系列 | Vue3 Composition API中的提取和重用逻辑](https://www.toutiao.com/a6817358466407989772/)  
 * [迎接Vue3.0系列 | Vue Composition API如何替换Vue Mixins](https://www.toutiao.com/i6817269208544444936)  
