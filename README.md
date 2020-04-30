@@ -14,7 +14,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀欢迎`Star`，后续会不断更新。  
-🇨🇳最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣4️⃣`/`2️⃣3️⃣
+🇨🇳最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣4️⃣`/`3️⃣0️⃣
 
 【2020】 ≡≡≡≡≡≡≡≡≡------------------------------ 【2021】
 
@@ -49,6 +49,10 @@ __🐓Vue 3.0 源代码__
 Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://github.com/vuejs/composition-api  （在 Vue 2 项目中作为插件使用）体验到。
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803  
+
+__v3.0.0-beta.4__  
+released this 6 days ago · 13 commits to master since this release  
+release: v3.0.0-beta.4  
 
 __v3.0.0-beta.3__  
 released this 3 days ago · 11 commits to master since this release   
@@ -114,6 +118,29 @@ __🚀 Features__
 - Browser compatible 🌐 Use it without complex building tools  
 - Intractive docs & demos 🎪 Check out the Storybook!  
 - Optional Add-ons 🔌 Firebase, vue-i18n, etc  
+
+## 再谈vue3
+
+* [Vue CLI3 移动端适配 【px2rem 或 postcss-plugin-px2rem】](https://juejin.im/post/5ea550e66fb9a03c692042f4)  
+* [告别无聊的undefined判断, 让老vue-cli3支持🚀"可选链"等"ES2020"特性](https://juejin.im/post/5ea7d10ff265da7bfa190262)  
+* [Vue的'奇技淫巧'](https://juejin.im/post/5ea63864f265da47bf17d94f)  
+* [基于vue3.0+TypeScript的简易日历](https://juejin.im/post/5ea8399c5188256d3f2b7eac)  
+* [vue3.0尝鲜，写一个win10日历](https://juejin.im/post/5ea99e135188256d9b085784)  
+* [手拉手带你开启Vue3世界的鬼斧神工](https://juejin.im/post/5ea97600f265da7b983b9e76)  
+* [Vue3.0直播虚拟Dom总结(和React对比)](https://juejin.im/post/5e9faa8fe51d4546fe263eda)  
+* [Vue3.0 Beta笔记（侧重Performance提升原因和Composition API）](https://juejin.im/post/5e9fb4ece51d4547170aafe4)  
+* [Vue Cli 3 打包配置–自动忽略 console.log 语句](https://segmentfault.com/a/1190000022434893)  
+* [尤雨溪在 vue3.0 bate 上推荐的 no webpack 小工具 vite](https://juejin.im/post/5e9fc11051882573b436203f)  
+* [尤雨溪谈Vue3.0新特性直播后的个人理解](https://juejin.im/post/5e9ffe6fe51d4528521588d3)  
+* [Vue3 使用学习](https://iiong.com/vue3-use-notes/)  
+* [Vue3.0 Beta–有牛优刘尤老师上课笔记](https://juejin.im/post/5ea1c1cae51d4546ff700c80)  
+* [Vue 3.0 bate版尝鲜](https://juejin.im/post/5ea10905e51d4546e716ee7c)  
+* [Vue3中对VDOM的改进](https://segmentfault.com/a/1190000022442171)  
+* [一份vue3-beta.3相关文集前来报告，请您收下](https://segmentfault.com/a/1190000022451034)  
+* [如何在Vue2与Vue3中构建相同的组件](https://juejin.im/post/5ea27779e51d4546f940d77d)  
+* [Vue 3-beta 相关文集](https://segmentfault.com/a/1190000022451034)  
+* [Vue CLI3 移动端适配 【px2rem 或 postcss-plugin-px2rem】](https://juejin.im/post/5ea550e66fb9a03c692042f4)  
+* [迎接 Vue 3.0：在 Vue 2 与 Vue 3 中构建相同的组件](https://mp.weixin.qq.com/s/KEnDabcOFaEh3Foasxncbw)  
 
 ## 尤大推出`vue3 beta`之后
 
