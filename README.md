@@ -2,7 +2,7 @@
   <img src="https://github.com/vue3/vue3-News/raw/master/asset/vue3-news-logo.png" alt="loadable-components" title="loadable-components">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/2020-唯有暴富-red.svg">
+  <img src="https://img.shields.io/badge/2020-【何以解忧，唯有暴富】-red.svg">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/vue-3+-3eaf7c.svg">
@@ -24,7 +24,8 @@ Twitter vue3:  **vue 3 will be available by the end of Q2.**
 
 ## 目录
 
-- [Vue 3 Cheat Sheet](#Vue3-CheatSheet)
+- [Vue 3 Cheat Sheet](#Vue3-CheatSheet)  
+- [再谈vue3](#再谈vue3)  
 - [尤大推出`vue3 beta`之后](#尤大推出vue3-beta之后)  
 - [迎接Vue3.0系列](#迎接Vue3.0系列)
 - [最新资讯-继续前进╰(*°▽°*)╯](#最新资讯-继续前进)  
@@ -51,11 +52,11 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803  
 
 
-__v3.0.0-beta.9(2020-05-04)__
-released this 3 days ago · 14 commits to master since this release
-Please refer to [CHANGELOG.md](https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md) for details.
+__v3.0.0-beta.9(2020-05-04)__  
+released this 3 days ago · 14 commits to master since this release  
+Please refer to [CHANGELOG.md](https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md) for details.  
 
-...
+...  
 
 __v3.0.0-beta.2__  
 released this 6 days ago · 29 commits to master since this release  
