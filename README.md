@@ -121,6 +121,11 @@ __🚀 Features__
 
 ## 再谈vue3
 
+* [一份关于vue-cli3项目常用项配置](https://segmentfault.com/a/1190000022512358)  
+* [vue-cli4从零开始搭建Vue项目](https://juejin.im/post/5eaa878d5188256d473f3209)  
+* [手拉手带你开启Vue3世界的鬼斧神工](https://juejin.im/post/5ea97600f265da7b983b9e76)  
+* [vue3.0从0到1实战电商管理系统（第一天）](https://juejin.im/post/5eae5d92e51d451b2e03255c)  
+* [vue3.0实战从0到1实战电商管理系统（第三天）](https://juejin.im/post/5eb0d6dde51d454de20d7a80)  
 * [Vue CLI3 移动端适配 【px2rem 或 postcss-plugin-px2rem】](https://juejin.im/post/5ea550e66fb9a03c692042f4)  
 * [告别无聊的undefined判断, 让老vue-cli3支持🚀"可选链"等"ES2020"特性](https://juejin.im/post/5ea7d10ff265da7bfa190262)  
 * [Vue的'奇技淫巧'](https://juejin.im/post/5ea63864f265da47bf17d94f)  
