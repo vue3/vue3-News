@@ -14,7 +14,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀欢迎`Star`，后续会不断更新。  
-🇨🇳最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣5️⃣`/`0️⃣7️⃣
+🇨🇳最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣5️⃣`/`1️⃣5️⃣
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡------------------------ 【2021】
 
@@ -121,6 +121,18 @@ __🚀 Features__
 
 ## 再谈vue3
 
+* [vue3.0实战从0到1实战电商管理系统（第三天）](https://juejin.im/post/5eb0d6dde51d454de20d7a80)  
+* [简明扼要聊聊 Vue3.0 的 Composition API 是啥东东](https://juejin.im/post/5eb17a0fe51d454dd60cfe0f)  
+* [Vue(2.x 和 3.0) 双向绑定原理及实现（Object.defineProperty 和 Proxy）以及常见错误区分](https://juejin.im/post/5eb28bfa5188256d83468092)  
+* [vue3.0实战电商系统：高解耦式mock 订单列表查询（第四天）](https://juejin.im/post/5eb2d7bdf265da7bb708be3d)  
+* [如何在 Vue 3 中使用生命周期函数](https://mp.weixin.qq.com/s/QHYOtxlpRkBJyzNQCXTiBA)  
+* [Vue3.0 中 Object.defineProperty 的代替方案 Proxy](https://juejin.im/post/5eb433175188256d976dfed4)  
+* [Vue 3 中的 Vue Router 初探](https://mp.weixin.qq.com/s/rWgo9elB0dAIKFfINj04RA)  
+* [搭建一个vue-cli4+webpack移动端框架（开箱即用）](https://juejin.im/post/5eb766296fb9a0432f0ff8c7)  
+* [通过10个实例小练习，快速入门熟练 Vue3.0 核心新特性](https://segmentfault.com/a/1190000022612964)  
+* [Vue3 究竟好在哪里？（和 React Hook 的详细对比）](https://segmentfault.com/a/1190000022616689)  
+* [使用Vue3 composition-api重写一个抽象可复用的增删改查页面](https://juejin.im/post/5eb6619c6fb9a043890a2e8f)  
+* [Vue源码学习3.8：组件更新&diff算法](https://juejin.im/post/5eba7388f265da7bb21b4698)  
 * [一份关于vue-cli3项目常用项配置](https://segmentfault.com/a/1190000022512358)  
 * [vue-cli4从零开始搭建Vue项目](https://juejin.im/post/5eaa878d5188256d473f3209)  
 * [手拉手带你开启Vue3世界的鬼斧神工](https://juejin.im/post/5ea97600f265da7b983b9e76)  
