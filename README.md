@@ -14,7 +14,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀欢迎`Star`，后续会不断更新。  
-🇨🇳最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣5️⃣`/`1️⃣5️⃣
+🇨🇳最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣5️⃣`/`2️⃣8️⃣
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡------------------------ 【2021】
 
@@ -52,8 +52,8 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803  
 
 
-__v3.0.0-beta.9(2020-05-04)__  
-released this 3 days ago · 14 commits to master since this release  
+__v3.0.0-beta.14(2020-05-19)__  
+@github-actions github-actions released this 19/5 · 14 commits to master since this release
 Please refer to [CHANGELOG.md](https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md) for details.  
 
 ...  
@@ -121,6 +121,16 @@ __🚀 Features__
 
 ## 再谈vue3
 
+* [Vue源码学习3.9：深入Props](https://juejin.im/post/5ebe92cee51d454dc6176ec7)  
+* [真·vue3.0全家桶+ts尝鲜、过坑](https://juejin.im/post/5ebfcc275188256d95626d22)  
+* [超级详细的Vue-cli3使用教程](https://segmentfault.com/a/1190000022684511)  
+* [15分钟上手vue3.0](https://juejin.im/post/5ec3675ee51d454dcf457d22)  
+* [Vue-cli3.0读取外部化配置文件来修改公共路径](https://www.maiyewang.com/archives/95339)  
+* [vue3.x结合typescript初体验](https://juejin.im/post/5ec78ec451882543345e7fb9)  
+* [几道我今年跳槽遇到的Vue3.0 面试题](https://mp.weixin.qq.com/s?__biz=MzI1NDU3NzM5Mg==&mid=2247484668&idx=1&sn=29958c55e0df19d7920dae100f91697c)  
+* [Vue3源码分析——数据侦测](https://juejin.im/post/5ec68bc8518825434980044e)  
+* [记一次vue3.0技术分享会](https://segmentfault.com/a/1190000022719461)  
+* [Vue3源码解析——整体流程和组合式API](https://juejin.im/post/5ec68c426fb9a047a96a684e)  
 * [Vue2.x To Vue3.0](https://juejin.im/post/5e9d81b851882573866ba89c)  
 * [搭建一个vue-cli4+webpack移动端框架（开箱即用）](https://juejin.im/post/5eb766296fb9a0432f0ff8c7)  
 * [vue3.0实战从0到1实战电商管理系统（第三天）](https://juejin.im/post/5eb0d6dde51d454de20d7a80)  
