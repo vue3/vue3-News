@@ -119,6 +119,17 @@ __🚀 Features__
 - Intractive docs & demos 🎪 Check out the Storybook!  
 - Optional Add-ons 🔌 Firebase, vue-i18n, etc  
 
+## 下半年迎接vue3
+
+* [The process: Making Vue 3](https://increment.com/frontend/making-vue-3/)  
+* [vue3.0 beta已出，来快速实践一下吧](https://www.maiyewang.com/archives/96583)  
+* [尤雨溪：重头来过的 Vue 3 带来了什么？](https://blog.csdn.net/csdnsevenn/article/details/106512677)  
+* [vue3.0创建项目及API讲解（一）](https://juejin.im/post/5ecce0f96fb9a047d1126978)  
+* [Vue 3教程（适用于Vue 2用户）](https://mp.weixin.qq.com/s?__biz=MzI0MDIwNTQ1Mg==&mid=2676493487&idx=1&sn=039828f234eca95a689a12d03e0f4777)  
+* [循序渐进VUE+Element 前端应用开发(4）— 获取后端数据及产品信息页面的处理](https://www.cnblogs.com/wuhuacong/p/12986166.html)  
+* [「中文翻译」Vue3的诞生之路](https://segmentfault.com/a/1190000022781069)  
+* [1.1万字从零解读Vue3.0源码响应式系统](https://mp.weixin.qq.com/s?__biz=MzI2NTk2NzUxNg==&mid=2247486033&idx=1&sn=383bb32d6162a7f794950dfc95c0b83e)  
+
 ## 再谈vue3
 
 * [Vue源码学习3.9：深入Props](https://juejin.im/post/5ebe92cee51d454dc6176ec7)  
