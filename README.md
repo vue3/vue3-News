@@ -123,9 +123,25 @@ __🚀 Features__
 
 霸气姿势观望 `vue3` 核心技术ing  
 
-列表： 
-Proxy、Composition-Api、...    
-@vue/cli-service、Vite ...  
+- Proxy：不只是解决了 defineProperty 的局限性。  
+- Performance：性能更比Vue 2.0强。  
+- Tree shaking support：可以将无用模块“剪辑”，仅打包需要的。  
+- Composition API：组合API。  
+- Fragment, Teleport, Suspense：“碎片”，Teleport即Protal传送门，“悬念”。  
+- Better TypeScript support：更优秀的Ts支持。  
+- Custom Renderer API：暴露了自定义渲染API。
+
+TODOLIST：  
+
+- 1 Docs & Migration Guides  
+- 2 Router  
+- 3 Vuex  
+- 4 CLI  
+- 5 新工具：vite（法语 “快”）  
+- 6 vue-test-utils  
+- 7 DevTools  
+- 8 IDE Support (Vetur)  
+- 9 Nuxt  
 
 * [The process: Making Vue 3](https://increment.com/frontend/making-vue-3/)  
 * [vue3.0 beta已出，来快速实践一下吧](https://www.maiyewang.com/archives/96583)  
