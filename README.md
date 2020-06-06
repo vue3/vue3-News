@@ -150,8 +150,7 @@ The latest version of Vuetensils has some really cool features: improvements to 
 ](https://github.com/vuejs/vitepress)  
 [GitHub - Akryum/vue-mention
 ](https://github.com/Akryum/vue-mention)  
-[GitHub - alvarosaburido/vue-dynamic-forms
-h](ttps://github.com/alvarosaburido/vue-dynamic-forms)  
+[GitHub - alvarosaburido/vue-dynamic-forms](https://github.com/alvarosaburido/vue-dynamic-forms)  
 
 
 ## 再谈vue3
