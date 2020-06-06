@@ -119,7 +119,7 @@ __🚀 Features__
 - Intractive docs & demos 🎪 Check out the Storybook!  
 - Optional Add-ons 🔌 Firebase, vue-i18n, etc  
 
-## 下半年迎接vue3
+## 下半年撸vue3的姿势
 
 * [The process: Making Vue 3](https://increment.com/frontend/making-vue-3/)  
 * [vue3.0 beta已出，来快速实践一下吧](https://www.maiyewang.com/archives/96583)  
@@ -129,6 +129,30 @@ __🚀 Features__
 * [循序渐进VUE+Element 前端应用开发(4）— 获取后端数据及产品信息页面的处理](https://www.cnblogs.com/wuhuacong/p/12986166.html)  
 * [「中文翻译」Vue3的诞生之路](https://segmentfault.com/a/1190000022781069)  
 * [1.1万字从零解读Vue3.0源码响应式系统](https://mp.weixin.qq.com/s?__biz=MzI2NTk2NzUxNg==&mid=2247486033&idx=1&sn=383bb32d6162a7f794950dfc95c0b83e)  
+
+
+[What you will love in Vue 3](https://vueschool.io/articles/news/what-you-will-love-in-vue-3-video/)  
+Prepare yourself for what to expect in Vue 3 with Alex Kyriakidis' presentation from the Vue.js Amsterdam conference.
+
+[GitHub - vuejs/vite: Make Web Dev Fast Again](https://github.com/vitejs/vite)  
+Vite is an opinionated web dev build tool that serves your code via native ES Module imports during dev and bundles it with Rollup for production.
+
+[Vue.js 3 Course - Composition API, TypeScript, Testing](https://vuejs-course.com/screencasts/vue-3-async-components-and-bundle-splitting)  
+Vue.js 3 introduces some changes to the Async Component API - find out the changes, and how you can use Async Components with Webpack 5's bundle splitting to make your apps load faster than ever.
+
+[The case for HOC vs The Composition API](https://logaretm.com/blog/the-case-for-hoc-vs-composition-api/)  
+In this article Abdelrahman compares Higher-Order Components (using scoped-slots) with the upcoming Composition API. I especially enjoyed the Vee-Validate v4 comparison. Check it out!
+
+[Vuetensils 0.6: Simpler Forms, Better Accessibility, & Useful Filters!](https://stegosource.com/vuetensils-0-6-simpler-forms-better-accessibility-useful-filters/)  
+The latest version of Vuetensils has some really cool features: improvements to form authoring, accessibility updates, and new filters to make life easier.
+
+[GitHub - vuejs/vitepress
+](https://github.com/vuejs/vitepress)  
+[GitHub - Akryum/vue-mention
+](https://github.com/Akryum/vue-mention)  
+[GitHub - alvarosaburido/vue-dynamic-forms
+h](ttps://github.com/alvarosaburido/vue-dynamic-forms)  
+
 
 ## 再谈vue3
 
