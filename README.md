@@ -121,7 +121,7 @@ __🚀 Features__
 
 ## 下半年撸vue3的姿势
 
-🐯 🦁 🐮 🐷 🐢 🐹 🦊  
+🐯 🦁 🐮 🐷 🐹 🦊  
 
 霸气姿势观望 `vue3` 核心技术ing  
 
@@ -170,10 +170,8 @@ In this article Abdelrahman compares Higher-Order Components (using scoped-slots
 [Vuetensils 0.6: Simpler Forms, Better Accessibility, & Useful Filters!](https://stegosource.com/vuetensils-0-6-simpler-forms-better-accessibility-useful-filters/)  
 The latest version of Vuetensils has some really cool features: improvements to form authoring, accessibility updates, and new filters to make life easier.
 
-[GitHub - vuejs/vitepress
-](https://github.com/vuejs/vitepress)  
-[GitHub - Akryum/vue-mention
-](https://github.com/Akryum/vue-mention)  
+[GitHub - vuejs/vitepress](https://github.com/vuejs/vitepress)  
+[GitHub - Akryum/vue-mention](https://github.com/Akryum/vue-mention)  
 [GitHub - alvarosaburido/vue-dynamic-forms](https://github.com/alvarosaburido/vue-dynamic-forms)  
 
 
