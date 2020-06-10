@@ -14,7 +14,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀欢迎`Star`，后续会不断更新。  
-🇨🇳最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣6️⃣`/`0️⃣6️⃣
+🇨🇳最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣6️⃣`/`1️⃣0️⃣
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡------------------------ 【2021】
 
@@ -145,6 +145,11 @@ TODOLIST：
 - 8 IDE Support (Vetur)  
 - 9 Nuxt  
 
+* [Vue3 Reactivity API 基础](https://zhuanlan.zhihu.com/p/146097763)
+* [学习vue源码（3） 手写Vue.directive、Vue.filter、Vue.component方法](https://juejin.im/post/5edb02ff5188254314375cd1)
+* [学习vue源码（4） 手写vm.$mount方法](https://juejin.im/post/5edb0bfcf265da77010e9936)
+* [Vue 3 响应式原理及实现](https://segmentfault.com/a/1190000022871354)
+* [vue3响应式系统流程分析与实现](https://juejin.im/post/5edb93caf265da771526eeda)
 * [The process: Making Vue 3](https://increment.com/frontend/making-vue-3/)  
 * [vue3.0 beta已出，来快速实践一下吧](https://www.maiyewang.com/archives/96583)  
 * [尤雨溪：重头来过的 Vue 3 带来了什么？](https://blog.csdn.net/csdnsevenn/article/details/106512677)  
