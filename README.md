@@ -150,8 +150,6 @@ TODOLIST：
 - 9 Nuxt  
 
 * [Vue3 Reactivity API 基础](https://zhuanlan.zhihu.com/p/146097763)
-* [学习vue源码（3） 手写Vue.directive、Vue.filter、Vue.component方法](https://juejin.im/post/5edb02ff5188254314375cd1)
-* [学习vue源码（4） 手写vm.$mount方法](https://juejin.im/post/5edb0bfcf265da77010e9936)
 * [Vue 3 响应式原理及实现](https://segmentfault.com/a/1190000022871354)
 * [vue3响应式系统流程分析与实现](https://juejin.im/post/5edb93caf265da771526eeda)
 * [The process: Making Vue 3](https://increment.com/frontend/making-vue-3/)  
@@ -162,7 +160,15 @@ TODOLIST：
 * [循序渐进VUE+Element 前端应用开发(4）— 获取后端数据及产品信息页面的处理](https://www.cnblogs.com/wuhuacong/p/12986166.html)  
 * [「中文翻译」Vue3的诞生之路](https://segmentfault.com/a/1190000022781069)  
 * [1.1万字从零解读Vue3.0源码响应式系统](https://mp.weixin.qq.com/s?__biz=MzI2NTk2NzUxNg==&mid=2247486033&idx=1&sn=383bb32d6162a7f794950dfc95c0b83e)  
-
+* [Vue Global Meetup, Tue, Apr 14, 2020 at 5:00 PM](https://www.eventbrite.com/e/vue-global-meetup-tickets-101090117262)  
+* [New Async Component API by yyx990803 · vuejs/rfcs · Vue 3.0](https://github.com/vuejs/rfcs/pull/148)  
+* [How the Vue Composition API Replaces Vue Mixins – Anthony Gore – CSS-Tricks](https://css-tricks.com/how-the-vue-composition-api-replaces-vue-mixins/)  
+* [Vue 3.0 Changes for @Component decorator and Vue base class · vuejs/vue-class-component](https://github.com/vuejs/vue-class-component/issues/406)  
+* [Release v0.5.0 · vuejs/composition-api · GitHub](https://github.com/vuejs/composition-api/releases/tag/v0.5.0)  
+* [VueConf US 2020 – Vue Mastery](https://www.vuemastery.com/conferences/vueconf-us-2020/)  
+* [Vue.js Amsterdam 2020 - YouTube](https://www.youtube.com/playlist)  
+* [Vue.js Headless Component - Frederik Dietz](https://dev.to/fdietz/vue-js-headless-component-10ag)  
+* [Vue.js Functional Components - Frederik Dietz ](https://dev.to/fdietz/vue-js-functional-components-2495)   
 
 [What you will love in Vue 3](https://vueschool.io/articles/news/what-you-will-love-in-vue-3-video/)  
 Prepare yourself for what to expect in Vue 3 with Alex Kyriakidis' presentation from the Vue.js Amsterdam conference.
