@@ -106,8 +106,12 @@ __🦃关于TypeScript__
 
 ## vueuse
 
+![](https://raw.githubusercontent.com/antfu/vueuse/master/resources/logo-vertical.png)  
+
 like React hooks.
 Collection of essential Vue Composition API utils works for Vue 2.x and 3.x https://vueuse.js.org/   
+
+[antfu/vueuse](https://github.com/antfu/vueuse)  
 
 Collection of essential Vue Composition API (inspired by react-use)
 
