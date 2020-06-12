@@ -122,6 +122,8 @@ __🚀 Features__
 - 🎪 Interactive docs & demos: Check out the Storybook!  
 - 🔌 Optional Add-ons: Firebase, vue-i18n, etc  
 
+![](https://github.com/vue3/vue3-News/raw/master/asset/pretty-cat.png) 
+
 ## 💃🏻下半年撸vue3的姿势💃🏻
 
 🐯 🦁 🐮 🐷 🐹 🦊  
