@@ -116,7 +116,7 @@ Collection of essential Vue Composition API (inspired by react-use)
 __🚀 Features__  
 - ⚡ 0 dependencies: No worry about your bundle size  
 - 🌴 Fully tree shakable: Only take what you want  
-- 🦾 Type Strong: Written in Typescript  
+- 🦋 Type Strong: Written in Typescript  
 - 🕶 Seamless migration: Works for both Vue 3 and 2  
 - 🌎 Browser compatible: Use it though CDN  
 - 🎪 Interactive docs & demos: Check out the Storybook!  
