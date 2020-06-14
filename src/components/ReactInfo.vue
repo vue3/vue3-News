@@ -1,13 +1,17 @@
 <template>
-  <div class="vue">
+  <div class="react">
     <div class="header">
-      <img alt="Vue logo" src="../assets/logo.png" />
+      <img
+        src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+        alt
+        height="100"
+      />
       <div class="explain">
         <h2>
-          <p>VUE</p>
-          <span>npm i vue</span>
+          <p>React</p>
+          <span>npm i react</span>
         </h2>
-        <b>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</b>
+        <b>A declarative, efficient, and flexible JavaScript library for building user interfaces.</b>
       </div>
     </div>
     <div class="info">
@@ -22,19 +26,19 @@
           <div class="dLIPjF">
             <div class="jakOsZ">
               <div class="bXEcVy">
-                <span class="dcFELj">2.6.11</span>
+                <span class="dcFELj">16.13.1</span>
                 <span class="ewstdt">latest</span>
-                <span class="bgMQOP">6mo</span>
+                <span class="bgMQOP">3mo</span>
               </div>
               <div class="eaCLSF">
-                <span class="dcFELj">3.0.0-beta.15</span>
+                <span class="dcFELj">0.0.0-experimental-33c3af284</span>
+                <span class="ewstdt">experimental</span>
+                <span class="bgMQOP">1mo</span>
+              </div>
+              <div class="eaCLSF">
+                <span class="dcFELj">0.0.0-33c3af284</span>
                 <span class="ewstdt">next</span>
-                <span class="bgMQOP">1d</span>
-              </div>
-              <div class="eaCLSF">
-                <span class="dcFELj">1.0.28-csp</span>
-                <span class="ewstdt">csp</span>
-                <span class="bgMQOP">4yr</span>
+                <span class="bgMQOP">1mo</span>
               </div>
             </div>
           </div>
@@ -44,7 +48,7 @@
             <p class="hGXWXR">Weekly Downloads</p>
           </div>
           <div class="jklmHY">
-            <div class="bWptLg">2M</div>
+            <div class="bWptLg">8M</div>
           </div>
         </div>
         <div class="item">
@@ -52,7 +56,7 @@
             <p class="hGXWXR">Stars</p>
           </div>
           <div class="jklmHY">
-            <div class="bWptLg">166K</div>
+            <div class="bWptLg">150K</div>
           </div>
         </div>
         <div class="item">
@@ -73,7 +77,7 @@
               <div class="sc-oUAoT kVASKi">
                 <div class="sc-qPwwY aevsi">
                   <div class="sc-qXTOB ciDzeO">
-                    <div class="sc-pAkoP cqfgNy">321</div>
+                    <div class="sc-pAkoP cqfgNy">507</div>
                   </div>
                   <div class="sc-pIhhe fPCvPB">Open</div>
                 </div>
@@ -82,7 +86,7 @@
               <div class="sc-oUAoT kVASKi">
                 <div class="sc-qPwwY aevsi">
                   <div class="sc-qXTOB ciDzeO">
-                    <div class="sc-pAkoP cqfgNy">94%</div>
+                    <div class="sc-pAkoP cqfgNy">93%</div>
                   </div>
                   <div class="sc-pIhhe fPCvPB">Responded within a week</div>
                 </div>
@@ -100,7 +104,7 @@
               <div class="sc-oUAoT kVASKi">
                 <div class="sc-qPwwY aevsi">
                   <div class="sc-qXTOB ciDzeO">
-                    <div class="sc-pAkoP cqfgNy">1815</div>
+                    <div class="sc-pAkoP cqfgNy">9668</div>
                   </div>
                   <div class="sc-pIhhe fPCvPB">Open</div>
                 </div>
@@ -109,7 +113,7 @@
               <div class="sc-oUAoT kVASKi">
                 <div class="sc-qPwwY aevsi">
                   <div class="sc-qXTOB ciDzeO">
-                    <div class="sc-pAkoP cqfgNy">47%</div>
+                    <div class="sc-pAkoP cqfgNy">67%</div>
                   </div>
                   <div class="sc-pIhhe fPCvPB">Merged within 30d</div>
                 </div>
@@ -127,7 +131,7 @@
               <div class="sc-oUAoT kVASKi">
                 <div class="sc-qPwwY aevsi">
                   <div class="sc-qXTOB ciDzeO">
-                    <div class="sc-pAkoP cqfgNy">313</div>
+                    <div class="sc-pAkoP cqfgNy">1619</div>
                   </div>
                   <div class="sc-pIhhe fPCvPB">Total</div>
                 </div>
@@ -136,7 +140,7 @@
               <div class="sc-oUAoT kVASKi">
                 <div class="sc-qPwwY aevsi">
                   <div class="sc-qXTOB ciDzeO">
-                    <div class="sc-pAkoP cqfgNy">43</div>
+                    <div class="sc-pAkoP cqfgNy">284</div>
                   </div>
                   <div class="sc-pIhhe fPCvPB">with 3+ commits</div>
                 </div>
@@ -154,7 +158,7 @@
               <div class="sc-oUAoT kVASKi-1">
                 <div class="sc-qPwwY aevsi">
                   <div class="sc-qXTOB ciDzeO">
-                    <div class="sc-pAkoP cqfgNy">10d</div>
+                    <div class="sc-pAkoP cqfgNy">3d</div>
                   </div>
                   <div class="sc-pIhhe fPCvPB">ago</div>
                 </div>

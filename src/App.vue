@@ -8,6 +8,9 @@
         <router-link to="/">(🍉 ) => Home</router-link>
       </div>
       <div>
+        <router-link to="/react">(🍇 ) => React Info</router-link>
+      </div>
+      <div>
         <router-link to="/vue">(🥝 ) => Vue Info</router-link>
       </div>
       <div>
@@ -34,7 +37,8 @@ body {
 .view {
   position: relative;
   min-height: 100vh;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  // font-family: Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: flex;

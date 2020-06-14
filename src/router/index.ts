@@ -14,6 +14,12 @@ const routes: Array<any> = [
       import(/* webpackChunkName: "vueinfo" */ "../views/Vue.vue"),
   },
   {
+    path: "/react",
+    name: "React Info",
+    component: () =>
+      import(/* webpackChunkName: "vueinfo" */ "../views/React.vue"),
+  },
+  {
     path: "/about",
     name: "About",
     // route level code-splitting
