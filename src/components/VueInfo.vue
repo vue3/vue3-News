@@ -4,7 +4,7 @@
       <img alt="Vue logo" src="../assets/logo.png" />
       <div class="explain">
         <h2>
-          <p>VUE</p>
+          <p>Vue</p>
           <span>npm i vue</span>
         </h2>
         <b>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</b>

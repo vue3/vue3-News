@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
     <img alt="Vue logo" src="../assets/logo.png" />
+    <div class="ot-letter-top">
+      <span data-letter="3">3</span>
+    </div>
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,
@@ -167,7 +170,16 @@ export default defineComponent({
 <style scoped lang="scss">
 .hello {
   text-align: center;
-  margin-bottom: 80px;
+  margin: 60px 0;
+}
+.ot-letter-top {
+  margin-top: -10em;
+  span {
+    font-size: 6em;
+    font-weight: bold;
+    text-shadow: 0 0 1px #999, 1px 1px 2px #888, 2px 2px 2px #777,
+      3px 3px 2px #666, 4px 4px 2px #555, 5px 5px 2px #333;
+  }
 }
 h3 {
   margin: 40px 0 0;
