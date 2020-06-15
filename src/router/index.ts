@@ -20,6 +20,12 @@ const routes: Array<any> = [
       import(/* webpackChunkName: "vueinfo" */ "../views/React.vue"),
   },
   {
+    path: "/vue3-pixel-art",
+    name: "Pixel Art",
+    component: () =>
+      import(/* webpackChunkName: "vueinfo" */ "../views/PixelArt.vue"),
+  },
+  {
     path: "/about",
     name: "About",
     // route level code-splitting

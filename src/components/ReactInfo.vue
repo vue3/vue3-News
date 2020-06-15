@@ -175,7 +175,7 @@
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: "hello vue",
+  name: "hello react",
   props: {
     msg: String
   },
