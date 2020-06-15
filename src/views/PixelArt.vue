@@ -1,10 +1,19 @@
 <template>
   <div>
-    <h2>Vue3 快速介绍-超级马里奥像素艺术</h2>
-    <p>Tips: 点击不同色块会改变相同色块的颜色。</p>
-    <p>快来试试！</p>
+    <div>
+      <h2>Vue3 快速介绍-超级马里奥像素艺术</h2>
+      <p>Tips: 点击不同色块会改变相同色块的颜色。</p>
+      <p>快来试试！</p>
+    </div>
+    <n-canvas :pixel-data="pixelData" :colors="colors" background="rgb(229, 230, 232)"></n-canvas>
+    <p>来自：</p>
+    <p>
+      🎃Vue.js快速介绍-超级马里奥像素艺术：
+      <a
+        href="https://itemsets.github.io/vue2-pixel-art/"
+      >https://itemsets.github.io/vue2-pixel-art/</a>
+    </p>
   </div>
-  <n-canvas :pixel-data="pixelData" :colors="colors" background="rgb(229, 230, 232)"></n-canvas>
 </template>
 
 <script lang="ts">
