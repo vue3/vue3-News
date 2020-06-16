@@ -150,6 +150,9 @@ TODOLIST：
 - 8 IDE Support (Vetur)  
 - 9 Nuxt  
 
+* [vue 3.x 如何高效学成？本文详解](https://www.maiyewang.com/archives/97732)  
+* [[vue源码03] watch 侦听属性 – 初始化和更新](https://juejin.im/post/5ee11db86fb9a047f338cf48)  
+* [Vue技巧 | 在Vue3中使元素在滚动视图时淡入](https://mp.weixin.qq.com/s?__biz=MzI0MDIwNTQ1Mg==&mid=2676493889&idx=1&sn=bf85d210efffb7952d0753bd9cd4d6e8)  
 * [Vue3 Reactivity API 基础](https://zhuanlan.zhihu.com/p/146097763)
 * [Vue 3 响应式原理及实现](https://segmentfault.com/a/1190000022871354)
 * [vue3响应式系统流程分析与实现](https://juejin.im/post/5edb93caf265da771526eeda)
