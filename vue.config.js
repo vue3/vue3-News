@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: "/vue3-News/"
+    publicPath: process.env.NODE_ENV === "production" ? "/vue3-News/" : "",
+    outputDir: "docs",
 }

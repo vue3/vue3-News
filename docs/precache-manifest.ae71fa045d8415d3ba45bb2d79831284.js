@@ -1,7 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c579a645063056e2326",
-    "url": "/vue3-News/css/app.77c3e992.css"
+    "revision": "9d93aff9550529c37182",
+    "url": "/vue3-News/css/about.4ed269e0.css"
+  },
+  {
+    "revision": "a017f0a4272965068e27",
+    "url": "/vue3-News/css/app.73bd0497.css"
   },
   {
     "revision": "57c19356f6c271cecf13",
@@ -12,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue3-News/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "c9449676ab9fd7709188cdf895081b2a",
+    "revision": "b8d67eeaf12bb6c340f4377fc2196688",
     "url": "/vue3-News/index.html"
   },
   {
-    "revision": "d7ac392d5c274509ff53",
-    "url": "/vue3-News/js/about.b1b7cbc3.js"
+    "revision": "9d93aff9550529c37182",
+    "url": "/vue3-News/js/about.74dbc260.js"
   },
   {
-    "revision": "0c579a645063056e2326",
-    "url": "/vue3-News/js/app.4c170258.js"
+    "revision": "a017f0a4272965068e27",
+    "url": "/vue3-News/js/app.1f2c53d0.js"
   },
   {
     "revision": "bd7d200010003f652c52",
