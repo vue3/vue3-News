@@ -17,6 +17,9 @@
         <router-link to="/vue3-pixel-art">(🍓 ) => Pixel Art</router-link>
       </div>
       <div>
+        <router-link to="/vue3-todomvc">(📚 ) => Todo mvc</router-link>
+      </div>
+      <div>
         <router-link to="/about">(🌽 ) => About</router-link>
       </div>
     </div>

@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from "vue-router";
+import { createRouter, createWebHashHistory } from "vue-router";
 import Home from "../views/Home.vue";
 
 const routes: Array<any> = [
@@ -26,6 +26,13 @@ const routes: Array<any> = [
       import(/* webpackChunkName: "vueinfo" */ "../views/PixelArt.vue"),
   },
   {
+    path: "/vue3-todomvc",
+    name: "vue3 todomvc",
+    props: (route: any) => ({ condition: route.query.q }),
+    component: () =>
+      import(/* webpackChunkName: "vueinfo" */ "../views/Todomvc.vue"),
+  },
+  {
     path: "/about",
     name: "About",
     // route level code-splitting
@@ -37,7 +44,7 @@ const routes: Array<any> = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+  history: createWebHashHistory(process.env.BASE_URL),
   routes,
 });
 
