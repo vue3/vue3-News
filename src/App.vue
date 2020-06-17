@@ -20,6 +20,9 @@
         <router-link to="/vue3-todomvc">(📚 ) => Todo mvc</router-link>
       </div>
       <div>
+        <router-link to="/vue3-markdown">(📖 ) => Markdown</router-link>
+      </div>
+      <div>
         <router-link to="/about">(🌽 ) => About</router-link>
       </div>
     </div>

@@ -12,10 +12,10 @@
 import GithubCorner from "@/components/GithubCorner.vue";
 
 export default {
-  name: "Home",
+  name: "About",
   components: {
-    GithubCorner
-  }
+    GithubCorner,
+  },
 };
 </script>
 

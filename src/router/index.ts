@@ -17,20 +17,26 @@ const routes: Array<any> = [
     path: "/react",
     name: "React Info",
     component: () =>
-      import(/* webpackChunkName: "vueinfo" */ "../views/React.vue"),
+      import(/* webpackChunkName: "reactinfo" */ "../views/React.vue"),
   },
   {
     path: "/vue3-pixel-art",
     name: "Pixel Art",
     component: () =>
-      import(/* webpackChunkName: "vueinfo" */ "../views/PixelArt.vue"),
+      import(/* webpackChunkName: "pixelartinfo" */ "../views/PixelArt.vue"),
   },
   {
     path: "/vue3-todomvc",
     name: "vue3 todomvc",
     props: (route: any) => ({ condition: route.query.q }),
     component: () =>
-      import(/* webpackChunkName: "vueinfo" */ "../views/Todomvc.vue"),
+      import(/* webpackChunkName: "todosinfo" */ "../views/Todomvc.vue"),
+  },
+  {
+    path: "/vue3-markdown",
+    name: "vue3 markdown",
+    component: () =>
+      import(/* webpackChunkName: "narkdowninfo" */ "../views/Markdown.vue"),
   },
   {
     path: "/about",
