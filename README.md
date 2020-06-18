@@ -151,6 +151,9 @@ TODOLIST：
 - 8 IDE Support (Vetur)
 - 9 Nuxt
 
+介绍 Vue.js 以及 Vue-next 源码分析文章，希望通过学习Vue.js源码获得更好的知识和收获。  
+[【这是入口】你要找的 vue 源码 全宇宙的都在这！](https://github.com/vue3/vue3-News/issues/16)  
+
 * [vue 3.x 如何高效学成？本文详解](https://www.maiyewang.com/archives/97732)
 * [[vue 源码 03] watch 侦听属性 – 初始化和更新](https://juejin.im/post/5ee11db86fb9a047f338cf48)
 * [Vue 技巧 | 在 Vue3 中使元素在滚动视图时淡入](https://mp.weixin.qq.com/s?__biz=MzI0MDIwNTQ1Mg==&mid=2676493889&idx=1&sn=bf85d210efffb7952d0753bd9cd4d6e8)
