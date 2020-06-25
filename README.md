@@ -14,7 +14,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣6️⃣`/`1️⃣6️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣6️⃣`/`2️⃣5️⃣
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡------------------------ 【2021】
 
@@ -154,6 +154,13 @@ TODOLIST：
 介绍 Vue.js 以及 Vue-next 源码分析文章，希望通过学习Vue.js源码获得更好的知识和收获。  
 [【这是入口】你要找的 vue 源码 全宇宙的都在这！](https://github.com/vue3/vue3-News/issues/16)  
 
+* [Vue 3.0 初探 – 组合式 API](https://juejin.im/post/5ee7705cf265da771169beba)  
+* [Vue技巧 | 在Vue3中使元素在滚动视图时淡入](https://mp.weixin.qq.com/s?__biz=MzI0MDIwNTQ1Mg==&mid=2676493889&idx=1&sn=bf85d210efffb7952d0753bd9cd4d6e8)  
+* [Vue1.x 2.x 3.x 的响应式实现](https://juejin.im/post/5eec7f416fb9a0585663f9a5)  
+* [深入理解 Vue3 Reactivity](https://zhuanlan.zhihu.com/p/146097763)  
+* [Vue 3.x 项目环境搭建](https://juejin.im/post/5eecdd8a6fb9a058b51e63d4)  
+* [好消息，Vue3官方文档出中文版的啦](https://juejin.im/post/5eedd9776fb9a058b10aa8af)   
+* [深入理解 Vue3 Reactivity API](https://mp.weixin.qq.com/s/mnsI8MxBmhomttV0UXWSyg)  
 * [vue 3.x 如何高效学成？本文详解](https://www.maiyewang.com/archives/97732)
 * [[vue 源码 03] watch 侦听属性 – 初始化和更新](https://juejin.im/post/5ee11db86fb9a047f338cf48)
 * [Vue 技巧 | 在 Vue3 中使元素在滚动视图时淡入](https://mp.weixin.qq.com/s?__biz=MzI0MDIwNTQ1Mg==&mid=2676493889&idx=1&sn=bf85d210efffb7952d0753bd9cd4d6e8)
