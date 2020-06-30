@@ -52,8 +52,8 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
-**3.0.0-beta.15 (2020-06-12)**  
-@github-actions github-actions released this 12/6 · 19 commits to master since this release  
+**3.0.0-beta.16 (2020-06-29)**  
+@github-actions github-actions released this 2 hours ago · 2 commits to master since this release
 Please refer to [CHANGELOG.md](https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md) for details.
 
 ...
