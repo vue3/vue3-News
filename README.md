@@ -155,6 +155,8 @@ TODOLIST：
 介绍 Vue.js 以及 Vue-next 源码分析文章，希望通过学习Vue.js源码获得更好的知识和收获。  
 [【这是入口】你要找的 vue 源码 全宇宙的都在这！](https://github.com/vue3/vue3-News/issues/16)  
 
+* [Vue3生态技术内幕](https://www.yuque.com/woniuppp/vue3/reactivity)  
+* [Vue响应式系统技术原理和Vue3响应式系统的优点](https://www.yuque.com/wuhaosky/vue3/vue-reactivity#galNADP9)  
 * [Vue3之——和Vite不得不说的事](https://segmentfault.com/a/1190000023009604)  
 * [Vue3 的 Proxy 能做到哪些精确的拦截操作？原理揭秘](https://zhuanlan.zhihu.com/p/148937064)  
 * [顺藤摸瓜：用单元测试读懂 vue3 watch 函数](https://juejin.im/post/5ee9847ce51d45789f23fdb0)  
