@@ -14,7 +14,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣6️⃣`/`2️⃣9️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣7️⃣`/`0️⃣6️⃣
 
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡------------------------ 【2021】
@@ -52,8 +52,8 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
-**3.0.0-beta.16 (2020-06-29)**  
-@github-actions github-actions released this 2 hours ago · 2 commits to master since this release
+**3.0.0-beta.18 (2020-07-02)**  
+@ github-actions released this 4 days ago · 9 commits to master since this release
 Please refer to [CHANGELOG.md](https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md) for details.
 
 ...
