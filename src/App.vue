@@ -23,6 +23,9 @@
         <router-link to="/vue3-markdown">(📖 ) => Markdown</router-link>
       </div>
       <div>
+        <router-link to="/vue3-apexcharts">(⛱ ) => ApexCharts</router-link>
+      </div>
+      <div>
         <router-link to="/about">(🌽 ) => About</router-link>
       </div>
     </div>

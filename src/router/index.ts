@@ -39,6 +39,18 @@ const routes: Array<any> = [
       import(/* webpackChunkName: "narkdowninfo" */ "../views/Markdown.vue"),
   },
   {
+    path: "/vue3-apexcharts",
+    name: "vue3 apexcharts",
+    component: () =>
+      import(/* webpackChunkName: "narkdowninfo" */ "../views/ApexCharts.vue"),
+  },
+  // {
+  //   path: "/vue3-svg",
+  //   name: "vue3 svg",
+  //   component: () =>
+  //     import(/* webpackChunkName: "narkdowninfo" */ "../views/Svg.vue"),
+  // },
+  {
     path: "/about",
     name: "About",
     // route level code-splitting
