@@ -16,7 +16,7 @@ import {
   computed,
   watchEffect,
   onMounted,
-  onUnmounted,
+  onUnmounted
 } from "vue";
 
 import marked from "marked";
@@ -29,7 +29,7 @@ const delay = window.location.hash.includes("?delay=test") ? 16 : 300;
 export default defineComponent({
   name: "Markdown",
   components: {
-    GithubCorner,
+    GithubCorner
   },
   setup() {
     const input = ref(
@@ -51,9 +51,9 @@ export default defineComponent({
     return {
       input,
       output,
-      update,
+      update
     };
-  },
+  }
 });
 </script>
 
