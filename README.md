@@ -166,6 +166,9 @@ TODOLIST：
 介绍 Vue.js 以及 Vue-next 源码分析文章，希望通过学习Vue.js源码获得更好的知识和收获。  
 [【这是入口】你要找的 vue 源码 全宇宙的都在这！](https://github.com/vue3/vue3-News/issues/16)  
 
+* [Vue3 Composition API教程及示例](https://cloud.tencent.com/developer/article/1603056)  
+* [基于vue3.0.1 beta搭建仿京东淘宝的电商商城项目！](https://www.javascriptcn.com/read-e-commerce-mall-project-imitating-jingdong-taobao-based-on-vue3-0.1-beta.html)  
+* [细致分析，尤雨溪直播中提到 vue3.0 diff 算法优化细节](https://www.javascriptcn.com/read-detailed-analysis-of-optimization-details-of-vue3-diff-algorithm-in-live-broadcast.html)  
 * [顺藤摸瓜：用单元测试读懂 Vue 3 watch 函数](https://mp.weixin.qq.com/s/e1IVKZ5FF80yGTN8yecfBg)  
 * [electron-vue开发笔记（3）多窗口多页面入口配置](https://juejin.im/post/5ef8acb4f265da23004b0a8e)  
 * [基于项目实战阐述vue3.0新型状态管理和逻辑复用方式](https://juejin.im/post/5efc419af265da22fa615dff)  
