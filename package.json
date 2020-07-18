@@ -13,7 +13,7 @@
     "apexcharts": "^3.19.3",
     "core-js": "^3.6.5",
     "dayjs": "^1.8.29",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "marked": "^1.1.0",
     "register-service-worker": "^1.7.1",
     "vue": "^3.0.0-beta.1",
