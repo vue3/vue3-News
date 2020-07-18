@@ -44,6 +44,12 @@ const routes: Array<any> = [
     component: () =>
       import(/* webpackChunkName: "narkdowninfo" */ "../views/ApexCharts.vue"),
   },
+  {
+    path: "/vue3-win10-DatePanel",
+    name: "vue3 win10 DatePanel",
+    component: () =>
+      import(/* webpackChunkName: "narkdowninfo" */ "../views/Win10DatePanel.vue"),
+  },
   // {
   //   path: "/vue3-svg",
   //   name: "vue3 svg",

@@ -8,10 +8,10 @@
         <router-link to="/">(🍉 ) => Home</router-link>
       </div>
       <div>
-        <router-link to="/react">(🍇 ) => React Info</router-link>
+        <router-link to="/vue">(🥝 ) => Vue Info</router-link>
       </div>
       <div>
-        <router-link to="/vue">(🥝 ) => Vue Info</router-link>
+        <router-link to="/react">(🍇 ) => React Info</router-link>
       </div>
       <div>
         <router-link to="/vue3-pixel-art">(🍓 ) => Pixel Art</router-link>
@@ -24,6 +24,9 @@
       </div>
       <div>
         <router-link to="/vue3-apexcharts">(⛱ ) => ApexCharts</router-link>
+      </div>
+      <div>
+        <router-link to="/vue3-win10-DatePanel">(🍒 ) => win10 Date</router-link>
       </div>
       <div>
         <router-link to="/about">(🌽 ) => About</router-link>

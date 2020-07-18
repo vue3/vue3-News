@@ -9,15 +9,7 @@
 </template>
 
 <script lang="ts">
-import {
-  defineComponent,
-  reactive,
-  ref,
-  computed,
-  watchEffect,
-  onMounted,
-  onUnmounted
-} from "vue";
+import { defineComponent, ref, computed } from "vue";
 
 import marked from "marked";
 import _ from "lodash";
