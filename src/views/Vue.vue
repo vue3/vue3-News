@@ -11,7 +11,7 @@ import VueInfo from "@/components/VueInfo.vue";
 export default {
   name: "vue",
   components: {
-    VueInfo
-  }
+    VueInfo,
+  },
 };
 </script>

@@ -1,6 +1,10 @@
 <template>
   <div class="l-canvas-container" :style="{ background: background }">
-    <div v-for="(row, rowIndex) in pixelData" :key="rowIndex" :style="{ height: pixelSize }">
+    <div
+      v-for="(row, rowIndex) in pixelData"
+      :key="rowIndex"
+      :style="{ height: pixelSize }"
+    >
       <n-pixel
         v-for="(col, colIndex) in row"
         :key="colIndex"
@@ -21,7 +25,7 @@ export default {
     pixelData: { type: Array, required: true },
     colors: { type: Object, required: true },
     pixelSize: { type: String, default: "20px" },
-    background: { type: String, default: "white" }
+    background: { type: String, default: "white" },
   },
   methods: {
     onPixelClick(color) {
@@ -40,8 +44,8 @@ export default {
     },
     getRandom() {
       return Math.floor(Math.random() * 256);
-    }
-  }
+    },
+  },
 };
 </script>
 

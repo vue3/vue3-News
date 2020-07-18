@@ -10,12 +10,12 @@ export default {
       // RGB color - i.e. "255, 255, 255"
       // applied in "pixelStyle()" computed data
       type: String,
-      required: true
+      required: true,
     },
     size: {
       type: String,
-      required: true
-    }
+      required: true,
+    },
   },
   computed: {
     pixelStyle() {
@@ -23,16 +23,16 @@ export default {
       return {
         "background-color": `rgb(${this.color})`, // this.color is "color" in "props"
         width: this.size,
-        height: this.size
+        height: this.size,
       };
-    }
+    },
   },
   methods: {
     onPixelClick() {
       // click event handler
       this.$emit("pixel-click", this.color);
-    }
-  }
+    },
+  },
 };
 </script>
 

@@ -3,7 +3,7 @@
 //   export default Vue;
 // }
 declare module "*.vue" {
-  import {defineComponent} from 'vue'
+  import { defineComponent } from "vue";
   const Component: ReturnType<typeof defineComponent>;
-  export default Component
+  export default Component;
 }

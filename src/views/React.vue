@@ -11,7 +11,7 @@ import ReactInfo from "@/components/ReactInfo.vue";
 export default {
   name: "react",
   components: {
-    ReactInfo
-  }
+    ReactInfo,
+  },
 };
 </script>

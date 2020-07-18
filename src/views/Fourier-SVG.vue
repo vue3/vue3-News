@@ -14,7 +14,7 @@ import svvg from "@/assets/zg1.svg";
 export default {
   name: "vue3 svg",
   components: {
-    GithubCorner
+    GithubCorner,
   },
   setup() {
     onMounted(async () => {
@@ -24,7 +24,7 @@ export default {
       const K = (() => {
         return Int16Array.from(
           {
-            length: 250
+            length: 250,
           },
           (_, i) => ((1 + i) >> 1) * (i & 1 ? -1 : 1)
         );
@@ -32,7 +32,7 @@ export default {
       const abs = ([re, im]) => {
         return Math.hypot(re, im);
       };
-      const expim = im => {
+      const expim = (im) => {
         return [Math.cos(im), Math.sin(im)];
       };
       const add = ([rea, ima], [reb, imb]) => {
@@ -44,9 +44,11 @@ export default {
 
       async function svg() {
         const $elem = await fetch(svvg)
-          .then(response => response.text())
-          .then(text => new DOMParser().parseFromString(text, "image/svg+xml"))
-          .then(svg => svg.documentElement);
+          .then((response) => response.text())
+          .then((text) =>
+            new DOMParser().parseFromString(text, "image/svg+xml")
+          )
+          .then((svg) => svg.documentElement);
         return $elem;
       }
 
@@ -58,7 +60,7 @@ export default {
       const P = (() => {
         return Array.from(
           {
-            length: N
+            length: N,
           },
           (_, i) => {
             const { x, y } = svgPath.getPointAtLength((i / N) * svgLength);
@@ -68,7 +70,7 @@ export default {
       })();
 
       const DFT = (() => {
-        return Array.from(K, k => {
+        return Array.from(K, (k) => {
           let x = [0, 0];
           for (let i = 0, N = P.length; i < N; ++i) {
             x = add(x, mul(P[i], expim(((k * i) / N) * 2 * -Math.PI)));
@@ -148,7 +150,7 @@ export default {
           context.beginPath();
           for (let i = 0, p = [0, 0]; i < M; ++i) {
             arrow(context, p, (p = add(p, mul(DFT[i], expim(a * K[i])))), {
-              size: 8 / scale
+              size: 8 / scale,
             });
           }
           context.fillStyle = "#333";
@@ -171,7 +173,7 @@ export default {
       }
       goCanvas(ctx);
     });
-  }
+  },
 };
 </script>
 <style lang="scss">

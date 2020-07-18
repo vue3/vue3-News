@@ -13,7 +13,12 @@
         />
       </header>
       <section class="todo-main" v-show="state.todos.length">
-        <input id="toggle-all" class="toggle-all" type="checkbox" v-model="state.allDone" />
+        <input
+          id="toggle-all"
+          class="toggle-all"
+          type="checkbox"
+          v-model="state.allDone"
+        />
         <label for="toggle-all">Mark all as complete</label>
         <ul class="todo-list">
           <li
@@ -49,19 +54,25 @@
         </span>
         <ul class="filters">
           <li>
-            <a href="#/vue3-todomvc/?q=all" :class="{ selected: state.visibility === 'all' }">All</a>
+            <a
+              href="#/vue3-todomvc/?q=all"
+              :class="{ selected: state.visibility === 'all' }"
+              >All</a
+            >
           </li>
           <li>
             <a
               href="#/vue3-todomvc/?q=active"
               :class="{ selected: state.visibility === 'active' }"
-            >Active</a>
+              >Active</a
+            >
           </li>
           <li>
             <a
               href="#/vue3-todomvc/?q=completed"
               :class="{ selected: state.visibility === 'completed' }"
-            >Completed</a>
+              >Completed</a
+            >
           </li>
         </ul>
 
@@ -69,7 +80,9 @@
           class="clear-completed"
           @click="removeCompleted"
           v-show="state.todos.length > state.remaining"
-        >Clear completed</button>
+        >
+          Clear completed
+        </button>
       </footer>
     </section>
   </div>
@@ -82,7 +95,7 @@ import {
   computed,
   watchEffect,
   onMounted,
-  onUnmounted
+  onUnmounted,
 } from "vue";
 
 const STORAGE_KEY = "todos-vuejs-3.x";
@@ -104,7 +117,7 @@ const todoStorage: any = {
   },
   save(todos: TodoType[]) {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(todos));
-  }
+  },
 };
 
 const filters: any = {
@@ -116,7 +129,7 @@ const filters: any = {
   },
   completed(todos: TodoType[]) {
     return todos.filter((todo: TodoType) => todo.completed);
-  }
+  },
 };
 
 function pluralize(n: number) {
@@ -136,8 +149,8 @@ export default defineComponent({
   props: {
     condition: {
       type: String,
-      default: "all"
-    }
+      default: "all",
+    },
   },
   setup(props: any) {
     const state: any = reactive({
@@ -156,15 +169,15 @@ export default defineComponent({
         return filters[state.visibility](state.todos);
       }),
       allDone: computed({
-        get: function() {
+        get: function () {
           return state.remaining === 0;
         },
-        set: function(value: boolean) {
+        set: function (value: boolean) {
           state.todos.forEach((todo: TodoType) => {
             todo.completed = value;
           });
-        }
-      })
+        },
+      }),
     });
 
     // watch(a, () => {
@@ -189,7 +202,7 @@ export default defineComponent({
       state.todos.push({
         id: todoStorage.uid++,
         title: value,
-        completed: false
+        completed: false,
       });
       state.newTodo = "";
     }
@@ -243,7 +256,7 @@ export default defineComponent({
       editTodo,
       doneEdit,
       cancelEdit,
-      removeCompleted
+      removeCompleted,
     };
   },
   directives: {
@@ -251,8 +264,8 @@ export default defineComponent({
       if (value) {
         el.focus();
       }
-    }
-  }
+    },
+  },
 });
 </script>
 

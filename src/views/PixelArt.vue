@@ -5,13 +5,17 @@
       <p>Tips: 点击不同色块会改变相同色块的颜色。</p>
       <p>快来试试！</p>
     </div>
-    <n-canvas :pixel-data="pixelData" :colors="colors" background="rgb(229, 230, 232)"></n-canvas>
+    <n-canvas
+      :pixel-data="pixelData"
+      :colors="colors"
+      background="rgb(229, 230, 232)"
+    ></n-canvas>
     <p>来自：</p>
     <p>
       🎃Vue.js快速介绍-超级马里奥像素艺术：
-      <a
-        href="https://itemsets.github.io/vue2-pixel-art/"
-      >https://itemsets.github.io/vue2-pixel-art/</a>
+      <a href="https://itemsets.github.io/vue2-pixel-art/"
+        >https://itemsets.github.io/vue2-pixel-art/</a
+      >
     </p>
   </div>
 </template>
@@ -49,7 +53,7 @@ export default defineComponent({
       [_, W, W, O, O, O, O, O, O, O, O, W, W, _],
       [_, _, _, O, O, O, _, _, O, O, O, _, _, _],
       [_, _, B, B, B, _, _, _, _, B, B, B, _, _],
-      [_, B, B, B, B, _, _, _, _, B, B, B, B, _]
+      [_, B, B, B, B, _, _, _, _, B, B, B, B, _],
     ];
 
     const colors = {
@@ -59,12 +63,12 @@ export default defineComponent({
       [O]: "0, 0, 255",
       [Y]: "255, 255, 0",
       [W]: "255, 255, 255",
-      [_]: "229, 230, 232"
+      [_]: "229, 230, 232",
     };
     return {
       pixelData,
-      colors
+      colors,
     };
-  }
+  },
 });
 </script>

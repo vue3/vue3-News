@@ -11,7 +11,10 @@
           <p>React</p>
           <span>npm i react</span>
         </h2>
-        <b>A declarative, efficient, and flexible JavaScript library for building user interfaces.</b>
+        <b
+          >A declarative, efficient, and flexible JavaScript library for
+          building user interfaces.</b
+        >
       </div>
     </div>
     <div class="info">
@@ -177,7 +180,7 @@ import { defineComponent } from "vue";
 export default defineComponent({
   name: "hello react",
   props: {
-    msg: String
+    msg: String,
   },
   setup(props) {
     // interface Data {
@@ -185,7 +188,7 @@ export default defineComponent({
     //   object: object;
     // }
     // return () => h('div', [count.value, object.foo])
-  }
+  },
 });
 </script>
 

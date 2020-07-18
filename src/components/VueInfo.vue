@@ -7,7 +7,10 @@
           <p>Vue</p>
           <span>npm i vue</span>
         </h2>
-        <b>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</b>
+        <b
+          >🖖 Vue.js is a progressive, incrementally-adoptable JavaScript
+          framework for building UI on the web.</b
+        >
       </div>
     </div>
     <div class="info">
@@ -173,7 +176,7 @@ import { defineComponent } from "vue";
 export default defineComponent({
   name: "hello vue",
   props: {
-    msg: String
+    msg: String,
   },
   setup(props) {
     // interface Data {
@@ -181,7 +184,7 @@ export default defineComponent({
     //   object: object;
     // }
     // return () => h('div', [count.value, object.foo])
-  }
+  },
 });
 </script>
 

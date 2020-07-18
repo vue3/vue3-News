@@ -26,7 +26,9 @@
         <router-link to="/vue3-apexcharts">(⛱ ) => ApexCharts</router-link>
       </div>
       <div>
-        <router-link to="/vue3-win10-DatePanel">(🍒 ) => win10 Date</router-link>
+        <router-link to="/vue3-win10-DatePanel"
+          >(🍒 ) => win10 Date</router-link
+        >
       </div>
       <div>
         <router-link to="/about">(🌽 ) => About</router-link>
