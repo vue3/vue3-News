@@ -166,6 +166,28 @@ TODOLIST：
 介绍 Vue.js 以及 Vue-next 源码分析文章，希望通过学习Vue.js源码获得更好的知识和收获。  
 [【这是入口】你要找的 vue 源码 全宇宙的都在这！](https://github.com/vue3/vue3-News/issues/16)  
 
+
+Vue 3 Deep Dive with Evan You 【中英字幕】- Vue Mastery
+https://www.bilibili.com/video/BV1rC4y187Vw
+
+课程中提到的预备课程《Vue3 响应式原理》在 https://www.bilibili.com/video/BV1SZ4y1x7a9
+
+Vue之父尤雨溪深度解读Vue3.0的开发思路（上）
+https://www.bilibili.com/video/BV1qC4y18721
+
+Vue之父尤雨溪深度解读Vue3.0的开发思路（中）
+https://www.bilibili.com/video/BV1yK4y1s7Xh
+
+Vue之父尤雨溪深度解读Vue3.0的开发思路（下）
+https://www.bilibili.com/video/BV1ai4y137pg
+
+里面评论区和弹幕有在调侃尤大大的：
+
+=》尤雨溪就是个写前端的，懂什么vue！  
+=》你一点都不懂vue  
+=》他懂个锤子的vue  
+=》他根本不懂vue  
+
 * [Vue3 Composition API教程及示例](https://cloud.tencent.com/developer/article/1603056)  
 * [基于vue3.0.1 beta搭建仿京东淘宝的电商商城项目！](https://www.javascriptcn.com/read-e-commerce-mall-project-imitating-jingdong-taobao-based-on-vue3-0.1-beta.html)  
 * [细致分析，尤雨溪直播中提到 vue3.0 diff 算法优化细节](https://www.javascriptcn.com/read-detailed-analysis-of-optimization-details-of-vue3-diff-algorithm-in-live-broadcast.html)  
