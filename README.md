@@ -55,7 +55,7 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 进入了rc版本阶段：  
 
 **3.0.0-rc.4 (2020-07-21)**  
-...
+...  
 **3.0.0-rc.1 (2020-07-17)**  
 
 -- Alpha(α)：预览版，或者叫内部测试版；一般不向外部发布，会有很多Bug；一般只有测试人员使用。  
@@ -173,8 +173,8 @@ TODOLIST：
 课程中提到的预备课程是[《Vue3 响应式原理》](https://www.bilibili.com/video/BV1SZ4y1x7a9) 
 
 - [Vue之父尤雨溪深度解读Vue3.0的开发思路（上）](https://www.bilibili.com/video/BV1qC4y18721)  
-- [Vue之父尤雨溪深度解读Vue3.0的开发思路（中）(https://www.bilibili.com/video/BV1yK4y1s7Xh )  
-- [Vue之父尤雨溪深度解读Vue3.0的开发思路（下）(https://www.bilibili.com/video/BV1ai4y137pg)  
+- [Vue之父尤雨溪深度解读Vue3.0的开发思路（中）](https://www.bilibili.com/video/BV1yK4y1s7Xh )  
+- [Vue之父尤雨溪深度解读Vue3.0的开发思路（下）](https://www.bilibili.com/video/BV1ai4y137pg)  
 
 
 里面评论区和弹幕有在调侃尤大大的：
@@ -183,6 +183,8 @@ TODOLIST：
 =》你一点都不懂vue  
 =》他懂个锤子的vue  
 =》他根本不懂vue  
+
+🚴🏻 🚴🏻‍♂️ 🚴🏻‍♀️ 🚵🏻 🚵🏻‍♂️ 🚵🏻‍♀️  
 
 __[李金文 / vue-next学习](https://gitee.com/kennana/vue_next_learning/tree/master)__
 
