@@ -14,7 +14,7 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣7️⃣`/`1️⃣7️⃣  
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣7️⃣`/`2️⃣7️⃣  
 
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡------------------------ 【2021】
@@ -189,6 +189,30 @@ https://www.bilibili.com/video/BV1ai4y137pg
 =》他懂个锤子的vue  
 =》他根本不懂vue  
 
+__[李金文 / vue-next学习](https://gitee.com/kennana/vue_next_learning/tree/master)__
+
+vue-next 贡献指南（谷歌翻译版）  
+《Vue3.0抢先学》系列之：网友们都惊呆了！  
+《Vue3.0抢先学》系列之：一个简单的例子  
+《Vue3.0抢先学》系列之：使用Composition API  
+《Vue3.0抢先学》系列之：响应式之Ref vs. Reactive  
+《Vue3.0抢先学》系列之：使用render函数  
+《Vue3.0抢先学》vue-next 学习总结   
+《Vue3.0抢先学》系列之：组件属性Props  
+《Vue3.0抢先学》系列之：组件生命周期  
+《Vue3.0抢先学》系列之：更多响应式API示例（watch,computed的变种）    
+
+  
+* [如果 ElementUI 不维护了，也不再支持 Vue 3了我们该怎么办呢？](https://www.zhihu.com/question/407326156/answer/1342974146)  
+* [Vue3.x 深入浅出系列（连载三）](https://juejin.im/post/5f18f5ebf265da22e27a9a87)  
+* [基于Vue3.0开发知乎日报实战](https://juejin.im/post/5f1941cb5188252e685d492f)  
+* [Vue3全家桶 + Vite + TS + TSX尝鲜，先人一步!](https://zhuanlan.zhihu.com/p/161308974)  
+* [也许是最清楚的Vue3.x Reactive响应式原理讲解](https://juejin.im/post/5f1969705188257109551d8a)  
+* [Vue 3.0初步使用和原理](https://juejin.im/post/5f1805e55188252e974f0be9)  
+* [千字文看Vue3.0 变化](https://juejin.im/post/5f16d75de51d4534c14dc768)  
+* [vue3响应式数据最全最细致解析，vue3源码解析持续更新中](https://juejin.im/post/5f166297f265da23020a9ca5)  
+* [除了composition API，vue3.0文档又带来了什么新东西？](https://juejin.im/post/5f16540de51d4534c6543c35)  
+* [从Vue源码中学到的28个编程好习惯](https://juejin.im/post/5f1650ae5188252e884e8ed0)  
 * [Vue3 Composition API教程及示例](https://cloud.tencent.com/developer/article/1603056)  
 * [基于vue3.0.1 beta搭建仿京东淘宝的电商商城项目！](https://www.javascriptcn.com/read-e-commerce-mall-project-imitating-jingdong-taobao-based-on-vue3-0.1-beta.html)  
 * [细致分析，尤雨溪直播中提到 vue3.0 diff 算法优化细节](https://www.javascriptcn.com/read-detailed-analysis-of-optimization-details-of-vue3-diff-algorithm-in-live-broadcast.html)  
