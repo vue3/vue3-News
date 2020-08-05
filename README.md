@@ -14,10 +14,9 @@
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣7️⃣`/`2️⃣7️⃣  
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣8️⃣`/`0️⃣5️⃣
 
-
-【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡------------------------ 【2021】
+【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡--------------- 【2021】
 
 Twitter vue3: **vue 3 will be available by the end of Q2.**
 
@@ -54,7 +53,7 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 进入了rc版本阶段：  
 
-**3.0.0-rc.4 (2020-07-21)**  
+**3.0.0-rc.5 (2020-07-28)**  
 ...  
 **3.0.0-rc.1 (2020-07-17)**  
 
@@ -184,7 +183,42 @@ TODOLIST：
 =》他懂个锤子的vue  
 =》他根本不懂vue  
 
+
+* [官方给出的Vue3性能优化数据，其实很保守？](https://www.ershicimi.com/p/a0f8308d8b0fb2783dbdceea9e9a46d4)  
+* [A babel plugin that provides jsx syntax for vue3 ](https://github.com/HcySunYang/vue-next-jsx)  
+* [高级前端开发成长路线总结-进阶指南](https://github.com/hugheschoi/web-/blob/f4a1afbde36b94937b4871309e903b7f7b857abc/%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97.md)  
+* [sl1673495 前端技术博客，不定时更新](https://github.com/sl1673495/blogs)  
+* [Taro 中实现 Vue 3 的支持](https://github.com/NervJS/taro-rfcs/blob/35b0709660f08000fd18083ab44bc0c947e412f0/rfcs/0001-vue-3-support.md)  
+* [vue3-think 记录学习思考 vue3 的所有](https://github.com/cuixiaorui/vue3-think)  
+* [Vue3 Demo: Roll the dice](https://github.com/roberto-butti/vue3-demo-rollthedice)  
+* [vue3.0实战喵喵电影](https://github.com/gangking/PersonalBlog/tree/b03cfe85cf034068074e3ccb0cce590f1b091b71/docs/vue)  
+* [vue-design 渲染器 - 江山父老能容我 不使人间造孽钱](http://hcysun.me/vue-design/zh/)  
+* [vue3 Roadmap](https://github.com/vuejs/vue/projects/6)  
+* [Vue3响应式原理 + 手写reactive](https://segmentfault.com/a/1190000023465134)  
+* [Vue 3 到底有什么不同：v-model 升级了](https://segmentfault.com/a/1190000023462922)  
+* [Vue 3 到底有什么不同：全局 API](https://segmentfault.com/a/1190000023462887)  
+* [Vue2.x与Vue3响应式实现核心代码对比](https://juejin.im/post/6855129007412346888)  
+* [深入 TypeScript 中的子类型、逆变、协变，进阶 Vue3 源码前必须搞懂的。](https://juejin.im/post/6855517117778198542)  
+* [【译】为什么不需要在Vue3中使用Vuex](https://juejin.im/post/6856718746694713352)  
+* [Vue3.0源码解析之组件渲染，vnode 到真实 DOM](https://juejin.im/post/6856950924502532104)  
+* [一文看懂 Vue 3 到底有什么不同](https://juejin.im/post/6856011196224126989)  
+* [Vue3响应式原理](https://juejin.im/post/6856661502053744654)  
+
 🚴🏻 🚴🏻‍♂️ 🚴🏻‍♀️ 🚵🏻 🚵🏻‍♂️ 🚵🏻‍♀️  
+
+__[vue3.0 Composition API 入门教程](https://github.com/RBL3/vue3-demo)__
+
+vue3.0 Composition API 上手初体验 构建基本项目开发环境  
+vue3.0 Composition API 上手初体验 构建 vue 基础代码  
+vue3.0 Composition API 上手初体验 使用 vue-router 构建多页面应用  
+vue3.0 Composition API 上手初体验 神奇的 setup 函数 (一) 响应数据的绑定  
+vue3.0 Composition API 上手初体验 神奇的 setup 函数 (二) 响应对象数据的绑定  
+vue3.0 Composition API 上手初体验 神奇的 setup 函数 (三) 生命周期函数  
+vue3.0 Composition API 上手初体验 神奇的 setup 函数 (四) 计算属性 computed  
+vue3.0 Composition API 上手初体验 普通组件的开发与使用  
+vue3.0 Composition API 上手初体验 vue组件的具名插槽 slot 的变化  
+vue3.0 Composition API 上手初体验 函数组件的开发与使用  
+vue3.0 Composition API 上手初体验 用路由循环，做个导航菜单  
 
 __[李金文 / vue-next学习](https://gitee.com/kennana/vue_next_learning/tree/master)__
 
