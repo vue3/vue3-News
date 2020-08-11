@@ -13,8 +13,12 @@
 
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
 
+<!-- 
+// 0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣
+-->
+
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣8️⃣`/`0️⃣5️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣8️⃣`/`1️⃣1️⃣
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡--------------- 【2021】
 
@@ -184,6 +188,29 @@ TODOLIST：
 =》他根本不懂vue  
 
 
+* [Vue3文档【Vue2迁移Vue3】](https://juejin.im/post/6858558735695937544)  
+* [vue3.x reactive、effect、computed、watch依赖关系及实现原理](https://juejin.im/post/6859271079764951047)  
+* [Vue最全知识点（基础到进阶，覆盖vue3.0，欢迎补充讨论）](https://zhuanlan.zhihu.com/p/168589606)  
+* [Vue3.0浪潮下，没有一个平庸的程序员是无辜的，此刻，你需要把握这些?](https://zhuanlan.zhihu.com/p/170573874)  
+* [vue3 + router + tsx + vite 试用报告](https://zhuanlan.zhihu.com/p/170623237)  
+* [学习vue3系列watch](https://wuqiang.blog.csdn.net/article/details/107871795)  
+* [使用Vue3构建更好的高阶组件译](https://blog.csdn.net/gufudhn/article/details/107938423)  
+* [紧跟尤大的脚步提前体验Vue3新特性，你不会还没了解过Vue3吧](https://blog.csdn.net/l_ppp/article/details/107820234)  
+* [使用vite搭建Vue3项目](https://blog.csdn.net/weixin_42281031/article/details/107824088)  
+* [Vue3相对于2系列的升级（一）](https://blog.csdn.net/wangjikuen/article/details/107789109)  
+* [vue3为何放弃defineProperty，使用Proxy](https://blog.csdn.net/qq_40340478/article/details/107902452)  
+* [Go async in Vue 3 with Suspense](https://dev.to/viniciuskneves/go-async-in-vue-3-with-suspense-4860)  
+* [How to test your library for vue 2 and vue-next](https://dev.to/pikax/how-to-test-your-library-for-vue-2-and-vue-next-42ao)  
+* [A Month with Vue 3](https://dev.to/shawnwildermuth/a-month-with-vue-3-51p6)  
+* [Shared State Management with Vue Composition Api](https://dev.to/nonso/shared-state-management-with-vue-composition-api-2938)  
+* [A store implementation from scratch using Vue3's composition API](https://dev.to/koehr/a-store-implementation-from-scratch-using-vue3-s-composition-api-3p16)  
+* [Headless Testing with Vite + Vue-Test-Utils](https://dev.to/aelbore/headless-testing-with-vite-vue-test-utils-3jd1)  
+* [VueJS Quick Tip: Vue-router-next in the Composition API](https://dev.to/vuetraining/vuejs-quick-tip-vue-router-next-in-the-composition-api-1i0l)  
+* [Be prepared to migrate your Vue app to Vue 3](https://dev.to/chenxeed/be-prepared-to-migrate-your-vue-app-to-vue-3-eom)  
+* [Do Vue 3 refs admit a monad instance?](https://dev.to/jfet97/do-vue-3-refs-admit-a-monad-instance-5fan)  
+* [Vite - No Bundle Setup for Vuejs, React and Preact](https://dev.to/vuelancer/vite-no-bundle-setup-for-vuejs-react-and-preact-3bo3)  
+* [vue3.0 搭建教程(ui界面创建项目，帮你快速搭建所需模块，非常nice)](https://www.cnblogs.com/wangwei0514/articles/vue_create.html)  
+* [大前端：前端全栈加强版！前端全栈+全周期+多端(升级Vue3.0) 完整版](https://www.cnblogs.com/sorrowrain/p/13443641.html)  
 * [官方给出的Vue3性能优化数据，其实很保守？](https://www.ershicimi.com/p/a0f8308d8b0fb2783dbdceea9e9a46d4?content_source_url=https://github.com/vue3/vue3-News)  
 * [A babel plugin that provides jsx syntax for vue3 ](https://github.com/HcySunYang/vue-next-jsx?content_source_url=https://github.com/vue3/vue3-News)  
 * [高级前端开发成长路线总结-进阶指南](https://github.com/hugheschoi/web-/blob/f4a1afbde36b94937b4871309e903b7f7b857abc/%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97.md?content_source_url=https://github.com/vue3/vue3-News)  
