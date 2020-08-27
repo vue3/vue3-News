@@ -18,7 +18,7 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣8️⃣`/`1️⃣1️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣8️⃣`/`2️⃣7️⃣ 
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡--------------- 【2021】
 
@@ -58,7 +58,7 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 进入了rc版本阶段：  
 
-**3.0.0-rc.5 (2020-07-28)**  
+**3.0.0-rc.9 (2020-08-26)**  
 ...  
 **3.0.0-rc.1 (2020-07-17)**  
 
@@ -67,7 +67,7 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 -- RC(Release Candidate)：最终测试版本；可能成为最终产品的候选版本，如果未出现问题则可发布成为正式版本。    
 
 多数开源软件会推出两个RC版本，最后的 RC2 则成为正式版本。  
-
+我们的vue3就不一样，慢慢来，好东西，就要慢慢品！  
 
 **3.0.0-beta.20 (2020-07-08)**  
 @ github-actions released this 5 days ago · 37 commits to master since this release
@@ -172,6 +172,24 @@ TODOLIST：
 介绍 Vue.js 以及 Vue-next 源码分析文章，希望通过学习Vue.js源码获得更好的知识和收获。  
 [【这是入口】你要找的 vue 源码 全宇宙的都在这！](https://github.com/vue3/vue3-News/issues/16?content_source_url=https://github.com/vue3/vue3-News)  
 
+**vue => Q3 2020**  
+
+3.0: Release Management
+
+- Regression testing for 3.0   
+- Automated nightly release  
+- Formalize release lifecycle  
+- setup CLA process  
+
+3.0: IE11 compat build  
+3.0 Official Release
+
+2.7
+
+- Backport compatible 3.x features to 2.x  
+- Deprecation warnings for 3.x changes  
+- This will be the last minor release for 2.x and be offered as LTS (long-term support) for 18 months. It will continue to receive critical security updates even after the LTS period.
+
 
 [Vue 3 Deep Dive with Evan You 【中英字幕】- Vue Mastery](https://www.bilibili.com/video/BV1rC4y187Vw?content_source_url=https://github.com/vue3/vue3-News)  
 课程中提到的预备课程是[《Vue3 响应式原理》](https://www.bilibili.com/video/BV1SZ4y1x7a9?content_source_url=https://github.com/vue3/vue3-News) 
@@ -189,6 +207,54 @@ TODOLIST：
 =》他根本不懂vue  
 
 
+一个不错的admin后台管理模板，期待升级为vue3：[🚀vue-admin-beautiful是一款基于vue+element-ui的绝佳的中后台前端开发管理框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,他同时是拥有100+页面的大型vue前端单页应用,长期更新维护,感谢您的star,我一直在努力](https://github.com/chuzhixin/vue-admin-beautiful)  
+
+
+* [从Vue 2到Vue 3的迁移指南之破坏性特性（一、全局API）](https://juejin.im/post/6859427370080665613)  
+* [从Vue 2到Vue 3的迁移指南之破坏性特性（二、全局API的tree-shaking）](https://juejin.im/post/6860178370928312328)  
+* [从Vue 2到Vue 3的迁移指南之破坏性特性（三、v-model）](https://juejin.im/post/6860522009881739271)  
+* [从Vue 2到Vue 3的迁移指南之破坏性特性（四、渲染函数API）](https://juejin.im/post/6861104265419571207)  
+
+[翻译官网文档列表](https://juejin.im/user/1195873128420968)  
+- vue/next 指南——01安装  
+- vue3指南—02介绍  
+- vue3指南-03应用实例  
+- vue3指南-04 Template Syntax template语法  
+- vue3指南——05 Computed属性(property)和侦听器  
+- vue3指南-06Class and Style Bindings 类名和样式值绑定  
+- vue3指南--07Conditional Rendering 条件渲染  
+- vue3指南--08List Rendering 列表渲染  
+
+* [Be prepared to migrate your Vue app to Vue 3](https://dev.to/chenxeed/be-prepared-to-migrate-your-vue-app-to-vue-3-eom)  
+* [How to test your library for Vue 2.x and Vue 3.0](https://dev.to/pikax/how-to-test-your-library-for-vue-2-and-vue-next-42ao)  
+* [GitHub - blacksonic/awesome-vue-3](https://github.com/blacksonic/awesome-vue-3)  
+* [GitHub - nkoehring/vue3-typescript-app-starter](https://github.com/nkoehring/vue3-typescript-app-starter)  
+* [Vue 3 UX Wins with Async Components & Suspense](https://vuejsdevelopers.com/2020/07/13/vue-async-components-suspense/)  
+* [Handling Asynchrony in Vue 3 / Composition API — Part 1: Managing Async state](https://medium.com/@martinmalinda/handling-asynchrony-in-vue-3-composition-api-part-1-managing-async-state-e993842ebf8f)  
+* [Build better higher-order components with Vue 3](https://blog.logrocket.com/build-better-higher-order-components-with-vue-3/)  
+* [Vue3.0中的性能优化](https://blog.csdn.net/summer_zhh/article/details/108080930)  
+* [Vue3 + Element ui 后台管理系统](https://www.cnblogs.com/maqingyuan/p/13523757.html)  
+* [Vue3.0数据响应式原理详解](https://www.yisu.com/zixun/159186.html)  
+* [学习Vue3.0，你需要先了解一下Proxy](https://www.w3cschool.cn/article/87ff96bda80956)  
+* [学习Vue3.0，先从搭建环境开始](https://www.w3cschool.cn/article/9bcaca84c6ee7f)  
+* [vue3 源码全面解读](https://github.com/hkc452/slamdunk-the-vue3)  
+* [浅谈Vue3的watchEffect用途](https://www.codenong.com/s1190000023669309/)  
+* [vuetify 正在开发的 v3 分支，ts + vue3](https://github.com/vuetifyjs/vuetify/tree/next)  
+* [vue3源码学习——computed](https://blog.csdn.net/qq_31126175/article/details/108106717)  
+* [vue3源码学习——响应式reactive](https://blog.csdn.net/qq_31126175/article/details/108007446)  
+* [Vue 3.x 组件式 API](https://github.com/one-pupil/study/tree/master/vue_3.x)  
+* [Vue3.0 + Vite 使用 Bootstrap](https://segmentfault.com/a/1190000023586788)  
+* [Vue3 模板编译原理](https://segmentfault.com/a/1190000023594560)  
+* [VUE3来了，你用了NestJS了吗?（一）](https://segmentfault.com/a/1190000023589518)  
+* [程序员为什么要学习源码 | Vue3源码系列开篇词](https://segmentfault.com/a/1190000023699377)  
+* [Vue3 + TS + Egg重构自己的小项目[总结]](https://juejin.im/post/6862582779419459598)  
+* [vue3+Ts可视化开发的研究，实战拖拽基础，组件动态生成，远程加载组件](https://juejin.im/post/6860290630435012621)  
+* [Vue3.0变动简介](https://juejin.im/post/6859541760797442062)  
+* [使用Vue3构建更好的高阶组件[译]](https://juejin.im/post/6859571758362525704)  
+* [Vue3响应式原理剖析](https://juejin.im/post/6864396298394189832)  
+* [进阶高级前端，这9种Vue技术你掌握了吗？](https://juejin.im/post/6862560722531352583)  
+* [Vue3教程，抢先学习](https://www.e-learn.cn/topic/3777376)  
+* [Vue3 composition-api 有哪些劣势？](https://www.zhihu.com/question/416652570)  
 * [Vue3文档【Vue2迁移Vue3】](https://juejin.im/post/6858558735695937544?content_source_url=https://github.com/vue3/vue3-News)  
 * [vue3.x reactive、effect、computed、watch依赖关系及实现原理](https://juejin.im/post/6859271079764951047?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue最全知识点（基础到进阶，覆盖vue3.0，欢迎补充讨论）](https://zhuanlan.zhihu.com/p/168589606?content_source_url=https://github.com/vue3/vue3-News)  
