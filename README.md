@@ -206,6 +206,10 @@ TODOLIST：
 =》他懂个锤子的vue  
 =》他根本不懂vue  
 
+兄弟姐妹们，你们的饿了么升级为vue3了，在紧急构建中，很多大佬都在。  
+🚧🚧🚧🚧🚧🚧   + 522 contributors   
+(WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web.      
+[A Vue.js 3.0 UI Toolkit for Web.（WIP）](https://github.com/kkbjs/element3)
 
 一个不错的admin后台管理模板，期待升级为vue3：[🚀vue-admin-beautiful是一款基于vue+element-ui的绝佳的中后台前端开发管理框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,他同时是拥有100+页面的大型vue前端单页应用,长期更新维护,感谢您的star,我一直在努力](https://github.com/chuzhixin/vue-admin-beautiful?content_source_url=https://github.com/vue3/vue3-News)  
 
@@ -214,16 +218,18 @@ TODOLIST：
 * [从Vue 2到Vue 3的迁移指南之破坏性特性（二、全局API的tree-shaking）](https://juejin.im/post/6860178370928312328?content_source_url=https://github.com/vue3/vue3-News)  
 * [从Vue 2到Vue 3的迁移指南之破坏性特性（三、v-model）](https://juejin.im/post/6860522009881739271?content_source_url=https://github.com/vue3/vue3-News)  
 * [从Vue 2到Vue 3的迁移指南之破坏性特性（四、渲染函数API）](https://juejin.im/post/6861104265419571207?content_source_url=https://github.com/vue3/vue3-News)  
-
-[翻译官网文档列表](https://juejin.im/user/1195873128420968?content_source_url=https://github.com/vue3/vue3-News)  
-- vue/next 指南——01安装  
+🐬🐘🦒🐏🦥🦍  
+[翻译官网文档列表如下: ](https://juejin.im/user/1195873128420968?content_source_url=https://github.com/vue3/vue3-News)  
+- vue3指南—01安装  
 - vue3指南—02介绍  
 - vue3指南-03应用实例  
 - vue3指南-04 Template Syntax template语法  
-- vue3指南——05 Computed属性(property)和侦听器  
-- vue3指南-06Class and Style Bindings 类名和样式值绑定  
-- vue3指南--07Conditional Rendering 条件渲染  
-- vue3指南--08List Rendering 列表渲染  
+- vue3指南—05 Computed属性(property)和侦听器  
+- vue3指南-06 Class and Style Bindings 类名和样式值绑定  
+- vue3指南-07 Conditional Rendering 条件渲染  
+- vue3指南-08 List Rendering 列表渲染  
+
+[Vue 组合式 API](https://vue3js.cn/vue-composition/)  
 
 * [Be prepared to migrate your Vue app to Vue 3](https://dev.to/chenxeed/be-prepared-to-migrate-your-vue-app-to-vue-3-eom?content_source_url=https://github.com/vue3/vue3-News)  
 * [How to test your library for Vue 2.x and Vue 3.0](https://dev.to/pikax/how-to-test-your-library-for-vue-2-and-vue-next-42ao?content_source_url=https://github.com/vue3/vue3-News)  
