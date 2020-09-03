@@ -18,7 +18,7 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣8️⃣`/`2️⃣7️⃣ 
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣9️⃣`/`0️⃣4️⃣
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡--------------- 【2021】
 
@@ -217,6 +217,32 @@ https://github.com/element-plus/element-plus/
 
 一个不错的admin后台管理模板，期待升级为vue3：[🚀vue-admin-beautiful是一款基于vue+element-ui的绝佳的中后台前端开发管理框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,他同时是拥有100+页面的大型vue前端单页应用,长期更新维护,感谢您的star,我一直在努力](https://github.com/chuzhixin/vue-admin-beautiful?content_source_url=https://github.com/vue3/vue3-News)  
 
+* [首个 Vue 3 组件库发布](https://juejin.im/post/6867515263672123399?content_source_url=https://github.com/vue3/vue3-News) 
+* [Learn the fundamentals of Vue 3 in this course that starts with the very basics.](https://www.vuemastery.com/courses-path/vue3?content_source_url=https://github.com/vue3/vue3-News)   
+* [Creates Universal Library for Vue 2 & 3](https://github.com/antfu/vue-demi?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3 Playground packed with all the new features](https://github.com/blacksonic/vue-3-playground?content_source_url=https://github.com/vue3/vue3-News)  
+* [A curated list of awesome things related to Vue 3](https://github.com/blacksonic/awesome-vue-3?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3项目--让我们更快开发vue（一）](https://juejin.im/post/6865842981618843656?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3项目--让我们更快开发vue（二）](https://juejin.im/post/6867125503007375373?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 面向对象编程](https://zhuanlan.zhihu.com/p/212210282?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 reactivity 这个地方是不是循环引用了？](https://www.zhihu.com/question/418076382?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://zhuanlan.zhihu.com/p/150732926?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3 列表渲染](https://www.jianshu.com/p/781e5c49bf23?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3 Event 事件处理](https://www.jianshu.com/p/054c4d2e699b?content_source_url=https://github.com/vue3/vue3-News)  
+* [vite+vue3.x](https://www.jianshu.com/p/c68d65a8f973?content_source_url=https://github.com/vue3/vue3-News)  
+* [期待已久的鹅厂面试题来咯，Vue3实现递归菜单组件](https://www.jianshu.com/p/2ee1ae40cc1b?content_source_url=https://github.com/vue3/vue3-News)  
+* [快速了解vue 3.x](https://www.cnblogs.com/angel648/p/13582226.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [基于Vue3+ElementUI-BootStrap4_前端实战](https://www.cnblogs.com/origin-zy/p/13584519.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3项目打包app](https://www.cnblogs.com/dudududadada/p/13608208.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3-reactive(响应式对象)和toRefs](https://www.cnblogs.com/lxz-blogs/p/13595094.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [[译] Vue 3 迁移策略 —— 过滤器（移除）](https://juejin.im/post/6865863765863677960?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.0全家桶最全入门指南 - 快速搭建 (1/4)](https://juejin.im/post/6867114456762679309?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.0全家桶最全入门指南 - vue3.0新特性 (2/4)](https://juejin.im/post/6867123074148335624?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.0全家桶最全入门指南 - vue-router@4.x和vuex@4.x (3/4)](https://juejin.im/post/6867114456762679309?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.0全家桶最全入门指南 - 3.x跟2.x的其他差异 (4/4)](https://juejin.im/post/6867123749565497358?content_source_url=https://github.com/vue3/vue3-News)  
+
+
+__从Vue 2到Vue 3的迁移指南__
 
 * [从Vue 2到Vue 3的迁移指南之破坏性特性（一、全局API）](https://juejin.im/post/6859427370080665613?content_source_url=https://github.com/vue3/vue3-News)  
 * [从Vue 2到Vue 3的迁移指南之破坏性特性（二、全局API的tree-shaking）](https://juejin.im/post/6860178370928312328?content_source_url=https://github.com/vue3/vue3-News)  
