@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vue3/vue3-News/raw/master/asset/vue3-news-logo.png" alt="loadable-components" title="loadable-components">
+  <img src="https://github.com/vue3/vue3-News/raw/master/asset/vue3-news-logo.png" alt="vue3-News" title="vue3-News">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/2020-【何以解忧，唯有暴富】-red.svg">
@@ -18,7 +18,7 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣9️⃣`/`0️⃣4️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣9️⃣`/`1️⃣6️⃣ 
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡--------------- 【2021】
 
@@ -215,8 +215,11 @@ https://github.com/element-plus/element-plus/
 (WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web.      
 [A Vue.js 3.0 UI Toolkit for Web.（WIP）](https://github.com/kkbjs/element3)
 
-一个不错的admin后台管理模板，期待升级为vue3：[🚀vue-admin-beautiful是一款基于vue+element-ui的绝佳的中后台前端开发管理框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,他同时是拥有100+页面的大型vue前端单页应用,长期更新维护,感谢您的star,我一直在努力](https://github.com/chuzhixin/vue-admin-beautiful?content_source_url=https://github.com/vue3/vue3-News)  
-
+* [Vue3.x API config](https://blog.csdn.net/guoqiankunmiss/article/details/108537593)  
+* [vue3最美餐厅点餐系统APP](https://www.bilibili.com/video/av499614417)  
+* [Vue3 设计背后的思考](https://juejin.im/post/6870627817009184776)  
+* [用 Vue3 写一个 swipe-cell](https://juejin.im/post/6871669209445695495)  
+* [尝鲜vue3.0-tyepscript开发组件(3)](https://juejin.im/post/6872235455824265229)  
 * [首个 Vue 3 组件库发布](https://juejin.im/post/6867515263672123399?content_source_url=https://github.com/vue3/vue3-News) 
 * [Learn the fundamentals of Vue 3 in this course that starts with the very basics.](https://www.vuemastery.com/courses-path/vue3?content_source_url=https://github.com/vue3/vue3-News)   
 * [Creates Universal Library for Vue 2 & 3](https://github.com/antfu/vue-demi?content_source_url=https://github.com/vue3/vue3-News)  
