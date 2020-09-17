@@ -58,7 +58,7 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 进入了rc版本阶段：  
 
-**3.0.0-rc.9 (2020-08-26)**  
+**3.0.0-rc.12 (2020-09-16)**  
 ...  
 **3.0.0-rc.1 (2020-07-17)**  
 
@@ -215,6 +215,10 @@ https://github.com/element-plus/element-plus/
 (WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web.      
 [A Vue.js 3.0 UI Toolkit for Web.（WIP）](https://github.com/kkbjs/element3)
 
+* [vue 3 组件库（基于 element-ui 修改）](https://my.oschina.net/u/4326664/blog/4557649)  
+* [blacksonic/awesome-vue-3](https://github.com/blacksonic/awesome-vue-3)  
+* [Vue 3.0 初学入门使用](https://github.com/komavideo/LearnVue3)  
+* [Vue3 源码入门，实现简易版reactivity](https://segmentfault.com/a/1190000024479742)  
 * [Vue3.x API config](https://blog.csdn.net/guoqiankunmiss/article/details/108537593)  
 * [vue3最美餐厅点餐系统APP](https://www.bilibili.com/video/av499614417)  
 * [Vue3 设计背后的思考](https://juejin.im/post/6870627817009184776)  
