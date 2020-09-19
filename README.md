@@ -18,7 +18,7 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣9️⃣`/`1️⃣6️⃣ 
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣9️⃣`/`1️⃣9️⃣
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡--------------- 【2021】
 
@@ -61,6 +61,10 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 ![v3.0.0 One Piece](https://user-images.githubusercontent.com/499550/93624428-53932780-f9ae-11ea-8d16-af949e16a09f.png)
 
 Today we are proud to announce the official release of Vue.js 3.0 "One Piece". This new major version of the framework provides improved performance, smaller bundle sizes, better TypeScript integration, new APIs for tackling large scale use cases, and a solid foundation for long-term future iterations of the framework.
+
+[One Piece. Vuejs 3.0 正式版发布！代号：海贼王](https://github.com/vue3/vue3-News/issues/21)  
+
+---
 
 进入了rc版本阶段：  
 
@@ -196,14 +200,12 @@ TODOLIST：
 - Deprecation warnings for 3.x changes  
 - This will be the last minor release for 2.x and be offered as LTS (long-term support) for 18 months. It will continue to receive critical security updates even after the LTS period.
 
-
 [Vue 3 Deep Dive with Evan You 【中英字幕】- Vue Mastery](https://www.bilibili.com/video/BV1rC4y187Vw?content_source_url=https://github.com/vue3/vue3-News)  
 课程中提到的预备课程是[《Vue3 响应式原理》](https://www.bilibili.com/video/BV1SZ4y1x7a9?content_source_url=https://github.com/vue3/vue3-News) 
 
 - [Vue之父尤雨溪深度解读Vue3.0的开发思路（上）](https://www.bilibili.com/video/BV1qC4y18721?content_source_url=https://github.com/vue3/vue3-News)  
 - [Vue之父尤雨溪深度解读Vue3.0的开发思路（中）](https://www.bilibili.com/video/BV1yK4y1s7Xh?content_source_url=https://github.com/vue3/vue3-News)  
 - [Vue之父尤雨溪深度解读Vue3.0的开发思路（下）](https://www.bilibili.com/video/BV1ai4y137pg?content_source_url=https://github.com/vue3/vue3-News)  
-
 
 里面评论区和弹幕有在调侃尤大大的：
 
@@ -213,14 +215,10 @@ TODOLIST：
 =》他根本不懂vue  
 
 兄弟姐妹们，你们的饿了么升级为vue3了，在紧急构建中，很多大佬都在。 
-🎉 A Vue.js 3.0 UI Library  
-element-plus.org/  
+🎉 A Vue.js 3.0 UI Library element-plus.org/  
 https://github.com/element-plus/element-plus/  
 
-🚧🚧🚧🚧🚧🚧   + 522 contributors   
-(WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web.      
-[A Vue.js 3.0 UI Toolkit for Web.（WIP）](https://github.com/kkbjs/element3)
-
+* [A Vue.js 3.0 UI Toolkit for Web.（WIP）](https://github.com/kkbjs/element3)  
 * [vue 3 组件库（基于 element-ui 修改）](https://my.oschina.net/u/4326664/blog/4557649)  
 * [blacksonic/awesome-vue-3](https://github.com/blacksonic/awesome-vue-3)  
 * [Vue 3.0 初学入门使用](https://github.com/komavideo/LearnVue3)  
