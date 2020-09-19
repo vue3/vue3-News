@@ -56,6 +56,12 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
+**v3.0.0 One Piece**
+
+![v3.0.0 One Piece](https://user-images.githubusercontent.com/499550/93624428-53932780-f9ae-11ea-8d16-af949e16a09f.png)
+
+Today we are proud to announce the official release of Vue.js 3.0 "One Piece". This new major version of the framework provides improved performance, smaller bundle sizes, better TypeScript integration, new APIs for tackling large scale use cases, and a solid foundation for long-term future iterations of the framework.
+
 进入了rc版本阶段：  
 
 **3.0.0-rc.12 (2020-09-16)**  
