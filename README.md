@@ -2,7 +2,7 @@
   <img src="https://github.com/vue3/vue3-News/raw/master/asset/vue3-news-logo.png" alt="vue3-News" title="vue3-News">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/2020-【何以解忧，唯有暴富】-red.svg">
+  <img src="https://img.shields.io/badge/2020-【何以解忧，唯有暴富】-red.svg?style=for-the-badge&logo=angellist">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/vue-3+-3eaf7c.svg">
