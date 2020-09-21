@@ -28,6 +28,8 @@ Twitter vue3: **vue 3 will be available by the end of Q2.**
 
 Vue3.0正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp.weixin.qq.com/s/ZECNJYe1_zNwdX9tUWnMFA)】
 
+想了解更多有关 Vue 3.0 的信息，请大胆访问：https://v3.vuejs.org/  
+
 除了单独 Vue3 资讯，欢迎查看更多 vue.js 资讯：【[【🔥Vue.js 资讯 📚】目前 web 前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
 
 ## 目录
