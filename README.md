@@ -24,6 +24,10 @@
 
 Twitter vue3: **vue 3 will be available by the end of Q2.**
 
+9月18日星期五，Vue的作者尤雨溪发表主题演讲，正式发布Vue3.0并回应一些大家关切的问题。表示不建议大家立刻升级到Vue3.0版本，之前项目中某些依赖项可能还不支持新版，等社区完善后再进行迁移也不迟。
+
+Vue3.0正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp.weixin.qq.com/s/ZECNJYe1_zNwdX9tUWnMFA)】
+
 除了单独 Vue3 资讯，欢迎查看更多 vue.js 资讯：【[【🔥Vue.js 资讯 📚】目前 web 前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
 
 ## 目录
@@ -214,10 +218,9 @@ TODOLIST：
 =》他懂个锤子的vue  
 =》他根本不懂vue  
 
-兄弟姐妹们，你们的饿了么升级为vue3了，在紧急构建中，很多大佬都在。 
-🎉 A Vue.js 3.0 UI Library element-plus.org/  
-https://github.com/element-plus/element-plus/  
-
+=>兄弟姐妹们，你们的饿了么升级为vue3了，在紧急构建中，很多大佬都在。   
+【[🎉 A Vue.js 3.0 UI Library element-plus.org/](https://github.com/element-plus/element-plus/)】
+  
 * [A Vue.js 3.0 UI Toolkit for Web.（WIP）](https://github.com/kkbjs/element3)  
 * [vue 3 组件库（基于 element-ui 修改）](https://my.oschina.net/u/4326664/blog/4557649)  
 * [blacksonic/awesome-vue-3](https://github.com/blacksonic/awesome-vue-3)  
