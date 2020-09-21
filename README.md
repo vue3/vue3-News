@@ -186,7 +186,7 @@ TODOLIST：
 介绍 Vue.js 以及 Vue-next 源码分析文章，希望通过学习Vue.js源码获得更好的知识和收获。  
 [【这是入口】你要找的 vue 源码 全宇宙的都在这！](https://github.com/vue3/vue3-News/issues/16?content_source_url=https://github.com/vue3/vue3-News)  
 
-![v3.0.0 One Piece](https://github.com/vue3/vue3-News/master/asset/one-piece.png?sanitize=true)
+![v3.0.0 One Piece](https://raw.githubusercontent.com/vue3/vue3-News/master/asset/one-piece.png?sanitize=true)
 
 **「我是要成为海贼王的男人」**  
 
