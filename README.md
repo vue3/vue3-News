@@ -186,6 +186,13 @@ TODOLIST：
 介绍 Vue.js 以及 Vue-next 源码分析文章，希望通过学习Vue.js源码获得更好的知识和收获。  
 [【这是入口】你要找的 vue 源码 全宇宙的都在这！](https://github.com/vue3/vue3-News/issues/16?content_source_url=https://github.com/vue3/vue3-News)  
 
+![v3.0.0 One Piece](https://github.com/vue3/vue3-News/master/asset/one-piece.png?sanitize=true)
+
+**「我是要成为海贼王的男人」**  
+
+* [Vuejs 3 Release：One Piece. Vuejs 3.0 正式版发布！代号：海贼王](https://blog.csdn.net/qq_30640671/article/details/108679708)    
+* [Vue3.0正式发布，本次发布所有总结，一起看看!](https://blog.csdn.net/weixin_36065510/article/details/108679867)   
+
 **vue => Q3 2020**  
 
 3.0: Release Management
@@ -220,7 +227,7 @@ TODOLIST：
 
 =>兄弟姐妹们，你们的饿了么升级为vue3了，在紧急构建中，很多大佬都在。   
 【[🎉 A Vue.js 3.0 UI Library element-plus.org/](https://github.com/element-plus/element-plus/)】
-  
+
 * [A Vue.js 3.0 UI Toolkit for Web.（WIP）](https://github.com/kkbjs/element3)  
 * [vue 3 组件库（基于 element-ui 修改）](https://my.oschina.net/u/4326664/blog/4557649)  
 * [blacksonic/awesome-vue-3](https://github.com/blacksonic/awesome-vue-3)  
