@@ -26,9 +26,9 @@ Twitter vue3: **vue 3 will be available by the end of Q2.**
 
 9月18日星期五，Vue的作者尤雨溪发表主题演讲，正式发布Vue3.0并回应一些大家关切的问题。表示不建议大家立刻升级到Vue3.0版本，之前项目中某些依赖项可能还不支持新版，等社区完善后再进行迁移也不迟。
 
-Vue3.0正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp.weixin.qq.com/s/ZECNJYe1_zNwdX9tUWnMFA)】
+Vue3.0正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp.weixin.qq.com/s/ZECNJYe1_zNwdX9tUWnMFA?content_source_url=https://github.com/vue3/vue3-News)】
 
-想了解更多有关 Vue 3.0 的信息，请大胆访问：https://v3.vuejs.org/  
+想了解更多有关 Vue 3.0 的信息，请大胆访问：[v3.vuejs.org](https://v3.vuejs.org/?content_source_url=https://github.com/vue3/vue3-News)  
 
 除了单独 Vue3 资讯，欢迎查看更多 vue.js 资讯：【[【🔥Vue.js 资讯 📚】目前 web 前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
 
@@ -192,8 +192,9 @@ TODOLIST：
 
 **「我是要成为海贼王的男人」**  
 
-* [Vuejs 3 Release：One Piece. Vuejs 3.0 正式版发布！代号：海贼王](https://blog.csdn.net/qq_30640671/article/details/108679708)    
-* [Vue3.0正式发布，本次发布所有总结，一起看看!](https://blog.csdn.net/weixin_36065510/article/details/108679867)   
+* [【李南江】Vue3.0正式版教程2020年9月19号全网首发-Vue3 One Piece 持续更新中...](https://www.bilibili.com/video/BV14k4y117LL/?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vuejs 3 Release：One Piece. Vuejs 3.0 正式版发布！代号：海贼王](https://blog.csdn.net/qq_30640671/article/details/108679708?content_source_url=https://github.com/vue3/vue3-News)    
+* [Vue3.0正式发布，本次发布所有总结，一起看看!](https://blog.csdn.net/weixin_36065510/article/details/108679867?content_source_url=https://github.com/vue3/vue3-News)   
 
 **vue => Q3 2020**  
 
@@ -228,18 +229,18 @@ TODOLIST：
 =》他根本不懂vue  
 
 =>兄弟姐妹们，你们的饿了么升级为vue3了，在紧急构建中，很多大佬都在。   
-【[🎉 A Vue.js 3.0 UI Library element-plus.org/](https://github.com/element-plus/element-plus/)】
+【[🎉 A Vue.js 3.0 UI Library element-plus.org/](https://github.com/element-plus/element-plus/?content_source_url=https://github.com/vue3/vue3-News)】
 
-* [A Vue.js 3.0 UI Toolkit for Web.（WIP）](https://github.com/kkbjs/element3)  
-* [vue 3 组件库（基于 element-ui 修改）](https://my.oschina.net/u/4326664/blog/4557649)  
-* [blacksonic/awesome-vue-3](https://github.com/blacksonic/awesome-vue-3)  
-* [Vue 3.0 初学入门使用](https://github.com/komavideo/LearnVue3)  
-* [Vue3 源码入门，实现简易版reactivity](https://segmentfault.com/a/1190000024479742)  
-* [Vue3.x API config](https://blog.csdn.net/guoqiankunmiss/article/details/108537593)  
-* [vue3最美餐厅点餐系统APP](https://www.bilibili.com/video/av499614417)  
-* [Vue3 设计背后的思考](https://juejin.im/post/6870627817009184776)  
-* [用 Vue3 写一个 swipe-cell](https://juejin.im/post/6871669209445695495)  
-* [尝鲜vue3.0-tyepscript开发组件(3)](https://juejin.im/post/6872235455824265229)  
+* [A Vue.js 3.0 UI Toolkit for Web.（WIP）](https://github.com/kkbjs/element3?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue 3 组件库（基于 element-ui 修改）](https://my.oschina.net/u/4326664/blog/4557649?content_source_url=https://github.com/vue3/vue3-News)  
+* [blacksonic/awesome-vue-3](https://github.com/blacksonic/awesome-vue-3?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3.0 初学入门使用](https://github.com/komavideo/LearnVue3?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 源码入门，实现简易版reactivity](https://segmentfault.com/a/1190000024479742?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.x API config](https://blog.csdn.net/guoqiankunmiss/article/details/108537593?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3最美餐厅点餐系统APP](https://www.bilibili.com/video/av499614417?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 设计背后的思考](https://juejin.im/post/6870627817009184776?content_source_url=https://github.com/vue3/vue3-News)  
+* [用 Vue3 写一个 swipe-cell](https://juejin.im/post/6871669209445695495?content_source_url=https://github.com/vue3/vue3-News)  
+* [尝鲜vue3.0-tyepscript开发组件(3)](https://juejin.im/post/6872235455824265229?content_source_url=https://github.com/vue3/vue3-News)  
 * [首个 Vue 3 组件库发布](https://juejin.im/post/6867515263672123399?content_source_url=https://github.com/vue3/vue3-News) 
 * [Learn the fundamentals of Vue 3 in this course that starts with the very basics.](https://www.vuemastery.com/courses-path/vue3?content_source_url=https://github.com/vue3/vue3-News)   
 * [Creates Universal Library for Vue 2 & 3](https://github.com/antfu/vue-demi?content_source_url=https://github.com/vue3/vue3-News)  
