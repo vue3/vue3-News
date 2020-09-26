@@ -18,7 +18,7 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣9️⃣`/`1️⃣9️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣9️⃣`/`2️⃣6️⃣
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡--------------- 【2021】
 
@@ -192,6 +192,16 @@ TODOLIST：
 
 **「我是要成为海贼王的男人」**  
 
+* [源码分析 | 透过表象看本质， Vue3来了、看看里面到底有什么](https://juejin.im/post/6875556933365940238?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3 任意传送门——Teleport](https://juejin.im/post/6874720017863147527?content_source_url=https://github.com/vue3/vue3-News)  
+* [尤大 3 天前发在 GitHub 上的 vue-lit 是啥？](https://github.com/axuebin/articles/issues/41?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3上新后的超详细实战教学第一课---composition API篇](https://zhuanlan.zhihu.com/p/257110553?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 文档阅读 —— 深入响应式原理](https://juejin.im/post/6876429298505351181/?content_source_url=https://github.com/vue3/vue3-News)  
+* [「源码学习」适用于 Vue3 的 ECharts 包装组件](https://zhuanlan.zhihu.com/p/259254329?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3的不同](https://juejin.im/post/6875573837250068493?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3拥抱TypeScript的正确姿势](https://juejin.im/post/6875713523968802829?content_source_url=https://github.com/vue3/vue3-News)  
+* [【如果不想读文档的话】傻瓜式入门vue3](https://juejin.im/post/6874314855281590280?content_source_url=https://github.com/vue3/vue3-News)  
+* [揭秘，Vue3 compile 和 runtime 结合的 patch 过程（源码分析）](https://segmentfault.com/a/1190000024569143?content_source_url=https://github.com/vue3/vue3-News)  
 * [【李南江】Vue3.0正式版教程2020年9月19号全网首发-Vue3 One Piece 持续更新中...](https://www.bilibili.com/video/BV14k4y117LL/?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vuejs 3 Release：One Piece. Vuejs 3.0 正式版发布！代号：海贼王](https://blog.csdn.net/qq_30640671/article/details/108679708?content_source_url=https://github.com/vue3/vue3-News)    
 * [Vue3.0正式发布，本次发布所有总结，一起看看!](https://blog.csdn.net/weixin_36065510/article/details/108679867?content_source_url=https://github.com/vue3/vue3-News)   
