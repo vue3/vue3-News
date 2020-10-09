@@ -21,7 +21,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
+import { defineComponent, reactive } from "vue";
 
 import NCanvas from "../components/Canvas.vue";
 
@@ -56,7 +56,7 @@ export default defineComponent({
       [_, B, B, B, B, _, _, _, _, B, B, B, B, _],
     ];
 
-    const colors = {
+    const colors = reactive({
       [C]: "255, 0, 0",
       [B]: "100, 50, 0",
       [S]: "255, 200, 150",
@@ -64,7 +64,7 @@ export default defineComponent({
       [Y]: "255, 255, 0",
       [W]: "255, 255, 255",
       [_]: "229, 230, 232",
-    };
+    });
     return {
       pixelData,
       colors,
