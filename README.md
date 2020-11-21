@@ -18,7 +18,7 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`0️⃣9️⃣`/`2️⃣6️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`1️⃣1️⃣`/`2️⃣1️⃣ 
 
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡--------------- 【2021】
 
@@ -61,6 +61,28 @@ Vue CLI 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 nv
 Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://github.com/vuejs/composition-api （在 Vue 2 项目中作为插件使用）体验到。
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
+
+
+**v3.0.2** (2020-10-20)  
+
+Bug Fixes
+
+* **compiler:** stringify values on v-text ([#2432](https://github.com/vuejs/vue-next/issues/2432)) ([314ab2c](https://github.com/vuejs/vue-next/commit/314ab2c7c5dec56d9b117ac3bb988f19d92cf126)), closes [#2430](https://github.com/vuejs/vue-next/issues/2430)
+* **compiler-core:** fix multiline member expression check ([#2436](https://github.com/vuejs/vue-next/issues/2436)) ([6d2a1cb](https://github.com/vuejs/vue-next/commit/6d2a1cb64d090c482ed2cde7311f81b33e0f8d90)), closes [#2426](https://github.com/vuejs/vue-next/issues/2426)
+* **reactivity:** track length on for in iteration on Array ([0e5a3c4](https://github.com/vuejs/vue-next/commit/0e5a3c47a7398dfd0107fccf9b615772dd01aa74)), closes [#2427](https://github.com/vuejs/vue-next/issues/2427)
+* **runtime-core:** avoid mutating EMPTY_ARR when setting dev root ([#2419](https://github.com/vuejs/vue-next/issues/2419)) ([edd49dc](https://github.com/vuejs/vue-next/commit/edd49dcab40eb3faa44248772b176d5eebfd30fe)), closes [#2413](https://github.com/vuejs/vue-next/issues/2413)
+* **runtime-core:** avoid object prototype keys in property access cache ([#2416](https://github.com/vuejs/vue-next/issues/2416)) ([ba881f9](https://github.com/vuejs/vue-next/commit/ba881f9190510c613f04950b69d78f6af1a90e06))
+* **runtime-core:** fix component .once listener logic ([4bbb2b2](https://github.com/vuejs/vue-next/commit/4bbb2b2ee6866ed80cb542c2ff24207b4bd09bda))
+* **runtime-core:** non-stable Fragment should always unmount its children ([#2445](https://github.com/vuejs/vue-next/issues/2445)) ([fff62e2](https://github.com/vuejs/vue-next/commit/fff62e2ee8accf31bb5ac5abdb4c0636216cfd0e)), closes [#2444](https://github.com/vuejs/vue-next/issues/2444)
+* **runtime-core:** prevent self-injection ([#2424](https://github.com/vuejs/vue-next/issues/2424)) ([111d04f](https://github.com/vuejs/vue-next/commit/111d04f119a2b2d0b1a1790a063b152c17787943)), closes [#2400](https://github.com/vuejs/vue-next/issues/2400)
+* **suspense:** fix suspense nested child updates in template mode ([0227b4a](https://github.com/vuejs/vue-next/commit/0227b4a697afd598f6fa279a1a7ce84242e68f43)), closes [#2214](https://github.com/vuejs/vue-next/issues/2214)
+* **types:** h support for resolveComponent ([#2402](https://github.com/vuejs/vue-next/issues/2402)) ([1f2a652](https://github.com/vuejs/vue-next/commit/1f2a652a9d2e3bec472fb1786a4c16d6ccfa1fb1)), closes [#2357](https://github.com/vuejs/vue-next/issues/2357)
+* **v-model:** built in modifiers support on component  ([#2348](https://github.com/vuejs/vue-next/issues/2348)) ([128ec46](https://github.com/vuejs/vue-next/commit/128ec460ec00ca8672352d019b264c80dfd0c3b0)), closes [#2326](https://github.com/vuejs/vue-next/issues/2326)
+
+
+Features
+
+* **compile-core:** handle falsy dynamic args for v-on and v-bind ([#2393](https://github.com/vuejs/vue-next/issues/2393)) ([052a621](https://github.com/vuejs/vue-next/commit/052a621762c5f7c420464747ebbbed27c7350593)), closes [#2388](https://github.com/vuejs/vue-next/issues/2388)
 
 **v3.0.0 One Piece**
 
@@ -192,6 +214,31 @@ TODOLIST：
 
 **「我是要成为海贼王的男人」**  
 
+
+* [Vue3 究竟好在哪里？（和 React Hook 的详细对比）](https://zhuanlan.zhihu.com/p/133819602)  
+* [Vue3.x 从零开始（五）—— Router + Vuex + TypeScript 实战演练（上）](https://www.cnblogs.com/wisewrong/p/13839396.html)  
+* [2020年，需要了解 Vue3 的哪些知识](https://segmentfault.com/a/1190000037426618)  
+* [Vue3开发踩坑](https://juejin.cn/post/6892317013734064135)  
+* [快速使用Vue3最新的15个常用API（1W5+字详解，建议收藏）](https://segmentfault.com/a/1190000038236423)  
+* [大前端进阶-vue3响应式原理及vite原理](https://segmentfault.com/a/1190000037666187)  
+* [用webpack脚手架配置vue3 + ts](https://segmentfault.com/a/1190000038203282)  
+* [Vue3+TS，写一个逼格满满的项目](https://juejin.cn/post/6896748218076364814)  
+* [使用Vue3+TS重构百星websocket插件](https://juejin.cn/post/6890572689799380999)  
+* [让你30分钟快速掌握vue 3](https://juejin.cn/post/6887359442354962445)  
+* [初试vue3+vite+ant-design-vue2.0开发后台项目总结](https://juejin.cn/post/6888924565183922184)  
+* [🎉🎉一个基于 Vue 3 + Vant 3 的开源商城项目🎉🎉](https://juejin.cn/post/6892783570016796679)  
+* [（建议收藏）Vue3 对比 Vue2.x 差异性、注意点、整体梳理，与React hook比又如何？（面试热点）](https://juejin.cn/post/6892295955844956167)  
+* [做了一夜动画，就为让大家更好的理解Vue3的Composition Api](https://juejin.cn/post/6890545920883032071)  
+* [为什么 Vue3 的 ref 让很多大佬操碎了心？](https://juejin.cn/post/6895213945997492238)  
+* [Vue3 模板编译优化](https://juejin.cn/post/6893839274304700429)  
+* [Vue3源码解读(四)-reactivity](https://juejin.cn/post/6893045604592418830)  
+* [用原生实现Vue3，真香~](https://juejin.cn/post/6893880467305529352)  
+* [Vue3教程：用 Vue3 开发小程序，这里有一份实践代码！](https://juejin.cn/post/6895360073460416525)  
+* [深入了解 Vue3 响应式原理](https://juejin.cn/post/6893763807899271181)  
+* [深入了解 Vue3 模板编译原理](https://juejin.cn/post/6896641710538326030)  
+* [Vue3造“hooks”轮子前先看看这个](https://juejin.cn/post/6893289942596714503)  
+* [支持 Vue3 的进度条组件 - 仓库地址: vue3-progress](https://juejin.cn/post/6895166637868056589)  
+* [【前端进阶】使用 Vue3 的 complier-core 玩转模版编译](https://juejin.cn/post/6892897647544238094)  
 * [源码分析 | 透过表象看本质， Vue3来了、看看里面到底有什么](https://juejin.im/post/6875556933365940238?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue 3 任意传送门——Teleport](https://juejin.im/post/6874720017863147527?content_source_url=https://github.com/vue3/vue3-News)  
 * [尤大 3 天前发在 GitHub 上的 vue-lit 是啥？](https://github.com/axuebin/articles/issues/41?content_source_url=https://github.com/vue3/vue3-News)  
