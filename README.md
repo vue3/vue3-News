@@ -18,9 +18,9 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`1️⃣2️⃣`/`0️⃣8️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`1️⃣2️⃣
 
-【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡----- 【2021】
+【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡- 【2021】
 
 Twitter vue3: **vue 3 will be available by the end of Q2.**(done)  
 
@@ -205,6 +205,43 @@ TODOLIST：
 
 **「我是要成为海贼王的男人」**  
 
+
+* [vue3编码的正确姿势](https://zhuanlan.zhihu.com/p/328694623?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.0迁移（Vue Router篇）](https://zhuanlan.zhihu.com/p/337037258?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3.0 Ref-sugar 提案真的是自寻死路吗？](https://zhuanlan.zhihu.com/p/287842109?content_source_url=https://github.com/vue3/vue3-News)  
+* [解答vue3.0的几个问题](https://zhuanlan.zhihu.com/p/299063577?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3教程：Vue 3.0 来了，我们该做些什么？](https://zhuanlan.zhihu.com/p/277507394?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3+TS+ant2.0 实践指南](https://zhuanlan.zhihu.com/p/268527165?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3 createApp 的实现](https://zhuanlan.zhihu.com/p/337622748?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3丨从 5 个维度来讲 Vue3 变化](https://www.it610.com/article/1342302723328008192.htm?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3更新重点](https://www.bilibili.com/read/cv8925003/?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vant 3.0 正式发布：全面拥抱 Vue 3](https://zhuanlan.zhihu.com/p/339051157?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3.x & v-model](https://www.cnblogs.com/xgqfrms/p/14068555.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3TypeScript实战项目-博客网站](https://www.iqiyi.com/v_1i05m7vxnwk.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue-cli3搭建项目之webpack配置](https://segmentfault.com/a/1190000038447000?content_source_url=https://github.com/vue3/vue3-News)  
+* [让Vue3 Composition API 存在于你 Vue 以外的项目中](https://segmentfault.com/a/1190000038471330?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 项目从零开始搭建项目及插件的使用](https://segmentfault.com/a/1190000038485632?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3语法变化](https://segmentfault.com/a/1190000038431415?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3源码解析（computed-计算属性）](https://segmentfault.com/a/1190000038467336?content_source_url=https://github.com/vue3/vue3-News)  
+* [一张漫画图，带你简单了解vue3的响应式数据](https://segmentfault.com/a/1190000038474859?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3实验性功能的探索](https://juejin.cn/post/6906047152733192199?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 Teleport 组件的实践及原理](https://juejin.cn/post/6900957010808963079?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3组件通信总结](https://juejin.cn/post/6906134996575059976?content_source_url=https://github.com/vue3/vue3-News)  
+* [1.0之了解vue3的改动](https://juejin.cn/post/6906757025356021767?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 深入响应式原理](https://juejin.cn/post/6905676646066421768?content_source_url=https://github.com/vue3/vue3-News)  
+* [详解 Vue3 侦听器](https://juejin.cn/post/6904949314146009101?content_source_url=https://github.com/vue3/vue3-News)  
+* [深入理解Vue 3.0 Reactive](https://juejin.cn/post/6907963222611984397?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3 深入响应式原理 - 聊一聊响应式构建的那些经历](https://juejin.cn/post/6909079202922758151?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vant 3.0 正式发布：全面拥抱 Vue 3](https://juejin.cn/post/6909370562003369997?content_source_url=https://github.com/vue3/vue3-News)  
+* [扭扭乐-Vue3-TypeScript](https://juejin.cn/post/6908610587593277454?content_source_url=https://github.com/vue3/vue3-News)  
+* [揭秘Vue3官方教材动画制作过程，一文教会大家做代码演示GIF！](https://juejin.cn/post/6909481718156099597?content_source_url=https://github.com/vue3/vue3-News)  
+* [【Vue3官方教程】🎄万字笔记 | 同步导学视频](https://juejin.cn/post/6909247394904702984?content_source_url=https://github.com/vue3/vue3-News)  
+* [使用CLI开发一个Vue3的npm库](https://juejin.cn/post/6907428535510499336?content_source_url=https://github.com/vue3/vue3-News)  
+* [源码系列：Vue3深入浅出（一）](https://juejin.cn/post/6909698939696447496?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3源码分析一 首次渲染流程](https://juejin.cn/post/6907503717755387911?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3实战笔记 | 快速入门🚀](https://juejin.cn/post/6909632635665039367?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 最 Low 版实现](https://juejin.cn/post/6908652759029907470?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3丨从 5 个维度来讲 Vue3 变化](https://juejin.cn/post/6910009240053055496?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue 3 新手教程：#1 - 介绍](https://www.bilibili.com/video/av202898704/?content_source_url=https://github.com/vue3/vue3-News)  
 * [你绝对不知道 Vue 3 的生老病死周期](https://zhuanlan.zhihu.com/p/316146627?content_source_url=https://github.com/vue3/vue3-News)  
 * [Here are 66 public repositories matching this topic...](https://github.com/topics/vue3-demo?content_source_url=https://github.com/vue3/vue3-News)  
