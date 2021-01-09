@@ -2,7 +2,7 @@
   <img src="https://github.com/vue3/vue3-News/raw/master/asset/vue3-news-logo.png" alt="vue3-News" title="vue3-News">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/2020-【何以解忧，唯有暴富】-red.svg?style=for-the-badge&logo=angellist">
+  <img src="https://img.shields.io/badge/2021-【何以解忧，唯有暴富】-red.svg?style=for-the-badge&logo=angellist">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/vue-3+-3eaf7c.svg">
@@ -18,9 +18,13 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣0️⃣`/`1️⃣2️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣1️⃣
 
-【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡- 【2021】
+2021年您好，(*´▽｀)ノノ*)，继续前行！  
+【2021】 ≡≡-------------------------------- 【2022】
+
+2020年再见ヾ(￣▽￣)Bye~Bye~，感谢自己！  
+【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ 【2021】
 
 Twitter vue3: **vue 3 will be available by the end of Q2.**(done)  
 
@@ -34,7 +38,8 @@ Vue3.0正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp.
 
 ## 目录
 
-- [下半年撸vue3的霸气姿势](#-下半年撸-vue3-的姿势-)  
+- [新年新气象](#新年新气象)  
+- [撸vue3的霸气姿势](#-撸-vue3-的姿势-)  
 - [Vue 3 Cheat Sheet](#Vue3-CheatSheet)
 - [再谈 vue3](#再谈vue3)
 - [尤大推出`vue3 beta`之后](#尤大推出vue3-beta之后)
@@ -170,9 +175,13 @@ Collection of essential Vue Composition API (inspired by react-use)
 - 🎪 Interactive docs & demos: Check out the Storybook!
 - 🔌 Optional Add-ons: Firebase, vue-i18n, etc
 
+## 新年新气象
+
+新的一年，继续前行；希望各位顺顺利利，心想事成。
+
 ![](https://github.com/vue3/vue3-News/raw/master/asset/pretty-cat.png)
 
-## 💃🏻 下半年撸 vue3 的姿势 💃🏻
+## 💃🏻 撸 vue3 的姿势 💃🏻
 
 🐯 🦁 🐮 🐷 🐹 🦊
 
@@ -205,6 +214,28 @@ TODOLIST：
 
 **「我是要成为海贼王的男人」**  
 
+❤新年新心情❤  
+
+* [Vue 3 简介（Intro to Vue 3）- [中英字幕]](https://www.bilibili.com/video/BV1Er4y1T7RB?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3-markdown转html](https://www.iqiyi.com/v_1q8apqpeq3g.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [搭建基于 Vue 3 的前端表格编辑系统](https://zhuanlan.zhihu.com/p/342213056?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3中轻松实现switch功能组件的全过程](https://www.jb51.net/article/203638.htm?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3.0自定义弹窗组件|vue3 pc端对话框vue3-layer](https://segmentfault.com/a/1190000038783362?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3 组件开发：搭建基于SpreadJS的表格编辑系统（环境搭建）](https://www.cnblogs.com/C1SupportTeam/p/14236312.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3 组件库：element-plus 源码分析](https://juejin.cn/post/6914598983205847053?content_source_url=https://github.com/vue3/vue3-News)  
+* [基于Vue3.0自定义滚动条Vue3Scroll](https://juejin.cn/post/6915056696872140807?content_source_url=https://github.com/vue3/vue3-News)  
+* [JSX+Vue3+Vant 实现 网易云播放器(一?content_source_url=https://github.com/vue3/vue3-News)](https://juejin.cn/post/6914997086295916551?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3+typeScript 不到100行代码的轮播组件(每周一个小组件?content_source_url=https://github.com/vue3/vue3-News)](https://juejin.cn/post/6913712767753158663?content_source_url=https://github.com/vue3/vue3-News)  
+* [使用 JSX/TSX 开发 Vue3 组件](https://juejin.cn/post/6914517242298236942?content_source_url=https://github.com/vue3/vue3-News)  
+* [赶上Vue3 Composition函数集这班车](https://juejin.cn/post/6913368050628558856?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://juejin.cn/post/6913855965792043021?content_source_url=https://github.com/vue3/vue3-News)  
+* [如何充分利用Composition API对Vue3项目进行代码抽离](https://juejin.cn/post/6914862150872170509?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3 组件库：element-plus 源码分析](https://juejin.cn/post/6914598983205847053?content_source_url=https://github.com/vue3/vue3-News)  
+----
+
+2020，再见ヾ(￣▽￣)Bye~Bye~
+
+----
 
 * [vue3编码的正确姿势](https://zhuanlan.zhihu.com/p/328694623?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue3.0迁移（Vue Router篇）](https://zhuanlan.zhihu.com/p/337037258?content_source_url=https://github.com/vue3/vue3-News)  
