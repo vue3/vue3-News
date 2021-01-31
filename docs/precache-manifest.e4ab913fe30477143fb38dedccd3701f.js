@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bbc24ba21e7e91db52e",
+    "revision": "3e7078ee5faff32280c8",
     "url": "/vue3-News/css/chunk-vendors.f9c58f5d.css"
   },
   {
-    "revision": "7b5717ecc232c230ee63",
-    "url": "/vue3-News/css/index.e2de0742.css"
+    "revision": "2bd620628d1ca4829e34",
+    "url": "/vue3-News/css/index.b4765bad.css"
   },
   {
-    "revision": "31b9e11db16f77cf78ac52fd113b9d47",
+    "revision": "60a9c88d6ea5caedaab2e89086a7260f",
     "url": "/vue3-News/index.html"
   },
   {
-    "revision": "9bbc24ba21e7e91db52e",
-    "url": "/vue3-News/js/chunk-vendors.0d7d38ec.js"
+    "revision": "3e7078ee5faff32280c8",
+    "url": "/vue3-News/js/chunk-vendors.767a243d.js"
   },
   {
-    "revision": "7b5717ecc232c230ee63",
-    "url": "/vue3-News/js/index.11aa4d25.js"
+    "revision": "2bd620628d1ca4829e34",
+    "url": "/vue3-News/js/index.298f2856.js"
   },
   {
     "revision": "74899d989cff1a295601bd08d6e6170f",
