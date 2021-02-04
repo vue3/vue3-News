@@ -18,10 +18,10 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣1️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣2️⃣
 
 2021年您好，(*´▽｀)ノノ*)，继续前行！  
-【2021】 ≡≡≡≡---------------------------- 【2022】
+【2021】 ≡≡≡≡≡≡≡---------------------------- 【2022】
 
 2020年再见ヾ(￣▽￣)Bye~Bye~，感谢自己！  
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ 【2021】
@@ -216,6 +216,28 @@ TODOLIST：
 
 ❤新年新心情❤  
 
+* [Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城Vue3 版本。](https://github.com/newbee-ltd/newbee-mall-vue3-app?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3.x直播实例|vue3.0+vite2仿抖音小视频](https://ask.dcloud.net.cn/article/38750?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3从入门到项目实战](https://www.bilibili.com/video/BV17o4y1d751?content_source_url=https://github.com/vue3/vue3-News)  
+* [紧跟尤大的脚步提前体验Vue3新特性，你不会还没了解过Vue3吧](https://cloud.tencent.com/developer/article/1781939?content_source_url=https://github.com/vue3/vue3-News)  
+* [零基础学习 Vue3 教程 2021 年最新教程 免费视频教程](https://www.qiuzhi99.com/playlists/vue3.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.0学习教程与实战案例](https://segmentfault.com/a/1190000039131928?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 全家桶 + Element Plus + Vite + TypeScript + Eslint 项目配置最佳实践](https://segmentfault.com/a/1190000039157357?content_source_url=https://github.com/vue3/vue3-News)  
+* [可能是东半球最好看的vue3日历组件vue-baidu-calendar](https://segmentfault.com/a/1190000039151547?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.0 Composition API和Hooks使用学习文档](https://segmentfault.com/a/1190000039143683?content_source_url=https://github.com/vue3/vue3-News)  
+* [2天用vue3.0实现《掘金 - 2020年度人气创作者榜单》网站](https://segmentfault.com/a/1190000039129377?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021年，20 个值得学习的 Vue 开源项目](https://segmentfault.com/a/1190000039166973?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3 实战总结](https://juejin.cn/post/6923528456303017998?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3 最佳实践](https://juejin.cn/post/6923126521821560846?content_source_url=https://github.com/vue3/vue3-News)  
+* [【Vue3】CompositionAPI思考与总结](https://juejin.cn/post/6923934636926042126?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3使用css实现主题切换](https://juejin.cn/post/6925273471421251598?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 + Electron 开发图片压缩桌面应用](https://juejin.cn/post/6924521091914776584?content_source_url=https://github.com/vue3/vue3-News)  
+* [基于vue3直播/小视频实例|Vue3.x仿抖音界面](https://juejin.cn/post/6924609446060490760?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3（三）CND + import + 工程化的目录结构 = 啥？](https://juejin.cn/post/6924206224078536712?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3（二）工程化开发方式做项目](https://juejin.cn/post/6924205965608747022?content_source_url=https://github.com/vue3/vue3-News)  
+* [从零使用 Webpack5 搭建一个完整的 Vue3 的开发环境](https://juejin.cn/post/6924180659829211143?content_source_url=https://github.com/vue3/vue3-News)  
+* [用vue3+ts+electron撸了一个好用的脚手架工具](https://juejin.cn/post/6924205809349951501?content_source_url=https://github.com/vue3/vue3-News)  
+* [每天学一点Vue3（一） CND方式的安装以及简单使用](https://juejin.cn/post/6923094070759784456?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue3源码（二）：从源码来看Vue3新特性](https://juejin.cn/post/6921945008136257550?content_source_url=https://github.com/vue3/vue3-News)  
 * [使用vue3重构拼图游戏,真香!](https://juejin.cn/post/6920464793900384270?content_source_url=https://github.com/vue3/vue3-News)  
 * [10 个超强 Vue3 实战指南，由此突破新特性！](https://juejin.cn/post/6921255904675872776?content_source_url=https://github.com/vue3/vue3-News)  
