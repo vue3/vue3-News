@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue3-News/css/index.e112ad96.css"
   },
   {
-    "revision": "aea6f05bacb7a78006be83503a756887",
+    "revision": "6a35fbbb086f33b562dcc46cab720c67",
     "url": "/vue3-News/index.html"
   },
   {
