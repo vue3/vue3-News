@@ -37,7 +37,7 @@ Vue3.0正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp.
 除了单独 Vue3 资讯，欢迎查看更多 vue.js 资讯：【[【🔥Vue.js 资讯 📚】目前 web 前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
 
 欢迎━(*｀∀´*)ノ亻!    
-各位大佬前来玩耍！！！
+各位大佬们前来玩耍！！！
 
 ## 目录
 
@@ -224,7 +224,7 @@ TODOLIST：
 * [Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城Vue3 版本。](https://github.com/newbee-ltd/newbee-mall-vue3-app?content_source_url=https://github.com/vue3/vue3-News)  
 * [vue3.x直播实例|vue3.0+vite2仿抖音小视频](https://ask.dcloud.net.cn/article/38750?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue3从入门到项目实战](https://www.bilibili.com/video/BV17o4y1d751?content_source_url=https://github.com/vue3/vue3-News)  
-* 这是一个隐秘的链接(o´ω`o)ﾉ => 请右击查看[紧跟尤大的脚步提前体验Vue3新特性，你不会还没了解过Vue3吧](https://cloud.tencent.com/developer/article/1781939?content_source_url=https://github.com/vue3/vue3-News)  
+* [紧跟尤大的脚步提前体验Vue3新特性，你不会还没了解过Vue3吧](https://cloud.tencent.com/developer/article/1781939?content_source_url=https://github.com/vue3/vue3-News)  
 * [零基础学习 Vue3 教程 2021 年最新教程 免费视频教程](https://www.qiuzhi99.com/playlists/vue3.html?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue3.0学习教程与实战案例](https://segmentfault.com/a/1190000039131928?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue3 全家桶 + Element Plus + Vite + TypeScript + Eslint 项目配置最佳实践](https://segmentfault.com/a/1190000039157357?content_source_url=https://github.com/vue3/vue3-News)  
