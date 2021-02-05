@@ -36,6 +36,9 @@ Vue3.0正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp.
 
 除了单独 Vue3 资讯，欢迎查看更多 vue.js 资讯：【[【🔥Vue.js 资讯 📚】目前 web 前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
 
+欢迎━(*｀∀´*)ノ亻!    
+各位大佬前来玩耍！！！
+
 ## 目录
 
 - [新年新气象](#新年新气象)  
@@ -67,16 +70,18 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
-**v3.0.4** (2020-12-02)   
+**v3.0.5** (2020-12-30)   
+
+**Note:** this release contains a type-only change that requires TypeScript 4.0+, which
+may cause build issues in projects still using TS 3.x.
 
 Please refer to [CHANGELOG.md](https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md) for details.
 
 Bug Fixes
 
-* **async-component:** forward refs on async component wrapper (64d4681), closes #2671
-* **attr-fallthrough:** ensure consistent attr fallthrough for root fragments with comments (3bc2914), closes #2549
-* **build:** enable safari10 option for terser (#2472) (20a704f), closes #2470
-* **compiler-core:** fix scope var reference check for v-on expressions (9db7095), closes #2564
+* **compiler-core:** fix missing createVNode import on nested v-for ([ad4d391](https://github.com/vuejs/vue-next/commit/ad4d3915d39515a3e9ff2de691f82cb922a314b9)), closes [#2718](https://github.com/vuejs/vue-next/issues/2718)
+* **compiler-sfc:** should keep template nodes with no content ([#2468](https://github.com/vuejs/vue-next/issues/2468)) ([5b9b37f](https://github.com/vuejs/vue-next/commit/5b9b37fc9b363be2989c1e9d76ab6e950cdfe2ad)), closes [#2463](https://github.com/vuejs/vue-next/issues/2463)
+* **compiler-sfc:** support transforming asset urls with full base url. ([#2477](https://github.com/vuejs/vue-next/issues/2477)) ([db786b1](https://github.com/vuejs/vue-next/commit/db786b1afe41c26611a215e6d6599d50312b9c2f))
 
 ...
 
