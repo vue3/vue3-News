@@ -18,7 +18,7 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣2️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣3️⃣
 
 2021年您好，(*´▽｀)ノノ*)，继续前行！  
 【2021】 ≡≡≡≡≡≡≡---------------------------- 【2022】
@@ -41,6 +41,7 @@ Vue3.0正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp.
 
 ## 目录
 
+- [2021 => 我最棒(๑•̀ㅂ•́)و✧](#我是要成为海贼王的男人)  
 - [新年新气象](#新年新气象)  
 - [撸vue3的霸气姿势](#-撸-vue3-的姿势-)  
 - [Vue 3 Cheat Sheet](#Vue3-CheatSheet)
@@ -70,19 +71,17 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
-**v3.0.5** (2020-12-30)   
+**v3.0.6** (2021-02-24)
 
-**Note:** this release contains a type-only change that requires TypeScript 4.0+, which
-may cause build issues in projects still using TS 3.x.
+### Bug Fixes
 
-Please refer to [CHANGELOG.md](https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md) for details.
-
-Bug Fixes
-
-* **compiler-core:** fix missing createVNode import on nested v-for ([ad4d391](https://github.com/vuejs/vue-next/commit/ad4d3915d39515a3e9ff2de691f82cb922a314b9)), closes [#2718](https://github.com/vuejs/vue-next/issues/2718)
-* **compiler-sfc:** should keep template nodes with no content ([#2468](https://github.com/vuejs/vue-next/issues/2468)) ([5b9b37f](https://github.com/vuejs/vue-next/commit/5b9b37fc9b363be2989c1e9d76ab6e950cdfe2ad)), closes [#2463](https://github.com/vuejs/vue-next/issues/2463)
-* **compiler-sfc:** support transforming asset urls with full base url. ([#2477](https://github.com/vuejs/vue-next/issues/2477)) ([db786b1](https://github.com/vuejs/vue-next/commit/db786b1afe41c26611a215e6d6599d50312b9c2f))
-
+* **compiler-core:** do not mark v-for as stable on const bindings ([734c65b](https://github.com/vuejs/vue-next/commit/734c65badd8395a78d7beee1fc960aee418361a0)), closes [vitejs/vite#1956](https://github.com/vitejs/vite/issues/1956)
+* **compiler-dom:** ensure global build filename matches the one defined in package.json (close [#3181](https://github.com/vuejs/vue-next/issues/3181)) ([#3185](https://github.com/vuejs/vue-next/issues/3185)) ([96b6433](https://github.com/vuejs/vue-next/commit/96b64335242a99432080aeb879e5c0787207a0de))
+* **compiler-dom:** fix cdn entries ([fcb6c89](https://github.com/vuejs/vue-next/commit/fcb6c8920c6ee76f57325a178eb9280d7bae4d7c)), closes [#3181](https://github.com/vuejs/vue-next/issues/3181) [#3185](https://github.com/vuejs/vue-next/issues/3185)
+* **compiler-sfc:** compiler blank srcset ([#3005](https://github.com/vuejs/vue-next/issues/3005)) ([9dc816d](https://github.com/vuejs/vue-next/commit/9dc816d63468b0a2fa2b6123959310014e121b58))
+* **compiler-sfc:** removeSpecifier issue when removing initial imports (script-setup) ([#2729](https://github.com/vuejs/vue-next/issues/2729)) ([6d762a8](https://github.com/vuejs/vue-next/commit/6d762a84ca0ac9a43eb3d0ab0c7b7b17c35c9836))
+* **compiler-sfc:** the empty lang attribute should be treated as no lang specified ([#3051](https://github.com/vuejs/vue-next/issues/3051)) ([6d5b623](https://github.com/vuejs/vue-next/commit/6d5b62351248780663d2612a1f483f7ea9f5e5a2))
+* 
 ...
 
 **v3.0.0 One Piece**
@@ -92,35 +91,6 @@ Bug Fixes
 Today we are proud to announce the official release of Vue.js 3.0 "One Piece". This new major version of the framework provides improved performance, smaller bundle sizes, better TypeScript integration, new APIs for tackling large scale use cases, and a solid foundation for long-term future iterations of the framework.
 
 [One Piece. Vuejs 3.0 正式版发布！代号：海贼王](https://github.com/vue3/vue3-News/issues/21)  
-
----
-
-进入了rc版本阶段：  
-
-**3.0.0-rc.12 (2020-09-16)**  
-...  
-**3.0.0-rc.1 (2020-07-17)**  
-
--- Alpha(α)：预览版，或者叫内部测试版；一般不向外部发布，会有很多Bug；一般只有测试人员使用。  
--- Beta(β)：测试版，或者叫公开测试版；这个阶段的版本会一直加入新的功能；在 Alpha版之后推出。  
--- RC(Release Candidate)：最终测试版本；可能成为最终产品的候选版本，如果未出现问题则可发布成为正式版本。    
-
-多数开源软件会推出两个RC版本，最后的 RC2 则成为正式版本。  
-我们的vue3就不一样，慢慢来，好东西，就要慢慢品！  
-
-**3.0.0-beta.20 (2020-07-08)**  
-@ github-actions released this 5 days ago · 37 commits to master since this release
-Please refer to [CHANGELOG.md](https://github.com/vuejs/vue-next/blob/master/CHANGELOG.md) for details.
-
-...
-
-**v3.0.0-beta.2**  
-released this 6 days ago · 29 commits to master since this release  
-release: v3.0.0-beta.2
-
-**v3.0.0-beta.1**  
-released this 7 days ago · 40 commits to master since this release  
-release: v3.0.0-beta.1
 
 **🔥🐔2020 前端面试秘籍**
 
@@ -217,10 +187,87 @@ TODOLIST：
 
 ![v3.0.0 One Piece](https://raw.githubusercontent.com/vue3/vue3-News/master/asset/one-piece.png?sanitize=true)
 
-**「我是要成为海贼王的男人」**  
+#### 「我是要成为海贼王的男人」 
+
+2021 => 我最棒(๑•̀ㅂ•́)و✧  
+
+* [2021前端会有什么新的变化？](https://www.zhihu.com/question/428128531?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021年前端工程师书单推荐](https://juejin.cn/post/6920428989181870094?content_source_url=https://github.com/vue3/vue3-News)  
+* [阿里巴巴淘系技术-2021年前端会有什么新变化？](https://juejin.cn/post/6920487374543831053?content_source_url=https://github.com/vue3/vue3-News)  
+* [从2020看2021前端发展趋势](https://juejin.cn/post/6912435101452206088?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021前端学习路径书单—自我成长之路](https://juejin.cn/post/6930419481835470861?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021前端会有什么新变化？](https://juejin.cn/post/6918701032264433672?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021 年毕业要不要学前端框架?](https://www.zhihu.com/question/355384140?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021前端发展方向](https://www.cnblogs.com/qianduanpiaoge/p/14300390.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021 年前端开发的下一步发展预测 ](https://www.sohu.com/a/447955212_355140?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021 年前端趋势预测](https://developer.aliyun.com/article/781216?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021年Web开发的主要趋势](https://zhuanlan.zhihu.com/p/324154627?content_source_url=https://github.com/vue3/vue3-News)    
+* [你确定不了解下 2021 年 Web 开发的趋势嘛](https://zhuanlan.zhihu.com/p/344451653?content_source_url=https://github.com/vue3/vue3-News)    
+* [前端规划：2021 前端技术战略](https://zhuanlan.zhihu.com/p/348509260?content_source_url=https://github.com/vue3/vue3-News)    
 
 ❤新年新心情❤  
 
+* [Vite 会成为2021年最受欢迎的前端工具吗？](https://juejin.cn/post/6928043092142456839?content_source_url=https://github.com/vue3/vue3-News)  
+* [在 Vue3 项目中集成 VSCode - 实现 Vite + Vue3 + MonacoEdit](https://juejin.cn/post/6933463466111926286?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vite2.0 正式发布，凭什么吊打 webpack ？](https://juejin.cn/post/6931618997251080200?content_source_url=https://github.com/vue3/vue3-News)  
+* [小鲜肉 Vite 会取代 OG Vue CLI 吗？](https://juejin.cn/post/6933486507680497671?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vite 2 + React 实践](https://juejin.cn/post/6933562433264943111?content_source_url=https://github.com/vue3/vue3-News)  
+* [浅谈 Vite 2.0 原理，依赖预编译，插件机制是如何兼容 Rollup 的？](https://juejin.cn/post/6932367804108800007?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vite 2.0 发布了](https://zhuanlan.zhihu.com/p/351147547?content_source_url=https://github.com/vue3/vue3-News)  
+* [vite2.0+CompistionAPI+ts入门到精通教程](https://zhuanlan.zhihu.com/p/352176851?content_source_url=https://github.com/vue3/vue3-News)  
+* [拥抱 Vite2.0 系列（一）](https://zhuanlan.zhihu.com/p/351848276?content_source_url=https://github.com/vue3/vue3-News)  
+* [拥抱 Vite2.0 系列（二）](https://zhuanlan.zhihu.com/p/351852362?content_source_url=https://github.com/vue3/vue3-News)  
+* [拥抱 Vite2.0 系列（三）](https://zhuanlan.zhihu.com/p/351857081?content_source_url=https://github.com/vue3/vue3-News)  
+* [拥抱 Vite2.0 系列（四）静态资源处理](https://zhuanlan.zhihu.com/p/351860990?content_source_url=https://github.com/vue3/vue3-News)  
+* [拥抱 Vite2.0 系列（五）打包生产](https://zhuanlan.zhihu.com/p/351864141?content_source_url=https://github.com/vue3/vue3-News)  
+* [拥抱 Vite2.0 系列（六）环境变量模式](https://zhuanlan.zhihu.com/p/351864308?content_source_url=https://github.com/vue3/vue3-News)  
+* [拥抱 Vite2.0 系列（服务端渲染）](https://zhuanlan.zhihu.com/p/352160361?content_source_url=https://github.com/vue3/vue3-News)  
+* [拥抱 Vite2.0 系列（后端集成）](https://zhuanlan.zhihu.com/p/352161635?content_source_url=https://github.com/vue3/vue3-News)  
+* [如何看待 Web 开发构建工具 Vite？](https://www.zhihu.com/question/394062839?content_source_url=https://github.com/vue3/vue3-News)  
+* [重构于Vite](https://zhuanlan.zhihu.com/p/352216610?content_source_url=https://github.com/vue3/vue3-News)  
+* [简单梳理下 Vue3 的新特性](https://zhuanlan.zhihu.com/p/352494596?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3时代，你应该全面拥抱依赖注入](https://zhuanlan.zhihu.com/p/351519484?content_source_url=https://github.com/vue3/vue3-News)  
+* [vite2.0搭建vue3移动端项目](https://zhuanlan.zhihu.com/p/351888882?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 + Vite + TypeScript 项目实战 -----（二）Vue3 生命周期](https://juejin.cn/post/6929040071962132488?content_source_url=https://github.com/vue3/vue3-News)  
+* [[vue3 vs vue2] slot 用法详解](https://juejin.cn/post/6931286420040450061?content_source_url=https://github.com/vue3/vue3-News)  
+* [【Vue3源码】Vue 到底发生了肾摸变化？](https://juejin.cn/post/6927205175862132749?content_source_url=https://github.com/vue3/vue3-News)  
+* [初探vue3｜牛气冲天新年征文](https://juejin.cn/post/6929110367314706440?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 + Vite + TypeScript 项目实战 -----（一）搭建项目](https://juejin.cn/post/6928379876797841415?content_source_url=https://github.com/vue3/vue3-News)  
+* [一文搞懂Vue2和Vue3的Proxy](https://juejin.cn/post/6930539560476606478?content_source_url=https://github.com/vue3/vue3-News)  
+* [【阮一峰推荐】学习 vue3 源码的利器](https://juejin.cn/post/6925668019884523534?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3组件（九）Vue3+element+json实现一个动态渲染的表单控件](https://juejin.cn/post/6931913871275851784?content_source_url=https://github.com/vue3/vue3-News)  
+* [【Vue3组件化源码】树形组件ElTree的内部原理](https://juejin.cn/post/6926144123669839880?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3组件（五）封装一个更好用的url组件](https://juejin.cn/post/6930378495587516423?content_source_url=https://github.com/vue3/vue3-News)  
+* [[译] Vue3 Composition API](https://juejin.cn/post/6932815738562592775?content_source_url=https://github.com/vue3/vue3-News)  
+* [[vue3 vs vue2] Async Components](https://juejin.cn/post/6930963373978812430?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3源码解读之runtime（上）](https://juejin.cn/post/6931255350565961736?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3组件库工程化实战 --Element3](https://juejin.cn/post/6930879590554402830?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3疑问系列(2) — 在component vnode上绑定指令,指令是如何工作的？](https://juejin.cn/post/6932695758664073223?content_source_url=https://github.com/vue3/vue3-News)  
+* [在vue3+vite项目中使用svg](https://juejin.cn/post/6932037172178616334?content_source_url=https://github.com/vue3/vue3-News)  
+* [TS 加持的 Vue 3，如何帮你轻松构建企业级前端应用](https://juejin.cn/post/6933005298198118413?content_source_url=https://github.com/vue3/vue3-News)  
+* [微前端-vue3.0 实践](https://juejin.cn/post/6932301613298089992?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3 Webpack Boilerplate (Vue 3, Vue Router 4, Vuex 4, Typescript)](https://github.com/starkovsky/vue3-webpack-boilerplate?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3新特性示例: 响应式API、组合式API、TodoMVC](https://github.com/benyasin/vue3-demo?content_source_url=https://github.com/vue3/vue3-News)  
+* [一个基于vue3+typescript+ant-design-vue 搭建的基础代码库,有完善的类型系统，帮助快速搭建 vue3 的基础代码架构。](https://github.com/ibwei/vue3-ts-base?content_source_url=https://github.com/vue3/vue3-News)  
+* [vu-query: 目前vue3最好用的请求缓存库](https://segmentfault.com/a/1190000039236400?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3丨进一步了解这 20 个响应式 API，写码如有神](https://segmentfault.com/a/1190000039194351?content_source_url=https://github.com/vue3/vue3-News)  
+* [解决WebStorm无法正确识别Vue3组合式API的问题](https://segmentfault.com/a/1190000039217685?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3手册译稿-介绍](https://www.cnblogs.com/zhouyu629/p/14451623.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [VUE 3.0 Proxy浅谈](https://www.cnblogs.com/tommymarc/p/14445347.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3.0+vite实战(一)](https://www.cnblogs.com/moran1992/p/14423124.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3组件（九）Vue + element-Plus + json = 动态渲染的表单控件](https://www.cnblogs.com/jyk/p/14430141.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [web前端项目案例实战](https://www.cnblogs.com/xiaoyan2017/p/14449570.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [要了解的vue3基础语法](https://blog.csdn.net/gao_xu_520/article/details/113994688?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3搭建脚手架实战](https://blog.csdn.net/qq_40513881/article/details/113880148?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3源码学习-vue3的优化](https://blog.csdn.net/amy1019/article/details/113967267?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3+Ts在CompositionAPI下使用Mitt](https://www.jianshu.com/p/bb18084c3eb7?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.X学习笔记](https://www.jianshu.com/p/823f01a76cc0?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 | Vue中的诸多花样样式写法 以及 相关规则和技巧](https://www.jianshu.com/p/cdbd2670e075?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3组件（12）代码重构](https://www.jianshu.com/p/099df7727e87?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3源码解读之runtime（上）](https://www.jianshu.com/p/b7ab0081d857?content_source_url=https://github.com/vue3/vue3-News)  
+* [《vue3从零搭建一个后台》(三)、第三方配置](https://www.jianshu.com/p/4b82135ab025?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3源码解读之全局概览](https://www.jianshu.com/p/a505a4e057c3?content_source_url=https://github.com/vue3/vue3-News)  
+* [基于Vue3+TypeScript+ Vue-Cli4.0构建手机端模板脚手架](https://www.jianshu.com/p/adb0983830f6?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城Vue3 版本。](https://github.com/newbee-ltd/newbee-mall-vue3-app?content_source_url=https://github.com/vue3/vue3-News)  
 * [vue3.x直播实例|vue3.0+vite2仿抖音小视频](https://ask.dcloud.net.cn/article/38750?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue3从入门到项目实战](https://www.bilibili.com/video/BV17o4y1d751?content_source_url=https://github.com/vue3/vue3-News)  
