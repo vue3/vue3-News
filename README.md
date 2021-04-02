@@ -18,10 +18,10 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣3️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣4️⃣
 
 2021年您好，(*´▽｀)ノノ*)，继续前行！  
-【2021】 ≡≡≡≡≡≡≡---------------------------- 【2022】
+【2021】 ≡≡≡≡≡≡≡≡≡≡≡≡≡------------------------ 【2022】
 
 2020年再见ヾ(￣▽￣)Bye~Bye~，感谢自己！  
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ 【2021】
@@ -71,7 +71,7 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
-**v3.0.6** (2021-02-24)
+**v3.0.7** (2021-02-01)
 
 ### Bug Fixes
 
@@ -207,6 +207,21 @@ TODOLIST：
 
 ❤新年新心情❤  
 
+* [vite2+electron12短视频+直播应用|electron+swiper仿制抖音桌面版](https://juejin.cn/post/6944281961871441928?content_source_url=https://github.com/vue3/vue3-News)  
+* [京东 vue3 组件库震撼升级，如约而至！](https://juejin.cn/post/6945601440064733198?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue2 和 vue3 使用区别](https://juejin.cn/post/6946123143119388686?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3+TS+Vite2+Element Plus 两天写个抽奖小系统（前端篇）](https://juejin.cn/post/6944985371943895077?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3 正式版开发体验心得！](https://juejin.cn/post/6944912171742543879?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 生成图片验证码组件](https://juejin.cn/post/6944266783423627300?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 源码中的位运算，又一个面试考点](https://juejin.cn/post/6946032418520301605?content_source_url=https://github.com/vue3/vue3-News)  
+* [一个很酷的 Vue3 的请求库](https://juejin.cn/post/6946015305248292900?content_source_url=https://github.com/vue3/vue3-News)  
+* [【vite2 + vue3】从0搭建体验（一）](https://juejin.cn/post/6943844995572957191?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3+ts(1)：vue3项目从0到1搭建](https://juejin.cn/post/6944873503522816030?content_source_url=https://github.com/vue3/vue3-News)  
+* [vite2+vue3+vant3 h5配置](https://juejin.cn/post/6945625911555260429?content_source_url=https://github.com/vue3/vue3-News)  
+* [手把手学习Vue3.0：Vue3.0跟Vuex、Router、Axios等组件的版本对照大全](https://juejin.cn/post/6945369292032458783?content_source_url=https://github.com/vue3/vue3-News)  
+* [手把手学习Vue3.0：Vue3.0正确使用Bus总线mitt实现组件间通信和传参](https://juejin.cn/post/6945369322206265380?content_source_url=https://github.com/vue3/vue3-News)  
+* [21 天学会写个仿 Vue3 的轮子：（四）升级响应式模块 --（上）](https://juejin.cn/post/6944972392963768328?content_source_url=https://github.com/vue3/vue3-News)  
+* [手把手学习Vue3.0：Vue3.0正确引入Element UI组件的正确姿势](https://juejin.cn/post/6945369332427784223?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vite 会成为2021年最受欢迎的前端工具吗？](https://juejin.cn/post/6928043092142456839?content_source_url=https://github.com/vue3/vue3-News)  
 * [在 Vue3 项目中集成 VSCode - 实现 Vite + Vue3 + MonacoEdit](https://juejin.cn/post/6933463466111926286?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vite2.0 正式发布，凭什么吊打 webpack ？](https://juejin.cn/post/6931618997251080200?content_source_url=https://github.com/vue3/vue3-News)  
