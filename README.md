@@ -6,10 +6,9 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/vue-3+-3eaf7c.svg?style=flat-square&logo=vue.js" />
-  <img src="https://img.shields.io/badge/vueCLI-3+-orange.svg?style=flat-square&logo=vuetify" />
-  <img src="https://img.shields.io/badge/vue3-UI-ff69b4.svg?style=flat-square&logo=uikit" />
+  <img src="https://img.shields.io/badge/vueCLI-3+-orange.svg?style=flat-square&logo=vue.js" />
+  <img src="https://img.shields.io/badge/vue3-UI-ff69b4.svg?style=flat-square&logo=vue.js" />
   <img src="https://img.shields.io/badge/license-MIT-ccc.svg?style=flat-square&logo=reliance-industries-limited" />
-  <iframe src="https://ghbtns.com/github-btn.html?user=vue3&repo=vue3-News&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 </p>
 
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
