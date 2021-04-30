@@ -73,7 +73,7 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 **v3.0.11** (2021-04-01)
 
-### Bug Fixes
+**Bug Fixes**  
 
 * **compiler-sfc:** fix wrong scopeId for nested `<script setup>` components ([7f7dcc9](https://github.com/vuejs/vue-next/commit/7f7dcc9f7d9a036df366453e2bf228f29c0bef82))
 * **runtime-core:** fix render function + optimized slot edge case ([#3523](https://github.com/vuejs/vue-next/issues/3523)) ([995d76b](https://github.com/vuejs/vue-next/commit/995d76bd128c3f4d264f10212f2a8e8946f58a62)), closes [#2893](https://github.com/vuejs/vue-next/issues/2893)
@@ -205,11 +205,11 @@ TODOLIST：
 🌺 🌸 🌼 🌻 🌞 🌝  
 四季如春的小城, 似乎没有什么最好的季节, 如果一定要选, 我觉得有一些小雨的夏末最是温柔清 ...  
 
-* [升级 Vue3 大幅提升开发运行效率](https://cloud.tencent.com/developer/article/1818746?content_source_url=https://github.com/vue3/vue3-News) )  
-* [基于 Vue3 + ECharts5 的数据可视化项目（介绍）](https://www.cnblogs.com/allenxt/p/14701185.html?content_source_url=https://github.com/vue3/vue3-News) )  
-* [进击中的Vue 3——“电动车电池范围计算器”开源项目](https://segmentfault.com/a/1190000039928518?content_source_url=https://github.com/vue3/vue3-News) )  
-* [Vue 3 迁移策略笔记](https://blog.csdn.net/weixin_44869002/category_10771155.html?content_source_url=https://github.com/vue3/vue3-News) )  
-* [vue3从入门到精通(附实战项目)](https://ke.qq.com/course/3385383?content_source_url=https://github.com/vue3/vue3-News) )  
+* [升级 Vue3 大幅提升开发运行效率](https://cloud.tencent.com/developer/article/1818746?content_source_url=https://github.com/vue3/vue3-News)   
+* [基于 Vue3 + ECharts5 的数据可视化项目（介绍）](https://www.cnblogs.com/allenxt/p/14701185.html?content_source_url=https://github.com/vue3/vue3-News)   
+* [进击中的Vue 3——“电动车电池范围计算器”开源项目](https://segmentfault.com/a/1190000039928518?content_source_url=https://github.com/vue3/vue3-News)   
+* [Vue 3 迁移策略笔记](https://blog.csdn.net/weixin_44869002/category_10771155.html?content_source_url=https://github.com/vue3/vue3-News)   
+* [vue3从入门到精通(附实战项目)](https://ke.qq.com/course/3385383?content_source_url=https://github.com/vue3/vue3-News)   
 * [[译]尤雨溪：Vue3将不会支持IE11 精力会投入到Vue2.7](https://segmentfault.com/a/1190000039770521?content_source_url=https://github.com/vue3/vue3-News)  
 * [基于vue3直播/小视频实例|Vue3.x仿抖音界面](https://juejin.cn/post/6924609446060490760?content_source_url=https://github.com/vue3/vue3-News)  
 * [从 0 开始手把手带你搭建一套规范的 Vue3.x 项目工程环境](https://juejin.cn/post/6951649464637636622?content_source_url=https://github.com/vue3/vue3-News)  
