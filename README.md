@@ -5,10 +5,11 @@
   <img src="https://img.shields.io/badge/2021-【何以解忧，唯有暴富】-red.svg?style=for-the-badge&logo=angellist">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/vue-3+-3eaf7c.svg">
-  <img src="https://img.shields.io/badge/vueCLI-3+-orange.svg">
-  <img src="https://img.shields.io/badge/vue3-UI-ff69b4.svg">
-  <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
+  <img src="https://img.shields.io/badge/vue-3+-3eaf7c.svg?style=flat-square&logo=vue.js" />
+  <img src="https://img.shields.io/badge/vueCLI-3+-orange.svg?style=flat-square&logo=vuetify" />
+  <img src="https://img.shields.io/badge/vue3-UI-ff69b4.svg?style=flat-square&logo=uikit" />
+  <img src="https://img.shields.io/badge/license-MIT-ccc.svg?style=flat-square&logo=reliance-industries-limited" />
+  <iframe src="https://ghbtns.com/github-btn.html?user=vue3&repo=vue3-News&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 </p>
 
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
@@ -18,10 +19,10 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣4️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣5️⃣
 
 2021年您好，(*´▽｀)ノノ*)，继续前行！  
-【2021】 ≡≡≡≡≡≡≡≡≡≡≡≡≡------------------------ 【2022】
+【2021】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡---------------------- 【2022】
 
 2020年再见ヾ(￣▽￣)Bye~Bye~，感谢自己！  
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ 【2021】
@@ -71,17 +72,14 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
-**v3.0.7** (2021-02-01)
+**v3.0.11** (2021-04-01)
 
 ### Bug Fixes
 
-* **compiler-core:** do not mark v-for as stable on const bindings ([734c65b](https://github.com/vuejs/vue-next/commit/734c65badd8395a78d7beee1fc960aee418361a0)), closes [vitejs/vite#1956](https://github.com/vitejs/vite/issues/1956)
-* **compiler-dom:** ensure global build filename matches the one defined in package.json (close [#3181](https://github.com/vuejs/vue-next/issues/3181)) ([#3185](https://github.com/vuejs/vue-next/issues/3185)) ([96b6433](https://github.com/vuejs/vue-next/commit/96b64335242a99432080aeb879e5c0787207a0de))
-* **compiler-dom:** fix cdn entries ([fcb6c89](https://github.com/vuejs/vue-next/commit/fcb6c8920c6ee76f57325a178eb9280d7bae4d7c)), closes [#3181](https://github.com/vuejs/vue-next/issues/3181) [#3185](https://github.com/vuejs/vue-next/issues/3185)
-* **compiler-sfc:** compiler blank srcset ([#3005](https://github.com/vuejs/vue-next/issues/3005)) ([9dc816d](https://github.com/vuejs/vue-next/commit/9dc816d63468b0a2fa2b6123959310014e121b58))
-* **compiler-sfc:** removeSpecifier issue when removing initial imports (script-setup) ([#2729](https://github.com/vuejs/vue-next/issues/2729)) ([6d762a8](https://github.com/vuejs/vue-next/commit/6d762a84ca0ac9a43eb3d0ab0c7b7b17c35c9836))
-* **compiler-sfc:** the empty lang attribute should be treated as no lang specified ([#3051](https://github.com/vuejs/vue-next/issues/3051)) ([6d5b623](https://github.com/vuejs/vue-next/commit/6d5b62351248780663d2612a1f483f7ea9f5e5a2))
-* 
+* **compiler-sfc:** fix wrong scopeId for nested `<script setup>` components ([7f7dcc9](https://github.com/vuejs/vue-next/commit/7f7dcc9f7d9a036df366453e2bf228f29c0bef82))
+* **runtime-core:** fix render function + optimized slot edge case ([#3523](https://github.com/vuejs/vue-next/issues/3523)) ([995d76b](https://github.com/vuejs/vue-next/commit/995d76bd128c3f4d264f10212f2a8e8946f58a62)), closes [#2893](https://github.com/vuejs/vue-next/issues/2893)
+* **runtime-core:** fix v-on object kebab-case event emit matching ([c1cd42e](https://github.com/vuejs/vue-next/commit/c1cd42e627bdeb561d54e64ea5fea87ccbbae637)), closes [#3527](https://github.com/vuejs/vue-next/issues/3527)
+
 ...
 
 **v3.0.0 One Piece**
@@ -205,8 +203,27 @@ TODOLIST：
 * [你确定不了解下 2021 年 Web 开发的趋势嘛](https://zhuanlan.zhihu.com/p/344451653?content_source_url=https://github.com/vue3/vue3-News)    
 * [前端规划：2021 前端技术战略](https://zhuanlan.zhihu.com/p/348509260?content_source_url=https://github.com/vue3/vue3-News)    
 
-❤新年新心情❤  
+🌺 🌸 🌼 🌻 🌞 🌝  
+四季如春的小城, 似乎没有什么最好的季节, 如果一定要选, 我觉得有一些小雨的夏末最是温柔清 ...  
 
+* [升级 Vue3 大幅提升开发运行效率](https://cloud.tencent.com/developer/article/1818746?content_source_url=https://github.com/vue3/vue3-News) )  
+* [基于 Vue3 + ECharts5 的数据可视化项目（介绍）](https://www.cnblogs.com/allenxt/p/14701185.html?content_source_url=https://github.com/vue3/vue3-News) )  
+* [进击中的Vue 3——“电动车电池范围计算器”开源项目](https://segmentfault.com/a/1190000039928518?content_source_url=https://github.com/vue3/vue3-News) )  
+* [Vue 3 迁移策略笔记](https://blog.csdn.net/weixin_44869002/category_10771155.html?content_source_url=https://github.com/vue3/vue3-News) )  
+* [vue3从入门到精通(附实战项目)](https://ke.qq.com/course/3385383?content_source_url=https://github.com/vue3/vue3-News) )  
+* [[译]尤雨溪：Vue3将不会支持IE11 精力会投入到Vue2.7](https://segmentfault.com/a/1190000039770521?content_source_url=https://github.com/vue3/vue3-News)  
+* [基于vue3直播/小视频实例|Vue3.x仿抖音界面](https://juejin.cn/post/6924609446060490760?content_source_url=https://github.com/vue3/vue3-News)  
+* [从 0 开始手把手带你搭建一套规范的 Vue3.x 项目工程环境](https://juejin.cn/post/6951649464637636622?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 + TypeScript 复盘总结](https://juejin.cn/post/6950487211368251399?content_source_url=https://github.com/vue3/vue3-News)  
+* [TypeScript + Vue3 快速上手 【下】](https://juejin.cn/post/6953467114707501093?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3教程：Vue 3 + Element Plus + Vite 2 的后台管理系统开源啦](https://www.cnblogs.com/han-1034683568/p/14616032.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [使用 Vite+Vue3+Jsx 从零开始搭建后台管理系统《一》](https://zhuanlan.zhihu.com/p/368034850?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3开发企业级音乐Web App](https://www.bilibili.com/read/cv10798034/?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3发布半年我不学，摸鱼爽歪歪，哎~就是玩儿](https://zhuanlan.zhihu.com/p/365557887?content_source_url=https://github.com/vue3/vue3-News)  
+* [升级 Vue3 大幅提升开发运行效率](https://www.163.com/dy/article/G8HJN0DU0518R7MO.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3最值得期待的五项重大更新](https://zhuanlan.zhihu.com/p/88862221?content_source_url=https://github.com/vue3/vue3-News)  
+* [为什么我感觉 Vue 3 TypeScript 还是不行？-尤大大回答](https://www.zhihu.com/question/453332049?content_source_url=https://github.com/vue3/vue3-News)  
+* [直接学 Vue 3 吧 —— 对话 Vue.js 作者尤雨溪](https://blog.csdn.net/csdnnews/article/details/115743886?content_source_url=https://github.com/vue3/vue3-News)  
 * [vite2+electron12短视频+直播应用|electron+swiper仿制抖音桌面版](https://juejin.cn/post/6944281961871441928?content_source_url=https://github.com/vue3/vue3-News)  
 * [京东 vue3 组件库震撼升级，如约而至！](https://juejin.cn/post/6945601440064733198?content_source_url=https://github.com/vue3/vue3-News)  
 * [vue2 和 vue3 使用区别](https://juejin.cn/post/6946123143119388686?content_source_url=https://github.com/vue3/vue3-News)  
@@ -218,6 +235,10 @@ TODOLIST：
 * [【vite2 + vue3】从0搭建体验（一）](https://juejin.cn/post/6943844995572957191?content_source_url=https://github.com/vue3/vue3-News)  
 * [vue3+ts(1)：vue3项目从0到1搭建](https://juejin.cn/post/6944873503522816030?content_source_url=https://github.com/vue3/vue3-News)  
 * [vite2+vue3+vant3 h5配置](https://juejin.cn/post/6945625911555260429?content_source_url=https://github.com/vue3/vue3-News)  
+
+__❤新年新心情❤__  
+
+
 * [手把手学习Vue3.0：Vue3.0跟Vuex、Router、Axios等组件的版本对照大全](https://juejin.cn/post/6945369292032458783?content_source_url=https://github.com/vue3/vue3-News)  
 * [手把手学习Vue3.0：Vue3.0正确使用Bus总线mitt实现组件间通信和传参](https://juejin.cn/post/6945369322206265380?content_source_url=https://github.com/vue3/vue3-News)  
 * [21 天学会写个仿 Vue3 的轮子：（四）升级响应式模块 --（上）](https://juejin.cn/post/6944972392963768328?content_source_url=https://github.com/vue3/vue3-News)  
