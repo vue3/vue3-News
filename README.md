@@ -184,7 +184,7 @@ TODOLIST：
 
 ![v3.0.0 One Piece](https://raw.githubusercontent.com/vue3/vue3-News/master/asset/one-piece.png?sanitize=true)
 
-#### 「我是要成为海贼王的男人」 
+## 「我是要成为海贼王的男人」 
 
 2021 => 我最棒(๑•̀ㅂ•́)و✧  
 
@@ -205,6 +205,13 @@ TODOLIST：
 🌺 🌸 🌼 🌻 🌞 🌝  
 四季如春的小城, 似乎没有什么最好的季节, 如果一定要选, 我觉得有一些小雨的夏末最是温柔清 ...  
 
+* [Vite2 + vue3 + TS + ElementPlus 从零搭建后台管理系统 ( 一 )](https://juejin.cn/post/6959388179380043784?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 源码解析（二）：AST解析器](https://juejin.cn/post/6959421748416774180?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 与 Vue2 的Props、全局组件的异同点！](https://juejin.cn/post/6959334406582435877?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 探索总结](https://juejin.cn/post/6959194261879275533?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3: 如何以 Vite 创建，以 Vue Router, Vuex, Ant Design 开始应用](https://cloud.tencent.com/developer/article/1820507?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 全家桶 + TS+ Vite2 + element-plus 搭建简洁时尚的博客网站实战及踩坑记](https://segmentfault.com/a/1190000039954905?content_source_url=https://github.com/vue3/vue3-News)  
+* [《图解Vue3》- 第1节 Vue初识](https://www.jianshu.com/p/202cc0a08d34?content_source_url=https://github.com/vue3/vue3-News)  
 * [升级 Vue3 大幅提升开发运行效率](https://cloud.tencent.com/developer/article/1818746?content_source_url=https://github.com/vue3/vue3-News)   
 * [基于 Vue3 + ECharts5 的数据可视化项目（介绍）](https://www.cnblogs.com/allenxt/p/14701185.html?content_source_url=https://github.com/vue3/vue3-News)   
 * [进击中的Vue 3——“电动车电池范围计算器”开源项目](https://segmentfault.com/a/1190000039928518?content_source_url=https://github.com/vue3/vue3-News)   
