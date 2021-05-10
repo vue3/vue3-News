@@ -28,6 +28,9 @@
 
 Twitter vue3: **vue 3 will be available by the end of Q2.**(done)  
 
+第四届Vue.js开发者大会由Vue.js官方举办，将于2021年05月22日在杭州正式开启。本次大会将主要采用在线直播方式与大家呈现，线下会有听少量听众席位！  
+[w3ctech](https://vue.w3ctech.com/)  
+
 9月18日星期五，Vue的作者尤雨溪发表主题演讲，正式发布Vue3.0并回应一些大家关切的问题。表示不建议大家立刻升级到Vue3.0版本，之前项目中某些依赖项可能还不支持新版，等社区完善后再进行迁移也不迟。
 
 Vue3.0正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp.weixin.qq.com/s/ZECNJYe1_zNwdX9tUWnMFA?content_source_url=https://github.com/vue3/vue3-News)】
@@ -205,6 +208,8 @@ TODOLIST：
 🌺 🌸 🌼 🌻 🌞 🌝  
 四季如春的小城, 似乎没有什么最好的季节, 如果一定要选, 我觉得有一些小雨的夏末最是温柔清 ...  
 
+* [昨晚尤大的连麦直播，我学到了很多！！！](https://zhuanlan.zhihu.com/p/370984647?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3.1.0 的 beta 版发布](https://zhuanlan.zhihu.com/p/370976641?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vite2 + vue3 + TS + ElementPlus 从零搭建后台管理系统 ( 一 )](https://juejin.cn/post/6959388179380043784?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue3 源码解析（二）：AST解析器](https://juejin.cn/post/6959421748416774180?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue3 与 Vue2 的Props、全局组件的异同点！](https://juejin.cn/post/6959334406582435877?content_source_url=https://github.com/vue3/vue3-News)  
