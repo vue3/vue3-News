@@ -234,6 +234,16 @@ TODOLIST：
 🌺 🌸 🌼 🌻 🌞 🌝  
 四季如春的小城, 似乎没有什么最好的季节, 如果一定要选, 我觉得有一些小雨的夏末最是温柔清 ...  
 
+* [Vue3能用到生产环境了吗？](https://zhuanlan.zhihu.com/p/372766813?content_source_url=https://github.com/vue3/vue3-News)  
+* [webpack5（Module Federation）+vue3.0实现微前端](https://juejin.cn/post/6962052554859642916?content_source_url=https://github.com/vue3/vue3-News)  
+* [手写简化版的 vue3 diff 算法](https://juejin.cn/post/6962783046009356295?content_source_url=https://github.com/vue3/vue3-News)  
+* [vite2+vue3+vue-router搭建vue-ssr](https://juejin.cn/post/6961751475219496997?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vite2 + vue3 + TS + ElementPlus 从零搭建后台管理系统（五）](https://juejin.cn/post/6961604058704511007?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3 组合式API（setup）的新特性是否会使得业务逻辑集中在一起而臃肿难以维护？](https://www.zhihu.com/question/458362474/answers/updated?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3 深入响应式原理 - 聊一聊响应式构建的那些经历](https://zhuanlan.zhihu.com/p/373316653?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3源码分析-从createApp开始的首次渲染](https://zhuanlan.zhihu.com/p/372644149?content_source_url=https://github.com/vue3/vue3-News)  
+* [为什么感觉svelte其实才是vue3？](https://www.zhihu.com/question/459281340/answers/updated?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3教程：一个基于 Vue 3 + Vant 3 的商城项目开源啦！](https://www.bilibili.com/read/cv11270335/?content_source_url=https://github.com/vue3/vue3-News)  
 * [昨晚尤大的连麦直播，我学到了很多！！！](https://zhuanlan.zhihu.com/p/370984647?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue 3.1.0 的 beta 版发布](https://zhuanlan.zhihu.com/p/370976641?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vite2 + vue3 + TS + ElementPlus 从零搭建后台管理系统 ( 一 )](https://juejin.cn/post/6959388179380043784?content_source_url=https://github.com/vue3/vue3-News)  
