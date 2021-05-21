@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/vueCLI-3+-orange.svg?style=flat-square&logo=vue.js" />
   <img src="https://img.shields.io/badge/vue3-UI-ff69b4.svg?style=flat-square&logo=vue.js" />
   <img src="https://img.shields.io/badge/license-MIT-ccc.svg?style=flat-square&logo=reliance-industries-limited" />
+  <img src="https://img.shields.io/github/stars/vue3/vue3-News?style=flat-square&logo=github" />
 </p>
 
 # Vue3+ & Vue-CLI3+ 开发生态圈资讯
