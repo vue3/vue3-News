@@ -29,8 +29,8 @@
 
 Twitter vue3: **vue 3 will be available by the end of Q2.**(done)  
 
-第四届Vue.js开发者大会由Vue.js官方举办，将于2021年05月22日在杭州正式开启。本次大会将主要采用在线直播方式与大家呈现，线下会有听少量听众席位！  
-[w3ctech](https://vue.w3ctech.com/)  
+第四届Vue.js开发者大会由Vue.js官方举办，于2021年05月22日在杭州正式开启。本次大会将主要采用在线直播方式与大家呈现，线下会有听少量听众席位！[w3ctech](https://vue.w3ctech.com/)  
+[VueConf 2021 PPT](https://www.yuque.com/vueconf/mkwv0c)    
 
 2020年9月18日星期五，Vue的作者尤雨溪发表主题演讲，正式发布Vue3.0并回应一些大家关切的问题。表示不建议大家立刻升级到Vue3.0版本，之前项目中某些依赖项可能还不支持新版，等社区完善后再进行迁移也不迟。
 
