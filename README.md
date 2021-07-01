@@ -19,7 +19,7 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣6️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣7️⃣
 
 2021年您好，(*´▽｀)ノノ*)，继续前行！  
 【2021】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡---------------------- 【2022】
@@ -30,7 +30,7 @@
 Twitter vue3: **vue 3 will be available by the end of Q2.**(done)  
 
 第四届Vue.js开发者大会由Vue.js官方举办，于2021年05月22日在杭州正式开启。本次大会将主要采用在线直播方式与大家呈现，线下会有听少量听众席位！[w3ctech](https://vue.w3ctech.com/)  
-[VueConf 2021 PPT](https://www.yuque.com/vueconf/mkwv0c)    
+**[VueConf 2021 PPT & Video](https://www.yuque.com/vueconf/mkwv0c)**    
 
 2020年9月18日星期五，Vue的作者尤雨溪发表主题演讲，正式发布Vue3.0并回应一些大家关切的问题。表示不建议大家立刻升级到Vue3.0版本，之前项目中某些依赖项可能还不支持新版，等社区完善后再进行迁移也不迟。
 
@@ -75,33 +75,26 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
-### [3.1.0-beta.7](https://github.com/vuejs/vue-next/compare/v3.1.0-beta.6...v3.1.0-beta.7) (2021-06-02)
+### [v3.1.2](https://github.com/vuejs/vue-next/compare/v3.1.1...v3.1.2) (2021-06-22)
 
 **Bug Fixes**
 
-* **compat:** fix deep data merge with extended constructor ([c7efb96](https://github.com/vuejs/vue-next/commit/c7efb967ca5ab42ea2713331b8e53ae5c2746a78)), closes [#3852](https://github.com/vuejs/vue-next/issues/3852)
-* **compiler-sfc:** fix style injection when using normal script + setup ([8b94464](https://github.com/vuejs/vue-next/commit/8b94464a3b9759a7a98c23efeafc7a9359c9807d)), closes [#3688](https://github.com/vuejs/vue-next/issues/3688)
-* **compiler-sfc:** fix template expression assignment codegen for script setup let refs ([#3626](https://github.com/vuejs/vue-next/issues/3626)) ([2c7bd42](https://github.com/vuejs/vue-next/commit/2c7bd428011e027efa8f66487d2269c8dd79a2b0)), closes [#3625](https://github.com/vuejs/vue-next/issues/3625)
-* **runtime-core:** align option merge behavior with Vue 2 ([e2ca67b](https://github.com/vuejs/vue-next/commit/e2ca67b59a4de57a9bce8d3394263ba493a35a39)), closes [#3566](https://github.com/vuejs/vue-next/issues/3566) [#2791](https://github.com/vuejs/vue-next/issues/2791)
-* **runtime-dom/v-model:** only set selectedIndex when the value changes ([#3845](https://github.com/vuejs/vue-next/issues/3845)) ([ecd97ee](https://github.com/vuejs/vue-next/commit/ecd97ee6e465ec5c841d58d96833fece4e899785))
-* **suspense:** fix suspense regression for errored template component ([44996d1](https://github.com/vuejs/vue-next/commit/44996d1a0a2de1bc6b3abfac6b2b8b3c969d4e01)), closes [#3857](https://github.com/vuejs/vue-next/issues/3857)
-* **watch:** avoid traversing objects that are marked non-reactive ([9acc9a1](https://github.com/vuejs/vue-next/commit/9acc9a1fa838bdcdf673d2f7cc3f996b2b69ffbc))
+* **compiler-core:** improve member expression check ([bc100c5](https://github.com/vuejs/vue-next/commit/bc100c5c48b98b6e2eabfa1d50e0d3099ea2a90d)), closes [#3910](https://github.com/vuejs/vue-next/issues/3910)
+* **compiler-core/compat:** fix is prop usage on components ([08e9322](https://github.com/vuejs/vue-next/commit/08e93220f146118aad8ab07e18066bbb2d4b0040)), closes [#3934](https://github.com/vuejs/vue-next/issues/3934)
+* **compiler-sfc:** rewriteDefault support multiline ([#3917](https://github.com/vuejs/vue-next/issues/3917)) ([b228abb](https://github.com/vuejs/vue-next/commit/b228abb72fcdb4fc9dced907f3614abcaaacdce5))
+* **compiler-ssr:** fix attr fallthrough for transition/keep-alive as template root ([9f6f8b3](https://github.com/vuejs/vue-next/commit/9f6f8b35c1fdfa5b76b834673e2f991c5fa7c9c5)), closes [#3981](https://github.com/vuejs/vue-next/issues/3981)
+* **devtools:** expose root instance ([2b52d5d](https://github.com/vuejs/vue-next/commit/2b52d5d7c53f7843f4a1e85fd7f1720dc2847ebc))
+* **runtime-core:** bind default function of inject to instance ([#3925](https://github.com/vuejs/vue-next/issues/3925)) ([db1dc1c](https://github.com/vuejs/vue-next/commit/db1dc1c63097ed62a3f683a7a11c7e819d90bb73)), closes [#3923](https://github.com/vuejs/vue-next/issues/3923)
+* **runtime-core:** fix multiple .once event handlers on same component ([#3904](https://github.com/vuejs/vue-next/issues/3904)) ([011dee8](https://github.com/vuejs/vue-next/commit/011dee8644bb52f5bdc6365c6e8404936d57e2cd)), closes [#3902](https://github.com/vuejs/vue-next/issues/3902)
+* **Suspense:** emit initial fallback and pending events ([#3965](https://github.com/vuejs/vue-next/issues/3965)) ([ab6e927](https://github.com/vuejs/vue-next/commit/ab6e927041e4082acac9a5effe332557e70e4f2a)), closes [#3964](https://github.com/vuejs/vue-next/issues/3964)
+* **Suspense:** fallback should work with transition ([#3968](https://github.com/vuejs/vue-next/issues/3968)) ([43e2a72](https://github.com/vuejs/vue-next/commit/43e2a72900b96870fe6f16248ecec50ff58278df)), closes [#3963](https://github.com/vuejs/vue-next/issues/3963)
+* **watch:** fix watch option merging from mixins ([9b607fe](https://github.com/vuejs/vue-next/commit/9b607fe409d70e991ba458e7c994e008a4b621e8)), closes [#3966](https://github.com/vuejs/vue-next/issues/3966)
 
-**Code Refactoring**
-
-* adjust component options merge cache strategy ([1e35a86](https://github.com/vuejs/vue-next/commit/1e35a860b995c1158d5c4e1706d2fc9bcd3b8412))
 
 **Performance Improvements**
 
-* avoid deopt for props/emits normalization when global mixins are used ([51d2be2](https://github.com/vuejs/vue-next/commit/51d2be20386d4dc59006d31a1cc96676871027ce))
+* improve static content insertion perf ([4de5d24](https://github.com/vuejs/vue-next/commit/4de5d24aa72f6bc68da967ead330147032983e30)), closes [#3090](https://github.com/vuejs/vue-next/issues/3090)
 
-**BREAKING CHANGES**
-
-* optionMergeStrategies functions no longer receive
-the component instance as the 3rd argument. The argument was technically
-internal in Vue 2 and only used for generating warnings, and should not
-be needed in userland code. This removal enables much more efficient
-caching of option merging.
 
 ...
 
@@ -225,6 +218,35 @@ TODOLIST：
 * [2021年Web开发的主要趋势](https://zhuanlan.zhihu.com/p/324154627?content_source_url=https://github.com/vue3/vue3-News)    
 * [你确定不了解下 2021 年 Web 开发的趋势嘛](https://zhuanlan.zhihu.com/p/344451653?content_source_url=https://github.com/vue3/vue3-News)    
 * [前端规划：2021 前端技术战略](https://zhuanlan.zhihu.com/p/348509260?content_source_url=https://github.com/vue3/vue3-News)    
+
+♾ 💲 💱 ™️ ©️ ®️ 〰️ ➰ ➿   
+春天不是读书天, 夏日炎炎正好眠, 秋有蚊虫冬怕冷, 整理书包待明年.    
+🔚 🔙 🔛 🔝 🔜  
+
+* [手敲一个前后端分离项目！ Day01（Vite+Vue3+Naive UI）](https://www.136.la/jingpin/show-173499.html?content_source_url=https://github.com/vue3/vue3-News)  
+* [阿里妈妈又做了新工具，帮你把 Vue2 代码改成 Vue3 的](https://zhuanlan.zhihu.com/p/383628295?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue2 代码转换为 Vue3 原理剖析—— eventHub篇](https://segmentfault.com/a/1190000040257521?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3 的 SFC Style CSS Variable Injection 提案实现的背后](https://segmentfault.com/a/1190000040151406?content_source_url=https://github.com/vue3/vue3-News)  
+* [和面试官聊聊Diff___Vue3](https://segmentfault.com/a/1190000040175786?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 优雅的模态框封装方案 - 实践](https://segmentfault.com/a/1190000040200295?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 优雅的模态框封装方案 - 初探](https://segmentfault.com/a/1190000040200285?content_source_url=https://github.com/vue3/vue3-News)  
+* [用vue3开发一款翻译插件](https://segmentfault.com/a/1190000040200908?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3配置jest测试环境踩坑](https://segmentfault.com/a/1190000040202502?content_source_url=https://github.com/vue3/vue3-News)  
+* [记录几个vue3 demo项目开发的问题](https://segmentfault.com/a/1190000040266862?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vite2.0+Vue3.0中使用eslint+prettier的正确姿势](https://juejin.cn/post/6977611901232480286?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.0--生命周期、获取dom和nextTick](https://juejin.cn/post/6978069303438344205?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue 3.0到底怎么变快？🚀](https://juejin.cn/post/6979039113689169957?content_source_url=https://github.com/vue3/vue3-News)  
+* [还在迟疑是否上ts？先上车再说！vue3+ts开发初体验](https://juejin.cn/post/6979034498352545829?content_source_url=https://github.com/vue3/vue3-News)  
+* [[项目篇]vue3+ts canvas实现贝塞尔曲线波浪特效 - 第四天](https://juejin.cn/post/6979282880690126885?content_source_url=https://github.com/vue3/vue3-News)  
+* [[项目篇]vue3+ts 封装request请求，storage缓存，config请求信息抽离 - 第二天](https://juejin.cn/post/6978609399682039839?content_source_url=https://github.com/vue3/vue3-News)  
+* [模块化妙用！用vue3实现一个鼠标追踪器和异步加载组件](https://juejin.cn/post/6977516415758630926?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3 生命周期详解](https://www.bilibili.com/video/BV1UL411p74P?content_source_url=https://github.com/vue3/vue3-News)  
+* [Ionic5+Vue3+Capacitor 打造跨平台的app视频教程](https://www.bilibili.com/video/BV1C54y1J76H?content_source_url=https://github.com/vue3/vue3-News)  
+* [最新前端Vue3.0从0到1手把手撸码搭建管理后台系统完整版](https://www.bilibili.com/video/BV1sf4y1b7W1?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021-web前端-Vue3.0源码剖析](https://www.bilibili.com/video/BV1ag411u7zG?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3.0项目的搭建+3.0变化+实战(附赠vue3.0学习文档）](https://www.bilibili.com/video/BV1D44y1B7hT?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.0源码剖析+前端发展漫谈](https://www.bilibili.com/video/BV1i54y1H75V?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3从入门到精通(附实战项目)](https://ke.qq.com/course/3385383?content_source_url=https://github.com/vue3/vue3-News)  
 
 🌺 🌸 🌼 🌻 🌞 🌝  
 四季如春的小城, 似乎没有什么最好的季节, 如果一定要选, 我觉得有一些小雨的夏末最是温柔清 ...  
