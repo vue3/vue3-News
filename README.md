@@ -251,6 +251,7 @@ TODOLIST：
 🌺 🌸 🌼 🌻 🌞 🌝  
 四季如春的小城, 似乎没有什么最好的季节, 如果一定要选, 我觉得有一些小雨的夏末最是温柔清 ...  
 
+* [Vite 整合 Electron 总结](https://juejin.cn/post/6965792592663412743?content_source_url=https://github.com/vue3/vue3-News)  
 * [「PPT」尤雨溪谈Vue3 生态进展和计划](https://baijiahao.baidu.com/s?id=1701017525409475609&wfr=spider&for=pc?content_source_url=https://github.com/vue3/vue3-News)  
 * [「视频」尤雨溪谈Vue3 生态进展和计划](https://baijiahao.baidu.com/s?id=1701415517962408770&wfr=spider&for=pc?content_source_url=https://github.com/vue3/vue3-News)  
 * [Electron+Vue3 MAC 版日历 开发记录(2)——功能清单](https://juejin.cn/post/6968972252389851172?content_source_url=https://github.com/vue3/vue3-News)  
