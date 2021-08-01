@@ -19,10 +19,10 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣7️⃣
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`0️⃣8️⃣ 
 
 2021年您好，(*´▽｀)ノノ*)，继续前行！  
-【2021】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡---------------------- 【2022】
+【2021】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡-------------- 【2022】
 
 2020年再见ヾ(￣▽￣)Bye~Bye~，感谢自己！  
 【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ 【2021】
@@ -75,26 +75,13 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
-### [v3.1.2](https://github.com/vuejs/vue-next/compare/v3.1.1...v3.1.2) (2021-06-22)
+### [3.2.0-beta.6](https://github.com/vuejs/vue-next/compare/v3.2.0-beta.5...v3.2.0-beta.6) (2021-07-27)
 
 **Bug Fixes**
 
-* **compiler-core:** improve member expression check ([bc100c5](https://github.com/vuejs/vue-next/commit/bc100c5c48b98b6e2eabfa1d50e0d3099ea2a90d)), closes [#3910](https://github.com/vuejs/vue-next/issues/3910)
-* **compiler-core/compat:** fix is prop usage on components ([08e9322](https://github.com/vuejs/vue-next/commit/08e93220f146118aad8ab07e18066bbb2d4b0040)), closes [#3934](https://github.com/vuejs/vue-next/issues/3934)
-* **compiler-sfc:** rewriteDefault support multiline ([#3917](https://github.com/vuejs/vue-next/issues/3917)) ([b228abb](https://github.com/vuejs/vue-next/commit/b228abb72fcdb4fc9dced907f3614abcaaacdce5))
-* **compiler-ssr:** fix attr fallthrough for transition/keep-alive as template root ([9f6f8b3](https://github.com/vuejs/vue-next/commit/9f6f8b35c1fdfa5b76b834673e2f991c5fa7c9c5)), closes [#3981](https://github.com/vuejs/vue-next/issues/3981)
-* **devtools:** expose root instance ([2b52d5d](https://github.com/vuejs/vue-next/commit/2b52d5d7c53f7843f4a1e85fd7f1720dc2847ebc))
-* **runtime-core:** bind default function of inject to instance ([#3925](https://github.com/vuejs/vue-next/issues/3925)) ([db1dc1c](https://github.com/vuejs/vue-next/commit/db1dc1c63097ed62a3f683a7a11c7e819d90bb73)), closes [#3923](https://github.com/vuejs/vue-next/issues/3923)
-* **runtime-core:** fix multiple .once event handlers on same component ([#3904](https://github.com/vuejs/vue-next/issues/3904)) ([011dee8](https://github.com/vuejs/vue-next/commit/011dee8644bb52f5bdc6365c6e8404936d57e2cd)), closes [#3902](https://github.com/vuejs/vue-next/issues/3902)
-* **Suspense:** emit initial fallback and pending events ([#3965](https://github.com/vuejs/vue-next/issues/3965)) ([ab6e927](https://github.com/vuejs/vue-next/commit/ab6e927041e4082acac9a5effe332557e70e4f2a)), closes [#3964](https://github.com/vuejs/vue-next/issues/3964)
-* **Suspense:** fallback should work with transition ([#3968](https://github.com/vuejs/vue-next/issues/3968)) ([43e2a72](https://github.com/vuejs/vue-next/commit/43e2a72900b96870fe6f16248ecec50ff58278df)), closes [#3963](https://github.com/vuejs/vue-next/issues/3963)
-* **watch:** fix watch option merging from mixins ([9b607fe](https://github.com/vuejs/vue-next/commit/9b607fe409d70e991ba458e7c994e008a4b621e8)), closes [#3966](https://github.com/vuejs/vue-next/issues/3966)
-
-
-**Performance Improvements**
-
-* improve static content insertion perf ([4de5d24](https://github.com/vuejs/vue-next/commit/4de5d24aa72f6bc68da967ead330147032983e30)), closes [#3090](https://github.com/vuejs/vue-next/issues/3090)
-
+* **inject:** should auto unwrap injected refs ([561e210](https://github.com/vuejs/vue-next/commit/561e210157874b216efc1c17be701a6a81c4383b)), closes [#4196](https://github.com/vuejs/vue-next/issues/4196)
+* **runtime-core:** expose ssrUtils in esm-bundler build ([ee4cbae](https://github.com/vuejs/vue-next/commit/ee4cbaeec917362c571ce95352adccd6ec2d1f47)), closes [#4199](https://github.com/vuejs/vue-next/issues/4199)
+* **sfc/style-vars:** should ignore style variable bindings in comments ([#4188](https://github.com/vuejs/vue-next/issues/4188)) ([3a75d5d](https://github.com/vuejs/vue-next/commit/3a75d5d6942a1743789192dca9161f7c30a71e58)), closes [#4185](https://github.com/vuejs/vue-next/issues/4185)
 
 ...
 
@@ -223,6 +210,17 @@ TODOLIST：
 春天不是读书天, 夏日炎炎正好眠, 秋有蚊虫冬怕冷, 整理书包待明年.    
 🔚 🔙 🔛 🔝 🔜  
 
+* [Comparing generated code size of Vue and Svelte components](https://github.com/yyx990803/vue-svelte-size-analysis?content_source_url=https://github.com/vue3/vue3-News)  
+* [基于 vue3 + webpack 5 + sass+ vw 适配方案+axios 封装，从0构建手机端模板脚手架](https://segmentfault.com/a/1190000040419967?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3.0-ts-Element集成的后台管理模板（新接触3.0强力推荐）](https://segmentfault.com/a/1190000040407636?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.x 推荐使用 mitt.js](https://juejin.cn/post/6973106775755063333?content_source_url=https://github.com/vue3/vue3-News)  
+* [【实战技巧】Vue3+Vite工程常用工具的接入方法](https://juejin.cn/post/6982476410279460878?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3+Vite+TS+Eslint（Airbnb规则）搭建生产项目，踩坑详记（四）：引入vuex、vuex源码类型声明推导](https://juejin.cn/post/6984687414618898445?content_source_url=https://github.com/vue3/vue3-News)  
+* [10张脑图带你快速入门Vue3 | 附高清原图](https://juejin.cn/post/6983867993805553671?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3 + setup sugar + TS 经验分享](https://juejin.cn/post/6990682369992704007?content_source_url=https://github.com/vue3/vue3-News)  
+* [【初学笔记】整理的一些Vue3知识点](https://juejin.cn/post/6977004323742220319?content_source_url=https://github.com/vue3/vue3-News)  
+* [上手后才知道 ，Vue3 的 script setup 语法糖是真的爽](https://juejin.cn/post/6983626263327932429?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 源码解毒 & PK React17](https://juejin.cn/post/6990028188080406558?content_source_url=https://github.com/vue3/vue3-News)  
 * [手敲一个前后端分离项目！ Day01（Vite+Vue3+Naive UI）](https://www.136.la/jingpin/show-173499.html?content_source_url=https://github.com/vue3/vue3-News)  
 * [阿里妈妈又做了新工具，帮你把 Vue2 代码改成 Vue3 的](https://zhuanlan.zhihu.com/p/383628295?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue2 代码转换为 Vue3 原理剖析—— eventHub篇](https://segmentfault.com/a/1190000040257521?content_source_url=https://github.com/vue3/vue3-News)  
