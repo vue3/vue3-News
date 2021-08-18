@@ -230,8 +230,18 @@ TODOLIST：
 迟序之数，非出神怪，有形可检，有数可推。——祖冲之
 🏅 🎖 🏵
 
-* [Vue 3.2 发布， ＜script setup＞ + TS + Volar = 真香](https://blog.csdn.net/mengyidan/article/details/119562143)  
-* [尤雨溪凌晨官宣：Vue 3.2 已发布！](https://segmentfault.com/a/1190000040491409)  
+* [Vue 3.2 发布， ＜script setup＞ + TS + Volar = 真香](https://blog.csdn.net/mengyidan/article/details/119562143?content_source_url=https://github.com/vue3/vue3-News)  
+* [尤雨溪凌晨官宣：Vue 3.2 已发布！](https://segmentfault.com/a/1190000040491409?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3.2发布了，我激动了，实在学不动了！](https://juejin.cn/post/6995777059725246472?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue DevUI 又新添了11位新成员啦～🥳😋](https://juejin.cn/post/6996217326378942472?content_source_url=https://github.com/vue3/vue3-News)  
+* [细说 Vue.js 3.2 关于响应式部分的优化](https://juejin.cn/post/6995732683435278344?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021年最佳VUE3 UI框架推荐](https://juejin.cn/post/6995519561030172702?content_source_url=https://github.com/vue3/vue3-News)  
+* [初学者也能看懂的 Vue3 源码中那些实用的基础工具函数](https://juejin.cn/post/6994976281053888519?content_source_url=https://github.com/vue3/vue3-News)  
+* [使用 Vue3 开发 Dropdown 组件的几个核心要点](https://juejin.cn/post/6996396106372349983?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue第二波ref语法提案来袭，这次会进入到标准吗？](https://juejin.cn/post/6997186627781001229?content_source_url=https://github.com/vue3/vue3-News)  
+* [vite + vue3 + ts 移动端实践](https://juejin.cn/post/6995808271034482696?content_source_url=https://github.com/vue3/vue3-News)  
+* [他来了，他来了，他带着vue3组件库向你走来了。](https://juejin.cn/post/6995159181967753224?content_source_url=https://github.com/vue3/vue3-News)  
+* [不要再用 Vue 2 的思维写 Vue 3 了](https://blog.csdn.net/itcodexy/article/details/117576348?content_source_url=https://github.com/vue3/vue3-News)  
 
 ♾ 💲 💱 ™️ ©️ ®️ 〰️ ➰ ➿   
 春天不是读书天, 夏日炎炎正好眠, 秋有蚊虫冬怕冷, 整理书包待明年.    
