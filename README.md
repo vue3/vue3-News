@@ -135,6 +135,20 @@ Today we are proud to announce the official release of Vue.js 3.0 "One Piece". T
 | ----------------------------------- | ----------------------------------- |
 | ![](./asset/Vue3-CheatSheet02.jpeg) | ![](./asset/Vue3-CheatSheet01.jpeg) |
 
+## Vscode Votar
+
+⚡ Explore high-performance tooling for Vue
+
+Vue Language Features
+Vue language support extension for VSCode
+TypeScript Vue Plugin
+VSCode extension to support Vue in TS server
+vue-tsc
+Type-check and dts build command line tool
+Discord: https://discord.gg/5bnSSSSBbK
+
+https://github.com/johnsoncodehk/volar
+
 ## vueuse
 
 [antfu/vueuse](https://github.com/antfu/vueuse?content_source_url=https://github.com/vue3/vue3-News)
@@ -212,7 +226,6 @@ TODOLIST：
 🏆 🥇 🥈 🥉 
 迟序之数，非出神怪，有形可检，有数可推。——祖冲之
 🏅 🎖 🏵
-
 
 * [花60秒给Vue3提的PR，竟然被尤大亲自Merge了~](https://juejin.cn/post/7012449788255813669?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vant 3 - 有赞出品的开源移动UI组件库，基于 Vue3 重构发布](https://blog.csdn.net/weixin_45583710/article/details/120036172?content_source_url=https://github.com/vue3/vue3-News)  
