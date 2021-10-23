@@ -135,16 +135,17 @@ Today we are proud to announce the official release of Vue.js 3.0 "One Piece". T
 | ----------------------------------- | ----------------------------------- |
 | ![](./asset/Vue3-CheatSheet02.jpeg) | ![](./asset/Vue3-CheatSheet01.jpeg) |
 
-## Vscode Votar
+## Votar
 
-⚡ Explore high-performance tooling for Vue
+⚡ Explore high-performance tooling for Vue  
 
-Vue Language Features
-Vue language support extension for VSCode
-TypeScript Vue Plugin
-VSCode extension to support Vue in TS server
-vue-tsc
-Type-check and dts build command line tool
+**Vue Language Features**  
+Vue language support extension for VSCode  
+**TypeScript Vue Plugin**  
+VSCode extension to support Vue in TS server  
+**vue-tsc**  
+Type-check and dts build command line tool  
+
 Discord: https://discord.gg/5bnSSSSBbK
 
 https://github.com/johnsoncodehk/volar
@@ -227,6 +228,10 @@ TODOLIST：
 迟序之数，非出神怪，有形可检，有数可推。——祖冲之
 🏅 🎖 🏵
 
+* [尤大都推荐的组件库是如何开发出来的？](https://juejin.cn/post/7021528826798669854?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3响应式原理原来是这样的](https://juejin.cn/post/7021870375751385096?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 + Typescript + pnpm + rollup/gulp 工程化搭建组件库（二）](https://juejin.cn/post/7021768729327304711?content_source_url=https://github.com/vue3/vue3-News)  
+* [升级 Vue3 成本大吗？](https://baijiahao.baidu.com/s?id=1714241000789292181?content_source_url=https://github.com/vue3/vue3-News)  
 * [花60秒给Vue3提的PR，竟然被尤大亲自Merge了~](https://juejin.cn/post/7012449788255813669?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vant 3 - 有赞出品的开源移动UI组件库，基于 Vue3 重构发布](https://blog.csdn.net/weixin_45583710/article/details/120036172?content_source_url=https://github.com/vue3/vue3-News)  
 * [【持续更新】梳理 Vue3 相比于 Vue2 的有哪些 “与众不同” ？](https://juejin.cn/post/7011372376969445413?content_source_url=https://github.com/vue3/vue3-News)  
@@ -270,7 +275,6 @@ TODOLIST：
 ♾ 💲 💱 ™️ ©️ ®️ 〰️ ➰ ➿   
 春天不是读书天, 夏日炎炎正好眠, 秋有蚊虫冬怕冷, 整理书包待明年.    
 🔚 🔙 🔛 🔝 🔜  
-
 
 * [【建议收藏】8张脑图快速了解Vue组件](https://juejin.cn/post/6991289524915535908?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue DevUI 已经有10个组件成员啦～🥳😋](https://juejin.cn/post/6992233443585163300?content_source_url=https://github.com/vue3/vue3-News)  
