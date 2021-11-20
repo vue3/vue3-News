@@ -19,7 +19,7 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`1️⃣0️⃣  
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣1️⃣`/`1️⃣1️⃣  
 🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳
 
 2021年您好，(*´▽｀)ノノ*)，继续前行！  
@@ -76,15 +76,16 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
-[3.2.19](https://github.com/vuejs/vue-next/compare/v3.2.18...v3.2.19) (2021-09-25)
+3.2.22](https://github.com/vuejs/vue-next/compare/v3.2.21...v3.2.22) (2021-11-15)
 
-* **compiler-core:** should treat attribute key as expression ([#4658](https://github.com/vuejs/vue-next/issues/4658)) ([7aa0ea0](https://github.com/vuejs/vue-next/commit/7aa0ea06c822d84a1d43b40cf5643b983aae6d36))
-* **server-renderer:** respect compilerOptions during runtime template compilation ([#4631](https://github.com/vuejs/vue-next/issues/4631)) ([50d9d34](https://github.com/vuejs/vue-next/commit/50d9d3436079419f91231351f20f69062a01505c))
+* **compiler-sfc:** add type for props include Function in prod mode ([#4938](https://github.com/vuejs/vue-next/issues/4938)) ([9c42a1e](https://github.com/vuejs/vue-next/commit/9c42a1e2a3385f3b33faed5cdcc430bf8c1fc4b2))
+* **compiler-sfc:** add type for props's properties in prod mode ([#4790](https://github.com/vuejs/vue-next/issues/4790)) ([090df08](https://github.com/vuejs/vue-next/commit/090df0837eb0aedd8a02fd0107b7668ca5c136a1)), closes [#4783](https://github.com/vuejs/vue-next/issues/4783)
+* **compiler-sfc:** externalRE support automatic http/https prefix url pattern ([#4922](https://github.com/vuejs/vue-next/issues/4922)) ([574070f](https://github.com/vuejs/vue-next/commit/574070f43f804fd855f4ee319936ec770a56cef0)), closes [#4920](https://github.com/vuejs/vue-next/issues/4920)
+* **compiler-sfc:** fix expose codegen edge case ([#4919](https://github.com/vuejs/vue-next/issues/4919)) ([31fd590](https://github.com/vuejs/vue-next/commit/31fd590fd47e2dc89b84687ffe26a5c6f05fea34)), closes [#4917](https://github.com/vuejs/vue-next/issues/4917)
+* **devtool:** improve devtools late injection browser env detection ([#4890](https://github.com/vuejs/vue-next/issues/4890)) ([fa2237f](https://github.com/vuejs/vue-next/commit/fa2237f1d824eac511c4246135318594c48dc121))
+* **runtime-core:** improve dedupe listeners when attr fallthrough ([#4912](https://github.com/vuejs/vue-next/issues/4912)) ([b4eb7e3](https://github.com/vuejs/vue-next/commit/b4eb7e3866d7dc722d93a48f4faae1696d4e7023)), closes [#4859](https://github.com/vuejs/vue-next/issues/4859)
+* **types/sfc:** fix withDefaults type inference when using union types ([#4925](https://github.com/vuejs/vue-next/issues/4925)) ([04e5835](https://github.com/vuejs/vue-next/commit/04e58351965caf489ac68e4961ef70448d954912))
 
-[3.2.18](https://github.com/vuejs/vue-next/compare/v3.2.17...v3.2.18) (2021-09-24)
-[3.2.17](https://github.com/vuejs/vue-next/compare/v3.2.16...v3.2.17) (2021-09-24)
-
-* **build:** avoid importing @babel/parser in esm-bundler build ([fc85ad2](https://github.com/vuejs/vue-next/commit/fc85ad28ae55ea9483c923f7d40373cbe27080fe)), closes [#4665](https://github.com/vuejs/vue-next/issues/4665)
 
 ...
 
@@ -213,7 +214,30 @@ TODOLIST：
 迟序之数，非出神怪，有形可检，有数可推。——祖冲之
 🏅 🎖 🏵
 
-
+* [Vue3 源码内参<一>手写mini前置准备](https://juejin.cn/post/7028471826627952671?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 新特性学习(三)计算属性computed和侦听器watch](https://juejin.cn/post/7024792752940384292?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue2 Vue3 v-model 原理](https://juejin.cn/post/7031839103914246181?content_source_url=https://github.com/vue3/vue3-News)  
+* [包含前端最新技术的 Vue 3 模板 vue3-compact-template](https://juejin.cn/post/7026284849786781726?content_source_url=https://github.com/vue3/vue3-News)  
+* [使用 vite2.0+vue3+element Plus+vue-router 搭建一个简单的项目](https://juejin.cn/post/7025899761198694431?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3 + Vite 前端工程化-基础篇](https://juejin.cn/post/7028431949488193550?content_source_url=https://github.com/vue3/vue3-News)  
+* [【vue3+antd-design-vue项目】-- 快速上手vue3](https://juejin.cn/post/7026213106581766174?content_source_url=https://github.com/vue3/vue3-News)  
+* [聊一聊 Vue3 的 9 个知识点](https://juejin.cn/post/7026249448233631752?content_source_url=https://github.com/vue3/vue3-News)  
+* [不完全Vue3迁移指南](https://juejin.cn/post/7030729177972080670?content_source_url=https://github.com/vue3/vue3-News)  
+* [Webpack5详细教程-入门篇，带你搭建 Vue3 项目](https://juejin.cn/post/7030709712920248357?content_source_url=https://github.com/vue3/vue3-News)  
+* [vue3保姆级教程](https://juejin.cn/post/7030992475271495711?content_source_url=https://github.com/vue3/vue3-News)  
+* [手写简易版vue3](https://juejin.cn/post/7031913919308365854?content_source_url=https://github.com/vue3/vue3-News)  
+* [助你上手Vue3全家桶之Vue3教程](https://www.jianshu.com/p/a2709fef0ef7?content_source_url=https://github.com/vue3/vue3-News)  
+* [从实际项目出发，告诉你vue3到底香不香](https://blog.csdn.net/zz_jesse/article/details/117490214?content_source_url=https://github.com/vue3/vue3-News)  
+* [一次弄懂 Vue2 和 Vue3 的 nextTick 实现原理](https://segmentfault.com/a/1190000040847068?content_source_url=https://github.com/vue3/vue3-News)  
+* [快速了解vue3生态发展现状和展望<尤雨溪>](https://zhuanlan.zhihu.com/p/425467159?content_source_url=https://github.com/vue3/vue3-News)  
+* [别人都在用 Vue3 了，你还在磕 Vue2 和 React？](https://baijiahao.baidu.com/s?id=1716182903504428181&wfr=spider&for=pc?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue和React的使用场景和深度有何不同？](https://www.zhihu.com/question/31585377?content_source_url=https://github.com/vue3/vue3-News)  
+* [3种Vue3添加公共方法并使用](https://baijiahao.baidu.com/s?id=1716140687281553733&wfr=spider&for=pc?content_source_url=https://github.com/vue3/vue3-News)  
+* [10个 Vue3 精华知识点，你知道几个？](https://www.jianshu.com/p/e4664216b5cc?content_source_url=https://github.com/vue3/vue3-News)  
+* [2021, 九款值得推荐的VUE3 UI框架](https://zhuanlan.zhihu.com/p/428493241?content_source_url=https://github.com/vue3/vue3-News)  
+* [从 16 个方向逐步搭建基于 vue3 的前端架构](https://segmentfault.com/a/1190000040899589?content_source_url=https://github.com/vue3/vue3-News)  
+* [Vue3源码分析——编译模块和编译器](https://segmentfault.com/a/1190000040887536?content_source_url=https://github.com/vue3/vue3-News)  
+* [低代码平台，JeecgBoot v3.0版本发布—新里程牌开始，迎接VUE3版本到来](https://segmentfault.com/a/1190000040892226?content_source_url=https://github.com/vue3/vue3-News)  
 * [花60秒给Vue3提的PR，竟然被尤大亲自Merge了~](https://juejin.cn/post/7012449788255813669?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vant 3 - 有赞出品的开源移动UI组件库，基于 Vue3 重构发布](https://blog.csdn.net/weixin_45583710/article/details/120036172?content_source_url=https://github.com/vue3/vue3-News)  
 * [【持续更新】梳理 Vue3 相比于 Vue2 的有哪些 “与众不同” ？](https://juejin.cn/post/7011372376969445413?content_source_url=https://github.com/vue3/vue3-News)  
