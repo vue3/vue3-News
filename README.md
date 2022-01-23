@@ -228,7 +228,9 @@ TODOLIST：
 🏆 🥇 🥈 🥉 
 迟序之数，非出神怪，有形可检，有数可推。——祖冲之
 🏅 🎖 🏵
- 
+
+* [尤雨溪：Vue 3 将成为新的默认版本 ](https://www.sohu.com/a/518048813_115128?content_source_url=https://github.com/vue3/vue3-News)   
+* [Vue3默认版本了！我准备学这五个东西了](https://segmentfault.com/a/1190000041324242?content_source_url=https://github.com/vue3/vue3-News)    
 * [基于 Vite 搭建开发体验超级丝滑的 Vue3 组件库开发框架](https://segmentfault.com/a/1190000041103446?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vue3.0+TS+Element-plus最全面后台管理系统！](https://juejin.cn/post/7034766239192842276?content_source_url=https://github.com/vue3/vue3-News)  
 * [Vite2 + Vue3 + TypeScript + Pinia 搭建一套企业级的开发脚手架【值得收藏】](https://juejin.cn/post/7036745610954801166?content_source_url=https://github.com/vue3/vue3-News)  
