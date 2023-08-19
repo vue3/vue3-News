@@ -78,8 +78,8 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 [3.3.4](https://github.com/vuejs/core/compare/v3.3.3...v3.3.4) (2023-05-18)
 
-May 11, 2023
-Announcing Vue 3.3
+May 11, 2023  
+Announcing Vue 3.3  
 Today we're excited to announce the release of Vue 3.3 "Rurouni Kenshin"!
 
 - **build:** ensure correct typing for node esm ([d621d4c](https://github.com/vuejs/core/commit/d621d4c646b2d7b190fbd44ad1fd04512b3de300))
