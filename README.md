@@ -46,6 +46,7 @@ Vue3.0 正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp
 
 ## 目录
 
+- [Announcing Vue 3.3](#我是要成为海贼王的男人)  
 - [2021 => 我最棒(๑•̀ㅂ•́)و✧](#我是要成为海贼王的男人)
 - [新年新气象](#新年新气象)
 - [撸 vue3 的霸气姿势](#-撸-vue3-的姿势-)
@@ -207,6 +208,33 @@ TODOLIST：
 ![v3.0.0 One Piece](https://raw.githubusercontent.com/vue3/vue3-News/master/asset/one-piece.png?sanitize=true)
 
 ## 「我是要成为海贼王的男人」
+
+Announcing Vue 3.3
+
+- [the release of Vue 3.3 "Rurouni Kenshin"!](https://blog.vuejs.org/posts/vue-3-3?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue 3.3 发布了，来看看有哪些更新](https://baijiahao.baidu.com/s?id=1765681831438941463&wfr=spider&for=pc?content_source_url=https://github.com/vue3/vue3-News)  
+- [通过实例了解vue3.3更新的特征](https://www.cnblogs.com/IwishIcould/p/17450015.html?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue3.3 的新功能的一些体验](https://www.jianshu.com/p/7e194af200f4?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue3.3 正式发布！](https://zhuanlan.zhihu.com/p/628670162?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue3.3 + TS4 ，自主打造媲美 ElementPlus 的组件库吾爱分享](https://zhuanlan.zhihu.com/p/646160646?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue 3.3 更新，代号“浪客剑心”](https://juejin.cn/post/7231940493256048700?content_source_url=https://github.com/vue3/vue3-News)  
+- [vue3：vue3.2升级至vue3.3/vue升级版本](https://blog.csdn.net/snowball_li/article/details/124398732?content_source_url=https://github.com/vue3/vue3-News)  
+- [【Vue 核心团队成员】Vue 3.3 主要新特性详解](https://juejin.cn/post/7231940493256032316?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue 3.3亮点解析：不容错过的新特性及其影响](https://juejin.cn/post/7233053557833056317?content_source_url=https://github.com/vue3/vue3-News)  
+- [vue3.3最新发布defineProps,generic,defineEmits,defineSlots教程](https://blog.csdn.net/qq_41974199/article/details/130735175?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue3.3 + Vite4.3 + Element-Plus + TypeScript 从0到1搭建企业级后台管理系统（前后端开源）](https://juejin.cn/post/7228990409909108793?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue3.3 编译宏](https://juejin.cn/post/7253367284872708154?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue3.3+ 中 defineEmits 具名元组写法eslint报错](https://juejin.cn/post/7247810665242230839?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue3.3 的新功能的体验（下）：泛型组件（Generic Component) 与 defineSlots](https://juejin.cn/post/7234810590875107388?content_source_url=https://github.com/vue3/vue3-News)  
+- [【vue3.3】 新特性 - 初体验](https://juejin.cn/post/7241080533169520698?content_source_url=https://github.com/vue3/vue3-News)  
+- [Geeker-Admin 一款基于 Vue3.3、TypeScript、Vite4、Pinia、Element-Plus 开源的后台管理框架](https://gitee.com/HalseySpicy/Geeker-Admin?content_source_url=https://github.com/vue3/vue3-News)  
+- [vue3 父组件给子组件传递泛型（不用JSX）](https://juejin.cn/post/7229661191073022011?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue3.3.1+TS 全新使用指南](https://juejin.cn/post/7233057834287710267?content_source_url=https://github.com/vue3/vue3-News)  
+- [一个demo体验Vue3.3+TypeScript所有新功能](https://juejin.cn/post/7243321262460731451?content_source_url=https://github.com/vue3/vue3-News)  
+- [全新升级Vue3.3基于ElementPLUS常用封装组件](https://www.bilibili.com/video/BV1or4y1o7jc/?vd_source=e2f5c3cfc007583984f5d1832a68f7f0?content_source_url=https://github.com/vue3/vue3-News)  
+- [能不能更快更好用？Vue3.3正式发布，加速你的开发效率！](https://blog.csdn.net/hkw20/article/details/130641156?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue3.3：瀑布流组件封装](https://www.bilibili.com/video/BV14u4y117Vx?content_source_url=https://github.com/vue3/vue3-News)  
+
 
 2021 => 我最棒(๑•̀ㅂ•́)و✧
 
