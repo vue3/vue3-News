@@ -76,15 +76,11 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
-3.2.22](https://github.com/vuejs/vue-next/compare/v3.2.21...v3.2.22) (2021-11-15)
+[3.3.4](https://github.com/vuejs/core/compare/v3.3.3...v3.3.4) (2023-05-18)
 
-- **compiler-sfc:** add type for props include Function in prod mode ([#4938](https://github.com/vuejs/vue-next/issues/4938)) ([9c42a1e](https://github.com/vuejs/vue-next/commit/9c42a1e2a3385f3b33faed5cdcc430bf8c1fc4b2))
-- **compiler-sfc:** add type for props's properties in prod mode ([#4790](https://github.com/vuejs/vue-next/issues/4790)) ([090df08](https://github.com/vuejs/vue-next/commit/090df0837eb0aedd8a02fd0107b7668ca5c136a1)), closes [#4783](https://github.com/vuejs/vue-next/issues/4783)
-- **compiler-sfc:** externalRE support automatic http/https prefix url pattern ([#4922](https://github.com/vuejs/vue-next/issues/4922)) ([574070f](https://github.com/vuejs/vue-next/commit/574070f43f804fd855f4ee319936ec770a56cef0)), closes [#4920](https://github.com/vuejs/vue-next/issues/4920)
-- **compiler-sfc:** fix expose codegen edge case ([#4919](https://github.com/vuejs/vue-next/issues/4919)) ([31fd590](https://github.com/vuejs/vue-next/commit/31fd590fd47e2dc89b84687ffe26a5c6f05fea34)), closes [#4917](https://github.com/vuejs/vue-next/issues/4917)
-- **devtool:** improve devtools late injection browser env detection ([#4890](https://github.com/vuejs/vue-next/issues/4890)) ([fa2237f](https://github.com/vuejs/vue-next/commit/fa2237f1d824eac511c4246135318594c48dc121))
-- **runtime-core:** improve dedupe listeners when attr fallthrough ([#4912](https://github.com/vuejs/vue-next/issues/4912)) ([b4eb7e3](https://github.com/vuejs/vue-next/commit/b4eb7e3866d7dc722d93a48f4faae1696d4e7023)), closes [#4859](https://github.com/vuejs/vue-next/issues/4859)
-- **types/sfc:** fix withDefaults type inference when using union types ([#4925](https://github.com/vuejs/vue-next/issues/4925)) ([04e5835](https://github.com/vuejs/vue-next/commit/04e58351965caf489ac68e4961ef70448d954912))
+- **build:** ensure correct typing for node esm ([d621d4c](https://github.com/vuejs/core/commit/d621d4c646b2d7b190fbd44ad1fd04512b3de300))
+- **build:** fix __DEV__ flag replacement edge case ([8b7c04b](https://github.com/vuejs/core/commit/8b7c04b18f73aad9a08dd57eba90101b5b2aef28)), closes [#8353](https://github.com/vuejs/core/issues/8353)
+- **compiler-sfc:** handle imported types from default exports ([5aec717](https://github.com/vuejs/core/commit/5aec717a2402652306085f58432ba3ab91848a74)), closes [#8355](https://github.com/vuejs/core/issues/8355)
 
 ...
 
