@@ -37,6 +37,8 @@ Twitter vue3: **vue 3 will be available by the end of Q2.**(done)
 
 Vue3.0 正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp.weixin.qq.com/s/ZECNJYe1_zNwdX9tUWnMFA?content_source_url=https://github.com/vue3/vue3-News)】
 
+The offical blog for the Vue.js project, [The Vue Point](https://blog.vuejs.org/).    
+
 想了解更多有关 Vue 3.0 的信息，请大胆访问：[v3.vuejs.org](https://v3.vuejs.org/?content_source_url=https://github.com/vue3/vue3-News)
 
 除了单独 Vue3 资讯，欢迎查看更多 vue.js 资讯：【[【🔥Vue.js 资讯 📚】目前 web 前端开发非常火爆的框架；定时更新，欢迎 Star 一下。](https://github.com/itemsets/vue2)】
@@ -211,7 +213,11 @@ TODOLIST：
 
 Announcing Vue 3.3
 
-- [the release of Vue 3.3 "Rurouni Kenshin"!](https://blog.vuejs.org/posts/vue-3-3?content_source_url=https://github.com/vue3/vue3-News)  
+Vue3.3 发布，版本代号为 “Rurouni Kenshin”    
+主要改进了DX（开发者体验）、新增一些语法糖和宏，以及 TypeScript 上的改善...    
+
+- [the release of Vue 3.3 "Rurouni Kenshin"!](https://blog.vuejs.org/posts/vue-3-3?content_source_url=https://github.com/vue3/vue3-News)
+- [和 Vue 核心团队成员 sxzz 聊前端学习、参与开源和 Vue3.3](https://www.xiaoyuzhoufm.com/episode/646cd4901672628240ddda8e?content_source_url=https://github.com/vue3/vue3-News)  
 - [Vue 3.3 发布了，来看看有哪些更新](https://baijiahao.baidu.com/s?id=1765681831438941463&wfr=spider&for=pc?content_source_url=https://github.com/vue3/vue3-News)  
 - [通过实例了解vue3.3更新的特征](https://www.cnblogs.com/IwishIcould/p/17450015.html?content_source_url=https://github.com/vue3/vue3-News)  
 - [Vue3.3 的新功能的一些体验](https://www.jianshu.com/p/7e194af200f4?content_source_url=https://github.com/vue3/vue3-News)  
@@ -234,6 +240,9 @@ Announcing Vue 3.3
 - [全新升级Vue3.3基于ElementPLUS常用封装组件](https://www.bilibili.com/video/BV1or4y1o7jc/?vd_source=e2f5c3cfc007583984f5d1832a68f7f0?content_source_url=https://github.com/vue3/vue3-News)  
 - [能不能更快更好用？Vue3.3正式发布，加速你的开发效率！](https://blog.csdn.net/hkw20/article/details/130641156?content_source_url=https://github.com/vue3/vue3-News)  
 - [Vue3.3：瀑布流组件封装](https://www.bilibili.com/video/BV14u4y117Vx?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue 3 notification library](https://github.com/kyvg/vue3-notification?content_source_url=https://github.com/vue3/vue3-News)  
+- [记一次Vue3.3.3 p5-urgent级 bug修复过程](https://juejin.cn/post/7264609364672888888?content_source_url=https://github.com/vue3/vue3-News)  
+- [Vue 3.3 新特性前瞻和简单评价](https://juejin.cn/post/7226619773375152187?content_source_url=https://github.com/vue3/vue3-News)  
 
 
 2021 => 我最棒(๑•̀ㅂ•́)و✧
