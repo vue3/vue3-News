@@ -266,51 +266,48 @@ TODOLIST：
 
 一、‌ 核心优化策略 ‌
 
-路由级懒加载 ‌：通过 () => import() 动态导入组件，结合 webpackChunkName 分割代码块，减少首屏加载体积（首屏资源减少 30%+）‌。  
-异步组件优化 ‌：使用 defineAsyncComponent 加载非关键组件，并配置 loadingComponent 提升用户体验 ‌。
-
-‌ 时间旅行调试 ‌：回溯应用状态快照，对比不同时间点的数据变化（支持 Pinia/Vuex 状态历史回滚）‌。  
-浅层响应式 ‌：对非深度监听的数据使用 shallowRef/shallowReactive，减少深层嵌套对象的性能开销 ‌。
-冻结静态数据 ‌：通过 Object.freeze() 冻结无需变化的数据，避免无意义响应式追踪 ‌。  
-防抖与节流 ‌：使用 useDebounce 和 useThrottle 自定义 Hook 控制高频事件（如搜索输入），减少重复计算 ‌。
+- 路由级懒加载 ‌：通过 () => import() 动态导入组件，结合 `webpackChunkName` 分割代码块，减少首屏加载体积（首屏资源减少 30%+）‌。
+- 异步组件优化 ‌：使用 `defineAsyncComponent` 加载非关键组件，并配置 `loadingComponent` 提升用户体验 ‌.
+- 时间旅行调试 ‌：回溯应用状态快照，对比不同时间点的数据变化（支持 `Pinia/Vuex` 状态历史回滚）‌。
+- 浅层响应式 ‌：对非深度监听的数据使用 `shallowRef/shallowReactive`，减少深层嵌套对象的性能开销 ‌.
+- 冻结静态数据 ‌：通过 `Object.freeze()` 冻结无需变化的数据，避免无意义响应式追踪 ‌。
+- 防抖与节流 ‌：使用 `useDebounce` 和 `useThrottle` 自定义 Hook 控制高频事件（如搜索输入），减少重复计算 ‌。
 
 Vue DevTools‌
 
-组件树与状态分析 ‌：可视化查看组件层级结构、实时编辑 props/data，支持 Vuex/Pinia 状态追踪与回溯调试 ‌。  
-性能分析 ‌：记录组件渲染耗时、计算属性执行时间，定位高耗时组件（如通过「Performance」标签页识别长任务）‌。  
-时间旅行调试 ‌：回溯应用状态快照，对比不同时间点的数据变化（支持 Pinia/Vuex 状态历史回滚）‌。
+- 组件树与状态分析 ‌：可视化查看组件层级结构、实时编辑 `props/data`，支持 `Vuex/Pinia` 状态追踪与回溯调试 ‌。
+- 性能分析 ‌：记录组件渲染耗时、计算属性执行时间，定位高耗时组件（如通过「`Performance`」标签页识别长任务）‌。
+- 时间旅行调试 ‌：回溯应用状态快照，对比不同时间点的数据变化（支持 `Pinia/Vuex` 状态历史回滚）‌。
 
 vite-plugin-vue-devtools‌
 
-免浏览器扩展的调试插件，集成路由导航追踪、静态资源分析、时间线监控（性能/路由/Pinia 状态变更）‌。  
-支持动态路由参数调试与组件树快速导航，开发环境下直接通过 Vite 配置启用 ‌。
+- 免浏览器扩展的调试插件，集成路由导航追踪、静态资源分析、时间线监控（性能/路由/Pinia 状态变更）‌。
+- 支持动态路由参数调试与组件树快速导航，开发环境下直接通过 Vite 配置启用 ‌。
 
 二、‌ 渲染与资源优化 ‌
 
-列表渲染优化 ‌：为 v-for 设置唯一 key，大数据量场景使用虚拟滚动（如 vue-virtual-scroller）‌。  
-条件渲染策略 ‌：优先用 v-if 替代 v-show 减少常驻 DOM 节点，结合 v-memo 缓存静态组件片段（Vue 3.2+）‌。
-
-Tree Shaking 配置 ‌：通过 Vite/Rollup 剔除未使用代码，标记 sideEffects: false 优化第三方库（如 Element Plus 按需引入）‌。  
-CDN 加速 ‌：将静态资源（如字体、图片）托管至 CDN，配合 HTTP 缓存策略提升加载速度 ‌。
+- 列表渲染优化 ‌：为 v-for 设置唯一 key，大数据量场景使用虚拟滚动（如 `vue-virtual-scroller`）‌。
+- 条件渲染策略 ‌：优先用 v-if 替代 v-show 减少常驻 DOM 节点，结合 v-memo 缓存静态组件片段（Vue 3.2+）‌。
+- Tree Shaking 配置 ‌：通过 `Vite/Rollup` 剔除未使用代码，标记 sideEffects: false 优化第三方库（如 Element Plus 按需引入）‌。
+- CDN 加速 ‌：将静态资源（如字体、图片）托管至 CDN，配合 HTTP 缓存策略提升加载速度 ‌。
 
 三、‌ 工程化与工具链 ‌
 
-Vite 生态整合 ‌：使用 vite-plugin-html 实现多环境配置，通过 @vitejs/plugin-legacy 兼容旧浏览器 ‌。  
-第三方库压缩 ‌：对图标库（如 FontAwesome）按需引入，避免全量加载 ‌。
-
-Lighthouse 分析 ‌：生成性能报告，关注 FCP（首次内容渲染）和 LCP（最大内容渲染）指标 ‌。  
-Chrome Performance 面板 ‌：定位长任务（Long Tasks）和高耗时组件渲染 ‌。  
-服务端启用 Brotli/Gzip 压缩，减少网络传输体积，提升资源加载速度 ‌。
+- Vite 生态整合 ‌：使用 vite-plugin-html 实现多环境配置，通过 `@vitejs/plugin-legacy` 兼容旧浏览器 ‌。
+- 第三方库压缩 ‌：对图标库（如 FontAwesome）按需引入，避免全量加载 ‌。
+- Lighthouse 分析 ‌：生成性能报告，关注 FCP（首次内容渲染）和 LCP（最大内容渲染）指标 ‌。
+- hrome Performance 面板 ‌：定位长任务（Long Tasks）和高耗时组件渲染 ‌。
+- 服务端启用 `Brotli/Gzip` 压缩，减少网络传输体积，提升资源加载速度 ‌。
 
 四、‌ 高阶实践 ‌
 
-服务端优化 ‌：启用 Brotli/Gzip 压缩，配置 HTTP/2 多路复用减少网络延迟 ‌。  
-内存管理 ‌：及时解绑无用事件监听器，避免闭包导致的内存泄漏 ‌。  
-图片懒加载 ‌：结合 Intersection Observer API 实现视口外图片延迟加载 ‌。
+- 服务端优化 ‌：启用 `Brotli/Gzip` 压缩，配置 HTTP/2 多路复用减少网络延迟 ‌。
+- 内存管理 ‌：及时解绑无用事件监听器，避免闭包导致的内存泄漏 ‌。
+- 图片懒加载 ‌：结合 `Intersection Observer API` 实现视口外图片延迟加载 ‌。
 
-诊断瓶颈 ‌ → ‌ 按需加载组件 ‌‌ → ‌ 响应式数据精简 ‌‌ → ‌ 渲染策略调整 ‌‌。  
-结合项目规模选择工具链，中小型项目优先优化代码分割和 Tree Shaking，大型项目需深入响应式与内存管理 ‌。
-大型项目需结合 Web Workers 处理密集型计算，避免阻塞主线程 ‌。
+`诊断瓶颈` ‌ → ‌ `按需加载组件` ‌‌ → ‌ `响应式数据精简` ‌‌ → ‌ `渲染策略调整` ‌‌。  
+结合项目规模选择工具链，中小型项目优先优化代码分割和 `Tree Shaking`，大型项目需深入响应式与内存管理 ‌。  
+大型项目需结合 `Web Workers` 处理密集型计算，避免阻塞主线程 ‌。
 
 ## 「我是要成为海贼王的男人」
 
