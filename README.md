@@ -19,14 +19,14 @@
 -->
 
 🚀 欢迎`Star`，后续会不断更新。  
-🇨🇳 最后更新日期：2️⃣0️⃣2️⃣3️⃣  
+🇨🇳 最后更新日期：2️⃣0️⃣2️⃣5️⃣  
 🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳
 
-2023 年您好，(_´▽ ｀)ノノ_)，继续前行！  
-【2023】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡-------------- 【2024】
+2025 年您好，(_´▽ ｀)ノノ_)，继续前行！  
+【2025】 ≡≡≡≡≡≡≡≡-------------------------- 【2026】
 
-2020/2021/2022 年再见ヾ(￣ ▽ ￣)Bye~Bye~，感谢自己！  
-【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ 【2023】
+2024 年再见ヾ(￣ ▽ ￣)Bye~Bye~，感谢自己！  
+【2020】 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ 【2024】
 
 Twitter vue3: **vue 3 will be available by the end of Q2.**(done)
 
@@ -37,7 +37,7 @@ Twitter vue3: **vue 3 will be available by the end of Q2.**(done)
 
 Vue3.0 正式发布，尤雨溪在线全球发布会：【[戳这里](https://mp.weixin.qq.com/s/ZECNJYe1_zNwdX9tUWnMFA?content_source_url=https://github.com/vue3/vue3-News)】
 
-The offical blog for the Vue.js project, [The Vue Point](https://blog.vuejs.org/).    
+The offical blog for the Vue.js project, [The Vue Point](https://blog.vuejs.org/).
 
 想了解更多有关 Vue 3.0 的信息，请大胆访问：[v3.vuejs.org](https://v3.vuejs.org/?content_source_url=https://github.com/vue3/vue3-News)
 
@@ -48,7 +48,8 @@ The offical blog for the Vue.js project, [The Vue Point](https://blog.vuejs.org/
 
 ## 目录
 
-- [Announcing Vue 3.3](#我是要成为海贼王的男人)  
+- [vue3 更上一层楼](#vue3-更上一层楼)
+- [Announcing Vue 3.3](#我是要成为海贼王的男人)
 - [2021 => 我最棒(๑•̀ㅂ•́)و✧](#我是要成为海贼王的男人)
 - [新年新气象](#新年新气象)
 - [撸 vue3 的霸气姿势](#-撸-vue3-的姿势-)
@@ -79,15 +80,34 @@ Vue 3 中最主要的新特性：组合式 API，已经可以借助 https://gith
 
 ![yyx990803](https://avatars2.githubusercontent.com/u/499550?s=40&v=4) yyx990803
 
-[3.3.4](https://github.com/vuejs/core/compare/v3.3.3...v3.3.4) (2023-05-18)
+## [3.5.13](https://github.com/vuejs/core/compare/v3.5.12...v3.5.13) (2024-11-15)
 
-May 11, 2023  
-Announcing Vue 3.3  
-Today we're excited to announce the release of Vue 3.3 "Rurouni Kenshin"!
+### Bug Fixes
 
-- **build:** ensure correct typing for node esm ([d621d4c](https://github.com/vuejs/core/commit/d621d4c646b2d7b190fbd44ad1fd04512b3de300))
-- **build:** fix __DEV__ flag replacement edge case ([8b7c04b](https://github.com/vuejs/core/commit/8b7c04b18f73aad9a08dd57eba90101b5b2aef28)), closes [#8353](https://github.com/vuejs/core/issues/8353)
-- **compiler-sfc:** handle imported types from default exports ([5aec717](https://github.com/vuejs/core/commit/5aec717a2402652306085f58432ba3ab91848a74)), closes [#8355](https://github.com/vuejs/core/issues/8355)
+- **compiler-core:** handle v-memo + v-for with functional key ([#12014](https://github.com/vuejs/core/issues/12014)) ([99009ee](https://github.com/vuejs/core/commit/99009eee0efc238392daba93792d478525b21afa)), closes [#12013](https://github.com/vuejs/core/issues/12013)
+- **compiler-dom:** properly stringify template string style ([#12392](https://github.com/vuejs/core/issues/12392)) ([2d78539](https://github.com/vuejs/core/commit/2d78539da35322aea5f821b3cf9b02d006abac72)), closes [#12391](https://github.com/vuejs/core/issues/12391)
+- **custom-element:** avoid triggering mutationObserver when relecting props ([352bc88](https://github.com/vuejs/core/commit/352bc88c1bd2fda09c61ab17ea1a5967ffcd7bc0)), closes [#12214](https://github.com/vuejs/core/issues/12214) [#12215](https://github.com/vuejs/core/issues/12215)
+- **deps:** update dependency postcss to ^8.4.48 ([#12356](https://github.com/vuejs/core/issues/12356)) ([b5ff930](https://github.com/vuejs/core/commit/b5ff930089985a58c3553977ef999cec2a6708a4))
+- **hydration:** the component vnode's el should be updated when a mismatch occurs. ([#12255](https://github.com/vuejs/core/issues/12255)) ([a20a4cb](https://github.com/vuejs/core/commit/a20a4cb36a3e717d1f8f259d0d59f133f508ff0a)), closes [#12253](https://github.com/vuejs/core/issues/12253)
+- **reactiivty:** avoid unnecessary watcher effect removal from inactive scope ([2193284](https://github.com/vuejs/core/commit/21932840eae72ffcd357a62ec596aaecc7ec224a)), closes [#5783](https://github.com/vuejs/core/issues/5783) [#5806](https://github.com/vuejs/core/issues/5806)
+- **reactivity:** release nested effects/scopes on effect scope stop ([#12373](https://github.com/vuejs/core/issues/12373)) ([bee2f5e](https://github.com/vuejs/core/commit/bee2f5ee62dc0cd04123b737779550726374dd0a)), closes [#12370](https://github.com/vuejs/core/issues/12370)
+- **runtime-dom:** set css vars before user onMounted hooks ([2d5c5e2](https://github.com/vuejs/core/commit/2d5c5e25e9b7a56e883674fb434135ac514429b5)), closes [#11533](https://github.com/vuejs/core/issues/11533)
+- **runtime-dom:** set css vars on update to handle child forcing reflow in onMount ([#11561](https://github.com/vuejs/core/issues/11561)) ([c4312f9](https://github.com/vuejs/core/commit/c4312f9c715c131a09e552ba46e9beb4b36d55e6))
+- **ssr:** avoid updating subtree of async component if it is resolved ([#12363](https://github.com/vuejs/core/issues/12363)) ([da7ad5e](https://github.com/vuejs/core/commit/da7ad5e3d24f3e108401188d909d27a4910da095)), closes [#12362](https://github.com/vuejs/core/issues/12362)
+- **ssr:** ensure v-text updates correctly with custom directives in SSR output ([#12311](https://github.com/vuejs/core/issues/12311)) ([1f75d4e](https://github.com/vuejs/core/commit/1f75d4e6dfe18121ebe443cd3e8105d54f727893)), closes [#12309](https://github.com/vuejs/core/issues/12309)
+- **ssr:** handle initial selected state for select with v-model + v-for option ([#12399](https://github.com/vuejs/core/issues/12399)) ([4f8d807](https://github.com/vuejs/core/commit/4f8d8078221ee52deed266677a227ad2a6d8dd22)), closes [#12395](https://github.com/vuejs/core/issues/12395)
+- **teleport:** handle deferred teleport update before mounted ([#12168](https://github.com/vuejs/core/issues/12168)) ([8bff142](https://github.com/vuejs/core/commit/8bff142f99b646e9dd15897ec75368fbf34f1534)), closes [#12161](https://github.com/vuejs/core/issues/12161)
+- **templateRef:** set ref on cached async component which wrapped in KeepAlive ([#12290](https://github.com/vuejs/core/issues/12290)) ([983eb50](https://github.com/vuejs/core/commit/983eb50a17eac76f1bba4394ad0316c62b72191d)), closes [#4999](https://github.com/vuejs/core/issues/4999) [#5004](https://github.com/vuejs/core/issues/5004)
+- **test:** update snapshot ([#12169](https://github.com/vuejs/core/issues/12169)) ([828d4a4](https://github.com/vuejs/core/commit/828d4a443919fa2aa4e2e92fbd03a5f04b258eea))
+- **Transition:** fix transition memory leak edge case ([#12182](https://github.com/vuejs/core/issues/12182)) ([660132d](https://github.com/vuejs/core/commit/660132df6c6a8c14bf75e593dc47d2fdada30322)), closes [#12181](https://github.com/vuejs/core/issues/12181)
+- **transition:** reflow before leave-active class after leave-from ([#12288](https://github.com/vuejs/core/issues/12288)) ([4b479db](https://github.com/vuejs/core/commit/4b479db61d233b054561402ae94ef08550073ea1)), closes [#2593](https://github.com/vuejs/core/issues/2593)
+- **types:** defineEmits w/ interface declaration ([#12343](https://github.com/vuejs/core/issues/12343)) ([1022eab](https://github.com/vuejs/core/commit/1022eabaa1aaf8436876f5ec5573cb1e4b3959a6)), closes [#8457](https://github.com/vuejs/core/issues/8457)
+- **v-once:** setting hasOnce to current block only when in v-once ([#12374](https://github.com/vuejs/core/issues/12374)) ([37300fc](https://github.com/vuejs/core/commit/37300fc26190a7299efddbf98800ffd96d5cad96)), closes [#12371](https://github.com/vuejs/core/issues/12371)
+
+### Performance Improvements
+
+- **reactivity:** do not track inner key `\_\_v_skip`` ([#11690](https://github.com/vuejs/core/issues/11690)) ([d637bd6](https://github.com/vuejs/core/commit/d637bd6c0164c2883e6eabd3c2f1f8c258dedfb1))
+- **runtime-core:** use feature flag for call to resolveMergedOptions ([#12163](https://github.com/vuejs/core/issues/12163)) ([1755ac0](https://github.com/vuejs/core/commit/1755ac0a108ba3486bd8397e56d3bdcd69196594))
 
 ...
 
@@ -209,41 +229,123 @@ TODOLIST：
 
 ![v3.0.0 One Piece](https://raw.githubusercontent.com/vue3/vue3-News/master/asset/one-piece.png?sanitize=true)
 
+## vue3 更上一层楼
+
+- [Announcing Vue 3.5](https://blog.vuejs.org/posts/vue-3-5?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3+AI 打造智能聊天应用：从零到部署的全栈秘籍](https://zhuanlan.zhihu.com/p/29876985312?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3.5 正式上线，父传子 props 用法更丝滑简洁](https://zhuanlan.zhihu.com/p/3751577616?content_source_url=https://github.com/vue3/vue3-News)
+- [2024 前端开发 - 2/3 进阶篇 - 核心框架学习](https://blog.csdn.net/Cat0926/article/details/135856405?content_source_url=https://github.com/vue3/vue3-News)
+- [使用 vue3 调用 DeepSeek，实现自己的本地 GPT 页面](https://juejin.cn/post/7457929052609069071?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 首屏优化终极指南：10 大黑科技让加载速度飙升 300%（附实战代码）](https://juejin.cn/post/7482265923919822875?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3 性能优化十大技巧：打造高性能应用的终极指南](https://blog.csdn.net/Pro_er/article/details/145808172?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3 性能优化必杀技：useDebounce+useThrottle+useLazyLoad 深度剖析](https://article.juejin.cn/post/7473808296316076059?content_source_url=https://github.com/vue3/vue3-News)
+- [2024 年前端性能优化：Vue3 与 Vite 项目全方位攻略](https://zhuanlan.zhihu.com/p/15109717831?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3 项目性能优化神器，懒加载轻松搞定](https://haokan.baidu.com/v?pd=wisenatural&vid=6339094676488370893?content_source_url=https://github.com/vue3/vue3-News)
+- [【Vue3】保姆级毫无废话的进阶到实战教程 - 01](https://zhuanlan.zhihu.com/p/688204023?content_source_url=https://github.com/vue3/vue3-News)
+- [【Vue 面试专题】Vue3 性能提升提现在哪些方面？](https://www.bilibili.com/video/BV19d4y1o7tq/?vd_source=e2f5c3cfc007583984f5d1832a68f7f0?content_source_url=https://github.com/vue3/vue3-News)
+- [轻松打造 Vue3 高性能虚拟列表组件](https://zhuanlan.zhihu.com/p/8849458542?content_source_url=https://github.com/vue3/vue3-News)
+- [🚀 Vue3 性能优化实战：让你的应用快如闪电！⚡](https://juejin.cn/post/7471190669715537956?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3 从入门到精通：全面掌握前端框架的进阶之路](https://blog.csdn.net/weixin_44171297/article/details/145629043?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 3 性能提升与 TS 支持全解析](https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4094710842961065610&sourceFrom=search_a?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3 源码解析，打造自己的 Vue3 框架](https://zhuanlan.zhihu.com/p/16343594401?content_source_url=https://github.com/vue3/vue3-News)
+- [AI 交互组件库 AI 界面解决方案-- Element Plus X 正式开源啦](https://zhuanlan.zhihu.com/p/1888274000427323435?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3 组件通信全攻略：多种方式详解+实战场景，轻松玩转复杂数据流！](https://zhuanlan.zhihu.com/p/26970252966?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3 设计思想及响应式源码剖析](https://zhuanlan.zhihu.com/p/13649505093?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3 h5 项目性能优化](https://juejin.cn/post/7355096015584264192?content_source_url=https://github.com/vue3/vue3-News)
+- [这 22 个 Vue3 的实用技巧，你可能还不知道！](https://zhuanlan.zhihu.com/p/460142729?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 3 性能提升与 TS 支持全解析](https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4094710842961065610?content_source_url=https://github.com/vue3/vue3-News)
+- [2024 年前端性能优化：Vue3 与 Vite 项目全方位攻略](https://juejin.cn/post/7452518173184901160?content_source_url=https://github.com/vue3/vue3-News)
+- [有没有比较好的 vue3+ts 的学习资源推荐一下?](https://www.zhihu.com/question/513772508/answer/3136740365?content_source_url=https://github.com/vue3/vue3-News)
+- [2024 总结的 vue3 的面试题](https://zhuanlan.zhihu.com/p/689829638?content_source_url=https://github.com/vue3/vue3-News)
+- [超详细！10 分钟开发一个 Vue3 的后台管理系统！](https://zhuanlan.zhihu.com/p/690498384?content_source_url=https://github.com/vue3/vue3-News)
+- [《linwu 的算法笔记》，《现代 Javascrip 高级教程》，《现代 TypeScript 高级教程》，《深入浅出 Dart》等等精品课程](https://www.coding-time.cn/?content_source_url=https://github.com/vue3/vue3-News)
+- [强烈推荐一款 Vue3 调试神器！](https://cloud.tencent.com/developer/article/2311847?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3.0 官方调试工具 dev-tools 3.0 版本发布](https://wenku.csdn.net/doc/5hhay61k5r?content_source_url=https://github.com/vue3/vue3-News)
+
+## Vue3 性能优化技巧
+
+一、‌ 核心优化策略 ‌
+
+路由级懒加载 ‌：通过 () => import() 动态导入组件，结合 webpackChunkName 分割代码块，减少首屏加载体积（首屏资源减少 30%+）‌。  
+异步组件优化 ‌：使用 defineAsyncComponent 加载非关键组件，并配置 loadingComponent 提升用户体验 ‌。
+
+‌ 时间旅行调试 ‌：回溯应用状态快照，对比不同时间点的数据变化（支持 Pinia/Vuex 状态历史回滚）‌。  
+浅层响应式 ‌：对非深度监听的数据使用 shallowRef/shallowReactive，减少深层嵌套对象的性能开销 ‌。
+冻结静态数据 ‌：通过 Object.freeze() 冻结无需变化的数据，避免无意义响应式追踪 ‌。  
+防抖与节流 ‌：使用 useDebounce 和 useThrottle 自定义 Hook 控制高频事件（如搜索输入），减少重复计算 ‌。
+
+Vue DevTools‌
+
+组件树与状态分析 ‌：可视化查看组件层级结构、实时编辑 props/data，支持 Vuex/Pinia 状态追踪与回溯调试 ‌。  
+性能分析 ‌：记录组件渲染耗时、计算属性执行时间，定位高耗时组件（如通过「Performance」标签页识别长任务）‌。  
+时间旅行调试 ‌：回溯应用状态快照，对比不同时间点的数据变化（支持 Pinia/Vuex 状态历史回滚）‌。
+
+vite-plugin-vue-devtools‌
+
+免浏览器扩展的调试插件，集成路由导航追踪、静态资源分析、时间线监控（性能/路由/Pinia 状态变更）‌。  
+支持动态路由参数调试与组件树快速导航，开发环境下直接通过 Vite 配置启用 ‌。
+
+二、‌ 渲染与资源优化 ‌
+
+列表渲染优化 ‌：为 v-for 设置唯一 key，大数据量场景使用虚拟滚动（如 vue-virtual-scroller）‌。  
+条件渲染策略 ‌：优先用 v-if 替代 v-show 减少常驻 DOM 节点，结合 v-memo 缓存静态组件片段（Vue 3.2+）‌。
+
+Tree Shaking 配置 ‌：通过 Vite/Rollup 剔除未使用代码，标记 sideEffects: false 优化第三方库（如 Element Plus 按需引入）‌。  
+CDN 加速 ‌：将静态资源（如字体、图片）托管至 CDN，配合 HTTP 缓存策略提升加载速度 ‌。
+
+三、‌ 工程化与工具链 ‌
+
+Vite 生态整合 ‌：使用 vite-plugin-html 实现多环境配置，通过 @vitejs/plugin-legacy 兼容旧浏览器 ‌。  
+第三方库压缩 ‌：对图标库（如 FontAwesome）按需引入，避免全量加载 ‌。
+
+Lighthouse 分析 ‌：生成性能报告，关注 FCP（首次内容渲染）和 LCP（最大内容渲染）指标 ‌。  
+Chrome Performance 面板 ‌：定位长任务（Long Tasks）和高耗时组件渲染 ‌。  
+服务端启用 Brotli/Gzip 压缩，减少网络传输体积，提升资源加载速度 ‌。
+
+四、‌ 高阶实践 ‌
+
+服务端优化 ‌：启用 Brotli/Gzip 压缩，配置 HTTP/2 多路复用减少网络延迟 ‌。  
+内存管理 ‌：及时解绑无用事件监听器，避免闭包导致的内存泄漏 ‌。  
+图片懒加载 ‌：结合 Intersection Observer API 实现视口外图片延迟加载 ‌。
+
+诊断瓶颈 ‌ → ‌ 按需加载组件 ‌‌ → ‌ 响应式数据精简 ‌‌ → ‌ 渲染策略调整 ‌‌。  
+结合项目规模选择工具链，中小型项目优先优化代码分割和 Tree Shaking，大型项目需深入响应式与内存管理 ‌。
+大型项目需结合 Web Workers 处理密集型计算，避免阻塞主线程 ‌。
+
 ## 「我是要成为海贼王的男人」
 
 Announcing Vue 3.3
 
-Vue3.3 发布，版本代号为 “Rurouni Kenshin”    
-主要改进了DX（开发者体验）、新增一些语法糖和宏，以及 TypeScript 上的改善...    
+Vue3.3 发布，版本代号为 “Rurouni Kenshin”  
+主要改进了 DX（开发者体验）、新增一些语法糖和宏，以及 TypeScript 上的改善...
 
 - [the release of Vue 3.3 "Rurouni Kenshin"!](https://blog.vuejs.org/posts/vue-3-3?content_source_url=https://github.com/vue3/vue3-News)
-- [和 Vue 核心团队成员 sxzz 聊前端学习、参与开源和 Vue3.3](https://www.xiaoyuzhoufm.com/episode/646cd4901672628240ddda8e?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue 3.3 发布了，来看看有哪些更新](https://baijiahao.baidu.com/s?id=1765681831438941463&wfr=spider&for=pc?content_source_url=https://github.com/vue3/vue3-News)  
-- [通过实例了解vue3.3更新的特征](https://www.cnblogs.com/IwishIcould/p/17450015.html?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue3.3 的新功能的一些体验](https://www.jianshu.com/p/7e194af200f4?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue3.3 正式发布！](https://zhuanlan.zhihu.com/p/628670162?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue3.3 + TS4 ，自主打造媲美 ElementPlus 的组件库吾爱分享](https://zhuanlan.zhihu.com/p/646160646?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue 3.3 更新，代号“浪客剑心”](https://juejin.cn/post/7231940493256048700?content_source_url=https://github.com/vue3/vue3-News)  
-- [vue3：vue3.2升级至vue3.3/vue升级版本](https://blog.csdn.net/snowball_li/article/details/124398732?content_source_url=https://github.com/vue3/vue3-News)  
-- [【Vue 核心团队成员】Vue 3.3 主要新特性详解](https://juejin.cn/post/7231940493256032316?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue 3.3亮点解析：不容错过的新特性及其影响](https://juejin.cn/post/7233053557833056317?content_source_url=https://github.com/vue3/vue3-News)  
-- [vue3.3最新发布defineProps,generic,defineEmits,defineSlots教程](https://blog.csdn.net/qq_41974199/article/details/130735175?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue3.3 + Vite4.3 + Element-Plus + TypeScript 从0到1搭建企业级后台管理系统（前后端开源）](https://juejin.cn/post/7228990409909108793?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue3.3 编译宏](https://juejin.cn/post/7253367284872708154?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue3.3+ 中 defineEmits 具名元组写法eslint报错](https://juejin.cn/post/7247810665242230839?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue3.3 的新功能的体验（下）：泛型组件（Generic Component) 与 defineSlots](https://juejin.cn/post/7234810590875107388?content_source_url=https://github.com/vue3/vue3-News)  
-- [【vue3.3】 新特性 - 初体验](https://juejin.cn/post/7241080533169520698?content_source_url=https://github.com/vue3/vue3-News)  
-- [Geeker-Admin 一款基于 Vue3.3、TypeScript、Vite4、Pinia、Element-Plus 开源的后台管理框架](https://gitee.com/HalseySpicy/Geeker-Admin?content_source_url=https://github.com/vue3/vue3-News)  
-- [vue3 父组件给子组件传递泛型（不用JSX）](https://juejin.cn/post/7229661191073022011?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue3.3.1+TS 全新使用指南](https://juejin.cn/post/7233057834287710267?content_source_url=https://github.com/vue3/vue3-News)  
-- [一个demo体验Vue3.3+TypeScript所有新功能](https://juejin.cn/post/7243321262460731451?content_source_url=https://github.com/vue3/vue3-News)  
-- [全新升级Vue3.3基于ElementPLUS常用封装组件](https://www.bilibili.com/video/BV1or4y1o7jc/?vd_source=e2f5c3cfc007583984f5d1832a68f7f0?content_source_url=https://github.com/vue3/vue3-News)  
-- [能不能更快更好用？Vue3.3正式发布，加速你的开发效率！](https://blog.csdn.net/hkw20/article/details/130641156?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue3.3：瀑布流组件封装](https://www.bilibili.com/video/BV14u4y117Vx?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue 3 notification library](https://github.com/kyvg/vue3-notification?content_source_url=https://github.com/vue3/vue3-News)  
-- [记一次Vue3.3.3 p5-urgent级 bug修复过程](https://juejin.cn/post/7264609364672888888?content_source_url=https://github.com/vue3/vue3-News)  
-- [Vue 3.3 新特性前瞻和简单评价](https://juejin.cn/post/7226619773375152187?content_source_url=https://github.com/vue3/vue3-News)  
-
+- [和 Vue 核心团队成员 sxzz 聊前端学习、参与开源和 Vue3.3](https://www.xiaoyuzhoufm.com/episode/646cd4901672628240ddda8e?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 3.3 发布了，来看看有哪些更新](https://baijiahao.baidu.com/s?id=1765681831438941463&wfr=spider&for=pc?content_source_url=https://github.com/vue3/vue3-News)
+- [通过实例了解 vue3.3 更新的特征](https://www.cnblogs.com/IwishIcould/p/17450015.html?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3.3 的新功能的一些体验](https://www.jianshu.com/p/7e194af200f4?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3.3 正式发布！](https://zhuanlan.zhihu.com/p/628670162?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3.3 + TS4 ，自主打造媲美 ElementPlus 的组件库吾爱分享](https://zhuanlan.zhihu.com/p/646160646?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 3.3 更新，代号“浪客剑心”](https://juejin.cn/post/7231940493256048700?content_source_url=https://github.com/vue3/vue3-News)
+- [vue3：vue3.2 升级至 vue3.3/vue 升级版本](https://blog.csdn.net/snowball_li/article/details/124398732?content_source_url=https://github.com/vue3/vue3-News)
+- [【Vue 核心团队成员】Vue 3.3 主要新特性详解](https://juejin.cn/post/7231940493256032316?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 3.3 亮点解析：不容错过的新特性及其影响](https://juejin.cn/post/7233053557833056317?content_source_url=https://github.com/vue3/vue3-News)
+- [vue3.3 最新发布 defineProps,generic,defineEmits,defineSlots 教程](https://blog.csdn.net/qq_41974199/article/details/130735175?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3.3 + Vite4.3 + Element-Plus + TypeScript 从 0 到 1 搭建企业级后台管理系统（前后端开源）](https://juejin.cn/post/7228990409909108793?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3.3 编译宏](https://juejin.cn/post/7253367284872708154?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3.3+ 中 defineEmits 具名元组写法 eslint 报错](https://juejin.cn/post/7247810665242230839?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3.3 的新功能的体验（下）：泛型组件（Generic Component) 与 defineSlots](https://juejin.cn/post/7234810590875107388?content_source_url=https://github.com/vue3/vue3-News)
+- [【vue3.3】 新特性 - 初体验](https://juejin.cn/post/7241080533169520698?content_source_url=https://github.com/vue3/vue3-News)
+- [Geeker-Admin 一款基于 Vue3.3、TypeScript、Vite4、Pinia、Element-Plus 开源的后台管理框架](https://gitee.com/HalseySpicy/Geeker-Admin?content_source_url=https://github.com/vue3/vue3-News)
+- [vue3 父组件给子组件传递泛型（不用 JSX）](https://juejin.cn/post/7229661191073022011?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3.3.1+TS 全新使用指南](https://juejin.cn/post/7233057834287710267?content_source_url=https://github.com/vue3/vue3-News)
+- [一个 demo 体验 Vue3.3+TypeScript 所有新功能](https://juejin.cn/post/7243321262460731451?content_source_url=https://github.com/vue3/vue3-News)
+- [全新升级 Vue3.3 基于 ElementPLUS 常用封装组件](https://www.bilibili.com/video/BV1or4y1o7jc/?vd_source=e2f5c3cfc007583984f5d1832a68f7f0?content_source_url=https://github.com/vue3/vue3-News)
+- [能不能更快更好用？Vue3.3 正式发布，加速你的开发效率！](https://blog.csdn.net/hkw20/article/details/130641156?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue3.3：瀑布流组件封装](https://www.bilibili.com/video/BV14u4y117Vx?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 3 notification library](https://github.com/kyvg/vue3-notification?content_source_url=https://github.com/vue3/vue3-News)
+- [记一次 Vue3.3.3 p5-urgent 级 bug 修复过程](https://juejin.cn/post/7264609364672888888?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 3.3 新特性前瞻和简单评价](https://juejin.cn/post/7226619773375152187?content_source_url=https://github.com/vue3/vue3-News)
 
 2021 => 我最棒(๑•̀ㅂ•́)و✧
 
