@@ -229,6 +229,38 @@ TODOLIST：
 
 ![v3.0.0 One Piece](https://raw.githubusercontent.com/vue3/vue3-News/master/asset/one-piece.png?sanitize=true)
 
+## Vue3.5+ 生态
+
+**《Vue3.6 性能暴增与开发体验升级》**  
+深度解析 Vue3.6 新特性，包括 Alien Signals 响应式系统升级和 Vapor 模式渲染优化，通过懒加载 Props 和精简 DOM 操作实现 100 毫秒内挂载 10 万组件的性能突破。  
+**《Vue CLI 3+ & Vite 最新技术动态》**  
+GitHub 官方仓库持续更新 Vue3、Vue CLI 3+ 和 Vite 的生态进展，涵盖 2024/2025 年度重大更新内容，推荐开发者关注长期维护版本迁移指南。  
+**《2025 年 Vue3 组件库推荐》**  
+对比 Element Plus、Vuetify 等主流组件库的 Vue3 适配进展，重点分析 Vapor 模式下的组件性能优化策略，以及 TypeScript 类型系统的最新实践。  
+**《Vue Amazing UI 技术解析》**  
+Vue3.5+ 生态下的高灵活组件库，支持 Tree-shaking 和单文件组件风格，整合 64 个 UI 组件与 16 个工具函数，适配高频更新场景。  
+**《GitHub Copilot 指标可视化》**  
+通过 Vue3 实现开发者工具链的智能化监控，包含代码贡献度分析、AI 辅助效率评估等前沿方向，项目单月新增 5,831 星标。  
+**《Vue3 企业级项目迁移实录》**  
+TypeScript 全量替换方案与 Monorepo 架构优化案例，对比 Vue2 的 Options API 和 Vue3 的 Composition API 在大型项目中的协作效率差异。
+
+- [Vue Amazing UI](https://juejin.cn/post/7465259435352916004?content_source_url=https://github.com/vue3/vue3-News)
+- [尤雨溪剧透 Vue 3.6：性能暴增、开发体验再升级，这些新特性值得熬夜等！](https://juejin.cn/post/7478576823612047396?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 源码学习 3.6：计算属性 computed](https://juejin.cn/post/6844904152901025800?content_source_url=https://github.com/vue3/vue3-News)
+- [vue3.6 外星信号具体使用教程](https://juejin.cn/post/7472559467406721043?content_source_url=https://github.com/vue3/vue3-News)
+- [尤雨溪：从 Vue1 到 Vue3.6](https://juejin.cn/post/7469365599132680242?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 3.6 预览，Vapor Mode 性能炸裂！并涵盖大量全新概念](https://juejin.cn/post/7471246544843702308?content_source_url=https://github.com/vue3/vue3-News)
+- [2025 Vue 技术风暴】Vue 3.6 性能革命：Vapor 模式+Alien Signals，如何颠覆前端开发？实战代码解析！](https://juejin.cn/post/7485998798654767114?content_source_url=https://github.com/vue3/vue3-News)
+- [【2025 Vue 小白速成】从零到项目实战：3 天搞定 Vue 3.6 + AI 代码助手，保姆级教程](https://juejin.cn/post/7485965177097814066?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 3.5 版本发布：响应式系统优化，性能飞升与内存锐减 56%](https://blog.csdn.net/qq_65243376/article/details/145548659?content_source_url=https://github.com/vue3/vue3-News)
+- [应该是全网最详细的 Vue3.5 版本解读](https://blog.csdn.net/qq_16242613/article/details/144436461?content_source_url=https://github.com/vue3/vue3-News)
+- [Vue 3.5 响应式系统的详细分析](https://zhuanlan.zhihu.com/p/27718577881?content_source_url=https://github.com/vue3/vue3-News)
+
+**‌Vue Mastery 系列课程**  
+聚焦 Vue3.6 新特性，如 Alien Signals 响应式升级与异步组件懒加载方案 ‌18。  
+**‌Vue.js Core Weekly‌**  
+跟踪 GitHub 仓库更新动态，包括 Vite 插件生态进展与 TypeScript 类型系统最佳实践 ‌16。
+
 ## vue3 更上一层楼
 
 - [Announcing Vue 3.5](https://blog.vuejs.org/posts/vue-3-5?content_source_url=https://github.com/vue3/vue3-News)
