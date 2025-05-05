@@ -229,7 +229,7 @@ TODOLIST：
 
 ![v3.0.0 One Piece](https://raw.githubusercontent.com/vue3/vue3-News/master/asset/one-piece.png?sanitize=true)
 
-## Vue3.5+ 生态
+## Vue3.5/3.6+ 生态
 
 **《Vue3.6 性能暴增与开发体验升级》**  
 深度解析 Vue3.6 新特性，包括 Alien Signals 响应式系统升级和 Vapor 模式渲染优化，通过懒加载 Props 和精简 DOM 操作实现 100 毫秒内挂载 10 万组件的性能突破。  
@@ -244,6 +244,7 @@ Vue3.5+ 生态下的高灵活组件库，支持 Tree-shaking 和单文件组件�
 **《Vue3 企业级项目迁移实录》**  
 TypeScript 全量替换方案与 Monorepo 架构优化案例，对比 Vue2 的 Options API 和 Vue3 的 Composition API 在大型项目中的协作效率差异。
 
+- [Vue3.6 从响应式突破到 Rolldown 未来蓝图，全新体验来袭！](https://blog.csdn.net/fjiex/article/details/145721183?content_source_url=https://github.com/vue3/vue3-News)
 - [Vue Amazing UI](https://juejin.cn/post/7465259435352916004?content_source_url=https://github.com/vue3/vue3-News)
 - [尤雨溪剧透 Vue 3.6：性能暴增、开发体验再升级，这些新特性值得熬夜等！](https://juejin.cn/post/7478576823612047396?content_source_url=https://github.com/vue3/vue3-News)
 - [Vue 源码学习 3.6：计算属性 computed](https://juejin.cn/post/6844904152901025800?content_source_url=https://github.com/vue3/vue3-News)
